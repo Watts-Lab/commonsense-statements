@@ -27,8 +27,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python statement_cleaner.py
-
+          python ./.scripts/statement_cleaner.py
       - name: Commit and push if there are changes
         run: |
           git config --global user.email "6696894+amirrr@users.noreply.github.com"
