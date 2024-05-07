@@ -18,14 +18,16 @@ def check_csv_files(directory):
             try:
                 df = pd.read_csv(filepath)
                 if set(df.columns) != required_columns:
-                    print(f"Error: {filename} does not have the required columns.")
-                    exit_error(f"Error processing {filename}: {e}")
+                    print(
+                        f"Error: {filename} does not have the required columns. Expected: {required_columns}, Found: {set(df.columns)}"
+                    )
+                    exit_error(f"Error processing {filename}")
 
                 duplicates = df[df.duplicated("statement", keep=False)]
                 if not duplicates.empty:
                     print(f"Duplicates found in {filename}:")
                     print(duplicates["statement"])
-                    exit_error(f"Error processing {filename}: {e}")
+                    exit_error(f"Error processing {filename}")
 
                 all_statements.extend(df["statement"].tolist())
 
