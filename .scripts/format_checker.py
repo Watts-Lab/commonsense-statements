@@ -1,5 +1,11 @@
 import pandas as pd
 import os
+import sys
+
+
+def exit_error(message):
+    print("Exiting : ", message)
+    sys.exit(1)
 
 
 def check_csv_files(directory):
@@ -13,24 +19,23 @@ def check_csv_files(directory):
                 df = pd.read_csv(filepath)
                 if set(df.columns) != required_columns:
                     print(f"Error: {filename} does not have the required columns.")
-                    return "Not OK"
+                    exit_error(f"Error processing {filename}: {e}")
 
                 duplicates = df[df.duplicated("statement", keep=False)]
                 if not duplicates.empty:
                     print(f"Duplicates found in {filename}:")
                     print(duplicates["statement"])
-                    return "Not OK"
+                    exit_error(f"Error processing {filename}: {e}")
 
                 all_statements.extend(df["statement"].tolist())
 
             except Exception as e:
-                print(f"Error processing {filename}: {e}")
-                return "Not OK"
+                exit_error(f"Error processing {filename}: {e}")
 
     # Check for overall duplicates across all files
     if len(all_statements) != len(set(all_statements)):
         print("Global duplicates found across multiple files.")
-        return "Not OK"
+        exit_error(f"Error processing {filename}: {e}")
 
     return "OK"
 
