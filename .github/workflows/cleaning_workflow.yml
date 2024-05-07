@@ -23,15 +23,3 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests pandas openai
 
-      - name: Run Python script
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          python ./.scripts/statement_cleaner.py
-      - name: Commit and push if there are changes
-        run: |
-          git config --global user.email "6696894+amirrr@users.noreply.github.com"
-          git config --global user.name "Cleaner Bot"
-          git add -A
-          git commit -m "Update output file" -a || echo "No changes to commit"
-          git push
