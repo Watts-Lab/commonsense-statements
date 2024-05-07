@@ -24,10 +24,13 @@ def check_csv_files(directory):
                         f"Error: {filename} does not have the required columns. Expected: {required_columns}, Found: {set(df.columns)}"
                     )
 
+                # Convert set to list for column indexing
+                required_columns_list = list(required_columns)
+
                 # Check for non-null, non-empty cells in the required columns
                 if (
-                    df[required_columns].isnull().values.any()
-                    or (df[required_columns] == "").any().any()
+                    df[required_columns_list].isnull().values.any()
+                    or (df[required_columns_list] == "").any().any()
                 ):
                     exit_error(
                         f"Error: {filename} contains empty entries in required columns."
