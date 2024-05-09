@@ -21,7 +21,7 @@ DIMENSIONS = [
 ]
 
 tokenizer = AutoTokenizer.from_pretrained(
-    "CSSLab/commonsense-statement-dimension-reasoning", use_auth_token=True
+    "CSSLab/commonsense-statement-dimension-reasoning", token=True
 )
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -29,7 +29,7 @@ MODELS = {}
 for dimension in DIMENSIONS:
     model = AutoModelForSequenceClassification.from_pretrained(
         pretrained_model_name_or_path=f"CSSLab/commonsense-statement-dimension-{dimension}",
-        use_auth_token=True,
+        token=True,
     )
     model.eval()
     MODELS[dimension] = model.to(DEVICE)
@@ -50,3 +50,6 @@ def classify_text(text: str) -> Dict[str, float]:
         scores.append([dimension, score])
     scores = pd.DataFrame(scores, columns=["dimension", "score"])
     return scores
+
+
+print(classify_text("I am happy"))
