@@ -23,7 +23,7 @@ class bcolors:
     UNDERLINE = "\033[4m"
 
 
-from .dimension_checker import process_files
+from dimension_checker import process_files
 
 login(token=os.getenv("HUGGINGFACE_TOKEN"))
 
