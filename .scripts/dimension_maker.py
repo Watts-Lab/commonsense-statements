@@ -7,7 +7,23 @@ from transformers import (
 from typing import Dict
 import os
 import pandas as pd
+import swifter
 from huggingface_hub import login
+
+
+class bcolors:
+    HEADER = "\033[95m"
+    OKBLUE = "\033[94m"
+    OKCYAN = "\033[96m"
+    OKGREEN = "\033[92m"
+    WARNING = "\033[93m"
+    FAIL = "\033[91m"
+    ENDC = "\033[0m"
+    BOLD = "\033[1m"
+    UNDERLINE = "\033[4m"
+
+
+from .dimension_checker import process_files
 
 login(token=os.getenv("HUGGINGFACE_TOKEN"))
 
@@ -40,16 +56,28 @@ def classify_text(text: str) -> Dict[str, float]:
     inputs = tokenizer([text], padding=True, truncation=True, return_tensors="pt").to(
         DEVICE
     )
-    scores = []
+    scores = dict()
     for dimension in DIMENSIONS:
         model = MODELS[dimension]
         outputs = model(**inputs)
         outputs = torch.softmax(outputs.logits, dim=1)
         outputs = outputs[:, 1]
         score = outputs.detach().cpu().numpy()[0]
-        scores.append([dimension, score])
-    scores = pd.DataFrame(scores, columns=["dimension", "score"])
-    return scores
+        scores[dimension] = float(score)
+    return pd.Series(scores)
 
 
-print(classify_text("I am happy"))
+if __name__ == "__main__":
+    all_statements_df = process_files("raw_statements", "processed_statements")
+    print(f"{bcolors.OKBLUE}Imported all statements from raw statements.{bcolors.ENDC}")
+
+    ratings_df = all_statements_df["statement"].swifter.apply(classify_text)
+
+    all_statements_df = all_statements_df.join(ratings_df)
+
+    all_statements_df.to_csv("features/ratings.csv", index=False)
+
+    print(f"{bcolors.OKGREEN}All statements have been rated and saved to features/ratings.csv{bcolors.ENDC}")
+
+    print(all_statements_df.head(5))
+

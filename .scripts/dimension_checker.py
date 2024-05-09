@@ -19,6 +19,9 @@ def calculate_hash(statement):
 
 
 def process_files(input_folder, output_folder):
+
+    all_dataframes = []
+
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
@@ -32,17 +35,21 @@ def process_files(input_folder, output_folder):
                 # Calculate hash for each statement
                 df["hash"] = df["statement"].apply(calculate_hash)
 
-                for dimension in DIMENSIONS:
-                    df[dimension] = False
-
-                output_df = df[["statement", "hash"] + DIMENSIONS]
+                output_df = df[["statement", "hash"]]
 
                 output_filename = filename.split(".")[0] + "_properties.csv"
                 output_file_path = os.path.join(output_folder, output_filename)
                 output_df.to_csv(output_file_path, index=False)
+
+                all_dataframes.append(output_df)
+
                 print(f"Processed {filename} and saved to {output_filename}")
             else:
                 print(f"No 'statement' column in {filename}")
+
+    # Combine all dataframes into one
+    combined_df = pd.concat(all_dataframes)
+    return combined_df
 
 
 if __name__ == "__main__":
