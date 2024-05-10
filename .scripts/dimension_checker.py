@@ -58,7 +58,7 @@ def process_files(input_folder, output_folder, save_combined=False):
 
         # Combine all dataframes into one
         combined_df = pd.concat(all_dataframes)
-        return combined_df.head(20)
+        return combined_df
 
     except Exception as e:
         exit_error(f"Error processing files: {e}")
