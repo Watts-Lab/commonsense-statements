@@ -11,6 +11,9 @@ import swifter
 from huggingface_hub import login
 
 
+from dimension_checker import process_files, get_unique_rows_by_hash
+
+
 class bcolors:
     HEADER = "\033[95m"
     OKBLUE = "\033[94m"
@@ -22,8 +25,6 @@ class bcolors:
     BOLD = "\033[1m"
     UNDERLINE = "\033[4m"
 
-
-from dimension_checker import process_files
 
 login(token=os.getenv("HUGGINGFACE_TOKEN"))
 
@@ -77,14 +78,24 @@ if __name__ == "__main__":
         )
         exit(1)
 
+    old_ratings_df = pd.read_csv("features/ratings.csv")
+
+    if old_ratings_df is None:
+        print(
+            f"{bcolors.FAIL}No ratings found in features/ratings.csv. Creating a new file.{bcolors.ENDC}"
+        )
+        old_ratings_df = pd.DataFrame()
+
+    all_statements_df = get_unique_rows_by_hash(all_statements_df, old_ratings_df)
+
     ratings_df = all_statements_df["statement"].swifter.apply(classify_text)
 
     all_statements_df = all_statements_df.join(ratings_df)
 
-    all_statements_df.to_csv("features/ratings.csv", index=False)
+    new_ratings_df = pd.concat([old_ratings_df, all_statements_df], ignore_index=True)
+
+    new_ratings_df.to_csv("features/ratings.csv", index=False)
 
     print(
         f"{bcolors.OKGREEN}All statements have been rated and saved to features/ratings.csv{bcolors.ENDC}"
     )
-
-    print(all_statements_df.head(20))
