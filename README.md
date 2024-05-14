@@ -35,7 +35,7 @@ To add your data correctly, follow these step-by-step instructions:
 
 1. **Create a New Branch**
    - Avoid making changes directly to the main branch.
-   - Name the branch meaningfully, related to your changes, e.g., `feature-add-statements-{yourname}`.
+   - Name the branch meaningfully, related to your changes, e.g., `add-statements-{yourname}`.
 
 2. **Adding Data**
    - Place your correctly formatted CSV file into the `raw_statements` folder.
