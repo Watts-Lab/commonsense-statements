@@ -1,0 +1,53 @@
+name: Update Platform Database
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  update-db:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - name: Get GitHub action IP
+        id: ip
+        uses: haythem/public-ip@v1.2
+
+      - name: Setting environment variables
+        run: |
+          echo "AWS_DEFAULT_REGION=us-east-1" >> $GITHUB_ENV
+          echo "AWS_SG_NAME=RDS_Security_Group" >> $GITHUB_ENV
+          echo "DB_NAME=commonsense" >> $GITHUB_ENV
+          echo "DB_TABLE=statements" >> $GITHUB_ENV
+
+      - name: Add GitHub Actions IP to Security group
+        run: |
+          aws ec2 authorize-security-group-ingress --group-id ${{ secrets.AWS_SG_ID }} --protocol tcp --port 3306 --cidr ${{ steps.ip.outputs.ipv4 }}/32
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ env.AWS_DEFAULT_REGION }}
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-pip
+          pip3 install psycopg2-binary
+
+    #   - name: Run Python script to update RDS database
+    #     run: python3 insert_data.py
+    #     env:
+    #       RDS_HOST: ${{ secrets.RDS_HOST }}
+    #       RDS_USER: ${{ secrets.RDS_USER }}
+    #       RDS_PASSWORD: ${{ secrets.RDS_PASSWORD }}
+    #       DB_NAME: ${{ env.DB_NAME }}
+    #       DB_TABLE: ${{ env.DB_TABLE }}
+
+      - name: Remove GitHub Actions IP from security group
+        run: |
+          aws ec2 revoke-security-group-ingress --group-id ${{ env.AWS_SG_NAME }} --protocol tcp --port 3306 --cidr ${{ steps.ip.outputs.ipv4 }}/32
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ env.AWS_DEFAULT_REGION }}
+        if: always()
