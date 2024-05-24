@@ -88,6 +88,11 @@ if __name__ == "__main__":
 
     all_statements_df = get_unique_rows_by_hash(all_statements_df, old_ratings_df)
 
+    # Check if there are any new statements to rate
+    if all_statements_df.empty:
+        print(f"{bcolors.FAIL}No new statements found to rate.{bcolors.ENDC}")
+        exit()
+
     ratings_df = all_statements_df["statement"].swifter.apply(classify_text)
 
     all_statements_df = all_statements_df.join(ratings_df)
