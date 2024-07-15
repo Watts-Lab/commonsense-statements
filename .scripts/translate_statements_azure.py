@@ -41,17 +41,21 @@ def translate_text(text, tgt_lng):
     return result[0]['translations'][0]['text']
 
 # translate each file
-for file in files:
-    df = pd.read_csv(file)
-    for lng in languages:
-        translated_statements = df['statement'].apply(lambda x: translate_text(x, lng))
-        translated_df = df.copy()
-        translated_df['statement'] = translated_statements
-        translated_df['elicitation'] = 'microsoft azure text translation'
-        translated_df['committer'] = 'Dan'
+def translate_files(files):
+    for file in files:
+        df = pd.read_csv(file)
+        for lng in languages:
+            translated_statements = df['statement'].apply(lambda x: translate_text(x, lng))
+            translated_df = df.copy()
+            translated_df['statement'] = translated_statements
+            translated_df['elicitation'] = 'microsoft azure text translation'
+            translated_df['committer'] = 'Dan'
 
-        filename = os.path.splitext(file)[0]
-        translated_file = f'{filename}_{lng}.csv'
-        translated_df.to_csv(translated_file, index=False)
+            filename = os.path.splitext(file)[0]
+            translated_file = f'{filename}_{lng}.csv'
+            translated_df.to_csv(translated_file, index=False)
 
-        print(f'Translated {file} to {lng} and saved as {translated_file}')
+            print(f'Translated {file} to {lng} and saved as {translated_file}')
+
+# call the function to translate the files
+translate_files(files)
