@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import boto3
+import sys
 
 # set up authentication key and endpoint
 aws_access_key_id = os.environ['AWS_ACCESS_KEY_ID']
@@ -42,13 +43,19 @@ def translate_files(files, elicitation, committer):
 
             filename = os.path.splitext(file)[0]
             translated_file = f'{filename}_{lng}.csv'
-            translated_df.to_csv(translated_file, index=False)
+            translated_df.to_csv(f'raw_statements/{translated_file}', index=False)
 
             print(f'Translated {file} to {lng} and saved as {translated_file}')
 
 if __name__ == "__main__":
-    files = [
-        'raw_statements/email_statements.csv'
-    ]
+    if len(sys.argv) < 4:
+        print("Usage: python translate.py <comma-separated list of files> <elicitation> <committer>")
+        sys.exit(1)
 
-    translate_files(files, 'amazon translate', 'Dan')
+    files = sys.argv[1]
+    files = files[0].split(',')
+    files = [file.strip() for file in files]
+    elicitation = sys.argv[2]
+    committer = sys.argv[3]
+
+    translate_files(files, elicitation, committer)

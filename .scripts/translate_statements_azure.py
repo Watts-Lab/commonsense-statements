@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import requests
 import uuid
+import sys
 
 # set up authentication key and endpoint
 azure_key = os.environ['AZURE_TRANSLATE_SERVICE_KEY']
@@ -52,9 +53,14 @@ def translate_files(files, elicitation, committer):
             print(f'Translated {file} to {lng} and saved as {translated_file}')
 
 if __name__ == "__main__":
-    files = [
-        'raw_statements/news_statements_amir.csv', 
-        'raw_statements/observable_gpt4o.csv'
-    ]
-    
-    translate_files(files, 'microsoft azure text translation', 'Dan')
+    if len(sys.argv) < 4:
+        print("Usage: python translate.py <comma-separated list of files> <elicitation> <committer>")
+        sys.exit(1)
+
+    files = sys.argv[1]
+    files = files[0].split(',')
+    files = [file.strip() for file in files]
+    elicitation = sys.argv[2]
+    committer = sys.argv[3]
+
+    translate_files(files, elicitation, committer)
