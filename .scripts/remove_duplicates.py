@@ -3,63 +3,17 @@ import os
 import ast
 import sys
 
+# create a new directory to store the cleaned statements
 os.makedirs('raw_statements_cleaned', exist_ok=True)
 
-# define any necessary paths
-observable_translated_statements = ['raw_statements/observable_gpt4o_ar.csv',
-                        'raw_statements/observable_gpt4o_bn.csv',
-                        'raw_statements/observable_gpt4o_es.csv',
-                        'raw_statements/observable_gpt4o_fr.csv',
-                        'raw_statements/observable_gpt4o_hi.csv',
-                        'raw_statements/observable_gpt4o_ja.csv',
-                        'raw_statements/observable_gpt4o_pt.csv',
-                        'raw_statements/observable_gpt4o_ru.csv',
-                        'raw_statements/observable_gpt4o_zh.csv',
-]
-
-observable_duplicate_statements = ['duplicate_statements/observable_gpt4o_ar_duplicates.csv', 
-                        'duplicate_statements/observable_gpt4o_bn_duplicates.csv',
-                        'duplicate_statements/observable_gpt4o_es_duplicates.csv',
-                        'duplicate_statements/observable_gpt4o_fr_duplicates.csv',
-                        'duplicate_statements/observable_gpt4o_hi_duplicates.csv',
-                        'duplicate_statements/observable_gpt4o_ja_duplicates.csv',
-                        'duplicate_statements/observable_gpt4o_pt_duplicates.csv',
-                        'duplicate_statements/observable_gpt4o_ru_duplicates.csv',
-                        'duplicate_statements/observable_gpt4o_zh_duplicates.csv'
-]
-
-email_translated_statements = ['raw_statements/email_statements_ar.csv',
-                               'raw_statements/email_statements_bn.csv',
-                               'raw_statements/email_statements_es.csv',
-                               'raw_statements/email_statements_fr.csv',
-                               'raw_statements/email_statements_hi.csv',
-                               'raw_statements/email_statements_ja.csv',
-                               'raw_statements/email_statements_pt.csv',
-                               'raw_statements/email_statements_ru.csv',
-                               'raw_statements/email_statements_zh.csv',
-]
-
-email_duplicate_statements = ['duplicate_statements/email_statements_ar_duplicates.csv',
-                        'duplicate_statements/email_statements_bn_duplicates.csv',
-                        'duplicate_statements/email_statements_es_duplicates.csv',
-                        'duplicate_statements/email_statements_fr_duplicates.csv',
-                        'duplicate_statements/email_statements_hi_duplicates.csv',
-                        'duplicate_statements/email_statements_ja_duplicates.csv',
-                        'duplicate_statements/email_statements_pt_duplicates.csv',
-                        'duplicate_statements/email_statements_ru_duplicates.csv',
-                        'duplicate_statements/email_statements_zh_duplicates.csv'
-]
-
-# helper function that removes indices of duplicate statements from the original CSV and their translations
+# function that removes duplicate statements across files and their corresponding translation files
 def remove_duplicates(original_csv, duplicate_statements, translated_statements):
-    indices_to_remove = set() # stores the indices of the rows to remove 
+    indices_to_remove = set() 
     original_df = pd.read_csv(original_csv)
 
-    # iterate through each duplicate CSV corresponding to the original CSV
     for duplicate_csv in duplicate_statements:
         duplicate_df = pd.read_csv(duplicate_csv)
 
-        # iterate through each group
         for i in range(0, len(duplicate_df)): 
             group = ast.literal_eval(duplicate_df.at[i, 'line_and_statement'])
             min_length = sys.maxsize
@@ -72,7 +26,6 @@ def remove_duplicates(original_csv, duplicate_statements, translated_statements)
                     min_length = len(original_statement)
                     index_to_not_remove = int(line_number) - 2
 
-            # add all indices except the index of the shortest statement to indices_to_remove
             for line_number in group.keys():
                 if int(line_number) - 2 != index_to_not_remove:
                     indices_to_remove.add(int(line_number) -2)
@@ -97,20 +50,7 @@ def remove_duplicates(original_csv, duplicate_statements, translated_statements)
     print(f"removed {len(indices_to_remove)} duplicates")
     print('-----------------')
 
-# call the function to standardize observable_gpt4o statements and across all their translations
-remove_duplicates('raw_statements/observable_gpt4o.csv', 
-                  observable_duplicate_statements, 
-                  observable_translated_statements)
-
-# call the function to standardize email statements and across all their translations
-remove_duplicates('raw_statements/email_statements.csv', 
-                  email_duplicate_statements, 
-                  email_translated_statements)
-
-"""
-Test the number of lines is the same across all files and across their translations
-"""
-
+# function that tests the number of lines across files is the same
 def test_line_numbers(original_csv, translated_statements):
     original_df = pd.read_csv(original_csv)
     original_lines = len(original_df)
@@ -124,27 +64,25 @@ def test_line_numbers(original_csv, translated_statements):
     print("All files have the same number of lines")
     return True
 
-observable_translated_statements_cleaned = ['raw_statements_cleaned/observable_gpt4o_ar.csv',
-                                            'raw_statements_cleaned/observable_gpt4o_bn.csv',
-                        'raw_statements_cleaned/observable_gpt4o_es.csv',
-                        'raw_statements_cleaned/observable_gpt4o_fr.csv',
-                        'raw_statements_cleaned/observable_gpt4o_hi.csv',
-                        'raw_statements_cleaned/observable_gpt4o_ja.csv',
-                        'raw_statements_cleaned/observable_gpt4o_pt.csv',
-                        'raw_statements_cleaned/observable_gpt4o_ru.csv',
-                        'raw_statements_cleaned/observable_gpt4o_zh.csv'
-]
+if __name__ == "__main__":
+    languages = ['ar','bn','es','fr','hi','ja','pt','ru','zh']
 
-email_translated_statements_cleaned = ['raw_statements_cleaned/email_statements_ar.csv',
-                                       'raw_statements_cleaned/email_statements_bn.csv',
-                                      'raw_statements_cleaned/email_statements_es.csv',
-                                      'raw_statements_cleaned/email_statements_fr.csv',
-                                      'raw_statements_cleaned/email_statements_hi.csv',
-                                      'raw_statements_cleaned/email_statements_ja.csv',
-                                      'raw_statements_cleaned/email_statements_pt.csv',
-                                      'raw_statements_cleaned/email_statements_ru.csv',
-                                      'raw_statements_cleaned/email_statements_zh.csv',
-]
+    observable_translated_statements = [f'raw_statements/observable_gpt4o_{language}.csv' for language in languages]
+    observable_duplicate_statements = [f'duplicate_statements/observable_gpt4o_{language}_duplicates.csv' for language in languages]
 
-test_line_numbers('raw_statements_cleaned/observable_gpt4o.csv', observable_translated_statements_cleaned)
-test_line_numbers('raw_statements_cleaned/email_statements.csv', email_translated_statements_cleaned)
+    email_translated_statements = [f'raw_statements/email_statements_{language}.csv' for language in languages]
+    email_duplicate_statements = [f'duplicate_statements/email_statements_{language}_duplicates.csv' for language in languages]
+
+    remove_duplicates('raw_statements/observable_gpt4o.csv', 
+                  observable_duplicate_statements, 
+                  observable_translated_statements)
+
+    remove_duplicates('raw_statements/email_statements.csv', 
+                    email_duplicate_statements, 
+                    email_translated_statements)
+    
+    observable_translated_statements_cleaned = [f'raw_statements_cleaned/observable_gpt4o_{language}.csv' for language in languages]
+    email_translated_statements_cleaned = [f'raw_statements_cleaned/email_statements_{language}.csv' for language in languages]
+
+    test_line_numbers('raw_statements_cleaned/observable_gpt4o.csv', observable_translated_statements_cleaned)
+    test_line_numbers('raw_statements_cleaned/email_statements.csv', email_translated_statements_cleaned)
