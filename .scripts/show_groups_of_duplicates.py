@@ -44,8 +44,8 @@ def show_groups_of_duplicates(directory):
                     lambda x: x.set_index('line_number')['statement'].to_dict(), include_groups=False 
                 ).reset_index().rename(columns={0: 'line_and_statement'})
 
-                result_df.to_csv(f'duplicate_statements/{filename}_duplicates.csv', index=False)
-                print("Grouped duplicates have been saved to grouped_duplicates.csv")
+                result_df.to_csv(f"duplicate_statements/{filename.split('.')[0]}_duplicates.csv", index=False)
+                print(f"Grouped duplicates have been saved to duplicate_statements/{filename.split('.')[0]}_duplicates.csv")
         else:
             print("No duplicates found.")
 
