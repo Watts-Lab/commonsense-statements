@@ -8,6 +8,7 @@ aws_access_key_id = os.environ['AWS_ACCESS_KEY_ID']
 aws_secret_access_key = os.environ['AWS_SECRET_ACCESS_KEY']
 region_name = 'us-east-1' 
 
+
 # initialize amazon translate client
 translate_client = boto3.client(
     service_name='translate', 
@@ -43,7 +44,7 @@ def translate_files(files, elicitation, committer):
 
             filename = os.path.splitext(file)[0]
             translated_file = f'{filename}_{lng}.csv'
-            translated_df.to_csv(f'raw_statements/{translated_file}', index=False)
+            translated_df.to_csv(translated_file, index=False)
 
             print(f'Translated {file} to {lng} and saved as {translated_file}')
 
@@ -53,9 +54,13 @@ if __name__ == "__main__":
         sys.exit(1)
 
     files = sys.argv[1]
-    files = files[0].split(',')
-    files = [file.strip() for file in files]
+    files = files.split(',')
+    files = [f'raw_statements/{file.strip()}' for file in files]
     elicitation = sys.argv[2]
     committer = sys.argv[3]
+
+    print(f"File: {files}")
+    print(f"Elicitation: {elicitation}")
+    print(f"Committer: {committer}")
 
     translate_files(files, elicitation, committer)

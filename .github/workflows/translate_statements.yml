@@ -13,7 +13,9 @@ on:
       committer:
         description: 'Committer name'
         required: true
-        default: 'Dan'
+
+permissions:
+  contents: write  
 
 jobs:
   translate_statements:
@@ -21,13 +23,11 @@ jobs:
 
     env:
       AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCEScS_KEY }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with: 
-          token: ${{ secrets.PAT }}
 
     - name: Set up Python 3.9
       uses: actions/setup-python@v5
@@ -44,16 +44,11 @@ jobs:
         FILES="${{ github.event.inputs.files }}"
         ELICITATION="${{ github.event.inputs.elicitation }}"
         COMMITTER="${{ github.event.inputs.committer }}"
-        IFS=',' read -ra FILE_ARRAY <<< "$FILES"
-        for file in "${FILE_ARRAY[@]}"; do
-          python translate_statements_aws.py "raw_statements/$file" "$ELICITATION" "$COMMITTER"
-        done
-
-    - name: Commit and push translated files
-      run: | 
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "github-actions[bot]"
-        git add raw_statements/*.csv 
-        git commit -m "translate statements"
-        git push
-      if: success()
+        echo "Files to translate: $FILES"
+        python .scripts/translate_statements_aws.py "$FILES" "$ELICITATION" "$COMMITTER"
+      
+    - name: Commit and push changes
+      uses: devops-infra/action-commit-push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        commit_message: translate statements
