@@ -3,11 +3,10 @@ import pandas as pd
 import boto3
 import sys
 
-# set up authentication key and endpoint
+# set up credentials
 aws_access_key_id = os.environ['AWS_ACCESS_KEY_ID']
 aws_secret_access_key = os.environ['AWS_SECRET_ACCESS_KEY']
 region_name = 'us-east-1' 
-
 
 # initialize amazon translate client
 translate_client = boto3.client(
@@ -20,8 +19,17 @@ translate_client = boto3.client(
 # define the supported languages
 languages = ['ar','bn','es','fr','hi','ja','pt','ru','zh']
 
-# translate text via a call to AWS API 
-# api doc: https://docs.aws.amazon.com/translate/latest/APIReference/API_TranslateText.html
+"""
+Function that translates text to the given target language
+
+Parameters:
+- text: the text to be translated
+- tgt_lng: the target language code
+
+Returns: the translated text
+
+API reference: https://docs.aws.amazon.com/translate/latest/APIReference/API_TranslateText.html
+"""
 def translate_text(text, tgt_lng):
     result = translate_client.translate_text(
         Text=text,
@@ -30,7 +38,16 @@ def translate_text(text, tgt_lng):
     )
     return result['TranslatedText']
 
-# function that translates each file
+"""
+Function to translate each statement in multiple CSV files and save them to raw_statements folder
+
+Parameters: 
+- files: list of CSV files to be translated
+- elicitation: the elicitation method
+- committer: the committer's name
+
+Returns: the total number of characters translated (for API cost calculation)
+"""
 def translate_files(files, elicitation, committer):
     total_characters = 0
     for file in files:
@@ -46,7 +63,6 @@ def translate_files(files, elicitation, committer):
             filename = os.path.splitext(file)[0]
             translated_file = f'{filename}_{lng}.csv'
             translated_df.to_csv(translated_file, index=False)
-
             print(f'Translated {file} to {lng} and saved as {translated_file}')
 
     return total_characters
@@ -62,7 +78,7 @@ if __name__ == "__main__":
     elicitation = sys.argv[2]
     committer = sys.argv[3]
 
-    print(f"File: {files}")
+    print(f"File: {files}") 
     print(f"Elicitation: {elicitation}")
     print(f"Committer: {committer}")
 

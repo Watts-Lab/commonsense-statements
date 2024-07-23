@@ -12,8 +12,17 @@ location = 'eastus'
 # define the supported languages
 languages = ['ar','bn','es','fr','hi','ja','pt','ru','zh']
 
-# translate text via the Microsoft Translator's REST API 
-# api doc: https://learn.microsoft.com/en-us/azure/ai-services/translator/quickstart-text-rest-api?tabs=python
+"""
+Function that translates text to the given target language
+
+Parameters:
+- text: the text to be translated
+- tgt_lng: the target language code
+
+Returns: the translated text
+
+API reference: https://learn.microsoft.com/en-us/azure/ai-services/translator/quickstart-text-rest-api?tabs=python
+"""
 def translate_text(text, tgt_lng):
     path = '/translate?api-version=3.0'
     params = '&to=' + tgt_lng
@@ -35,7 +44,16 @@ def translate_text(text, tgt_lng):
     result = response.json()
     return result[0]['translations'][0]['text']
 
-# translate each file
+"""
+Function to translate each statement in multiple CSV files and save them to raw_statements folder
+
+Parameters: 
+- files: list of CSV files to be translated
+- elicitation: the elicitation method
+- committer: the committer's name
+
+Returns: the total number of characters translated (for API cost calculation)
+"""
 def translate_files(files, elicitation, committer):
     total_characters = 0
 
@@ -59,7 +77,7 @@ def translate_files(files, elicitation, committer):
 
 if __name__ == "__main__":
     if len(sys.argv) < 4:
-        print("Usage: python ./.scripts/translate_statements_aws.py <comma-separated list of files> <elicitation> <committer>")
+        print("Usage: python ./.scripts/translate_statements_azure.py <comma-separated list of files> <elicitation> <committer>")
         sys.exit(1)
 
     files = sys.argv[1]

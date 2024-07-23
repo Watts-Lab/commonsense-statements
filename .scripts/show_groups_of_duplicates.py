@@ -8,6 +8,12 @@ pd.set_option('display.width', None)
 
 os.makedirs('duplicate_statements', exist_ok=True)
 
+"""
+Function to find and group duplicate statements in CSV files within a specified directory
+
+Parameters:
+- directory: the directory containing the CSV files to be processed
+"""
 def show_groups_of_duplicates(directory):
     for filename in os.listdir(directory):
         if not filename.endswith(".csv"):

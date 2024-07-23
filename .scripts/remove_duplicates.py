@@ -3,7 +3,14 @@ import os
 import ast
 import sys
 
-# function that removes duplicate statements across files and their corresponding translation files
+"""
+Function to remove duplicate statements across files and their corresponding translation files
+
+Parameters:
+- original_csv: path to the original CSV file containing statements
+- duplicate_statements: list of paths to CSV files containing duplicate statements information
+- translated_statements: list of paths to translated CSV files corresponding to the original file
+"""
 def remove_duplicates(original_csv, duplicate_statements, translated_statements):
     indices_to_remove = set() 
     original_df = pd.read_csv(original_csv)
