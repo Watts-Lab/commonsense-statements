@@ -1,9 +1,6 @@
 name: Check Statements Format
 
-on: 
-  push:
-    branches:
-      - '**'
+on: [push]
 
 permissions:
   contents: read
