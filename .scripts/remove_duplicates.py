@@ -7,9 +7,9 @@ import sys
 Function to remove duplicate statements across files and their corresponding translation files
 
 Parameters:
-- original_csv: path to the original CSV file containing statements
-- duplicate_statements: list of paths to CSV files containing duplicate statements information
-- translated_statements: list of paths to translated CSV files corresponding to the original file
+- original_csv: path to the original CSV file containing English statements
+- duplicate_statements: list of paths to CSV files containing duplicate statements 
+- translated_statements: list of paths to CSV files containing translated statements
 """
 def remove_duplicates(original_csv, duplicate_statements, translated_statements):
     indices_to_remove = set() 
