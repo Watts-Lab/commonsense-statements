@@ -45,7 +45,7 @@ def remove_duplicates(original_csv, duplicate_statements, translated_statements)
             translated_df.reset_index(drop=True)
             translated_output_file = f'raw_statements/{os.path.basename(translated_csv)}'
             translated_df.to_csv(translated_output_file, index=False)
-            print(f"Cleaned original file has been saved to {translated_output_file}")
+            print(f"Cleaned translated file has been saved to {translated_output_file}")
             print(f"removed {len(indices_to_remove)} duplicates")
             print('-----------------')
 
