@@ -1,0 +1,29 @@
+name: Calculate Translation Cost
+
+on: [push]
+
+jobs:
+  calculate_cost:
+    runs-on: ubuntu-latest
+
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas boto3
+
+    - name: Run calculate_translation_cost script
+      run: |
+        python ./.scripts/calculate_translation_cost.py
