@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import requests
 import uuid
-import sys
+import argparse
 
 # set up authentication key and endpoint
 azure_key = os.environ['AZURE_TRANSLATE_SERVICE_KEY']
@@ -76,17 +76,19 @@ def translate_files(files, elicitation, committer):
     return total_characters
 
 if __name__ == "__main__":
-    if len(sys.argv) < 4:
-        print("Usage: python ./.scripts/translate_statements_azure.py <comma-separated list of files> <elicitation> <committer>")
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description='Translate statements to multiple languages using AWS Translate')
+    parser.add_argument('files', type=str, help='comma-separated list of files')
+    parser.add_argument('elicitation', type=str, help='the elicitation method')
+    parser.add_argument('committer', type=str, help='the committer\'s name')
 
-    files = sys.argv[1]
+    args = parser.parse_args()
+    files = args.files
     files = files.split(',')
     files = [f'raw_statements/{file.strip()}' for file in files]
-    elicitation = sys.argv[2]
-    committer = sys.argv[3]
+    elicitation = args.elicitation
+    committer = args.committer
 
-    print(f"File: {files}")
+    print(f"File: {files}") 
     print(f"Elicitation: {elicitation}")
     print(f"Committer: {committer}")
 

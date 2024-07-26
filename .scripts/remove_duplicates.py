@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import ast
 import sys
+import argparse
 
 """
 Function to remove duplicate statements across files and their corresponding translation files
@@ -28,14 +29,18 @@ def remove_duplicates(original_csv, duplicate_statements, translated_statements)
 
             # remove the longest statements, keep the shortest one
             for line_number in group.keys():
+                if int(line_number) - 2 not in original_df.index:
+                    print(f"Warning: Index {int(line_number) - 2} for line number {line_number} not found in original dataframe.")
+                    continue
+
                 original_statement = original_df.at[int(line_number) - 2, 'statement']
                 if len(original_statement) < min_length:
                     min_length = len(original_statement)
                     index_to_not_remove = int(line_number) - 2
 
             for line_number in group.keys():
-                if int(line_number) - 2 != index_to_not_remove:
-                    indices_to_remove.add(int(line_number) -2)
+                if int(line_number) - 2 != index_to_not_remove and (int(line_number) - 2 in original_df.index):
+                    indices_to_remove.add(int(line_number) - 2)
     
     if indices_to_remove:
         # remove the duplicate indices from the translated CSVs
@@ -59,11 +64,11 @@ def remove_duplicates(original_csv, duplicate_statements, translated_statements)
         print('-----------------')
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python ./.scripts/remove_duplicates.py <comma-separated list of files>")
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description='Remove duplicate statements from CSV files')
+    parser.add_argument('files', type=str, help='comma-separated list of files')
 
-    files = sys.argv[1]
+    args = parser.parse_args()
+    files = args.files
     files = files.split(',')
     files = [file.strip().split('.')[0] for file in files]
     print(f'files: {files}')

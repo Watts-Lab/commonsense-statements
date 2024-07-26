@@ -3,6 +3,7 @@ import pandas as pd
 import json
 import boto3
 from botocore.config import Config
+import sys
 
 # define the supported languages
 languages = ['ar','bn','es','fr','hi','ja','pt','ru','zh']
@@ -27,6 +28,10 @@ client = boto3.client(
         aws_access_key_id=aws_access_key_id, 
         aws_secret_access_key=aws_secret_access_key 
 )
+
+def exit_error(message):
+    print("Exiting:", message)
+    sys.exit(1)
 
 """
 Function that retrieves up-to-date pricing information dynamically via the AWS Price List Query API
@@ -83,14 +88,15 @@ def total_cost(directory):
             
             # Amazon Translate pricing: https://aws.amazon.com/translate/pricing/
             total_characters_for_file = df['statement'].apply(len).sum() * len(languages)
-
-            cost_per_character = get_price_per_character()
-            if cost_per_character is None:
-                return
-            total_cost = total_characters_for_file * cost_per_character
-            print(f"{filename} still needs to be translated in 9 new languages. This would require translating {total_characters_for_file} characters." )
-            print(f"It will cost approximately ${total_cost:.2f} to complete these translations.")
-            print('-----------------')
+            
+            try:
+                cost_per_character = get_price_per_character()
+                total_cost = total_characters_for_file * cost_per_character
+                print(f"{filename} still needs to be translated in 9 new languages. This would require translating {total_characters_for_file} characters." )
+                print(f"It will cost approximately ${total_cost:.2f} to complete these translations.")
+                print('-----------------')
+            except Exception as e:
+                exit_error(f"Error: {e}")
 
 if __name__ == "__main__":
     total_cost("raw_statements")
