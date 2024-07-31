@@ -36,7 +36,7 @@ def normalize_statement(statement, lng):
     # replace quoted substrings (if any) back into their original positions after cleaning
     for quoted_substring in quoted_substrings:
         print(f'quoted substring: {quoted_substring}\n')
-        cleaned = re.sub(re.escape(quoted_substring.strip(whitespace + punctuation)), quoted_substring, cleaned) 
+        cleaned = re.sub(re.escape(quoted_substring.strip(whitespace + punctuation)), f'\"{quoted_substring}\"', cleaned) 
     
     print(f'cleaned: {cleaned}\n')
     return cleaned

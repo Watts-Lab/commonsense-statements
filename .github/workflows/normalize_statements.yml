@@ -1,0 +1,31 @@
+name: Normalize Statements
+
+on: [push]
+
+jobs:
+  normalize-statements:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas 
+
+    - name: Run normalize_statements.py script
+      run: |
+        python ./.scripts/normalize_statements.py
+    
+    - name: Commit and push changes
+      uses: devops-infra/action-commit-push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        commit_message: normalize statements
