@@ -33,9 +33,10 @@ API reference: https://docs.aws.amazon.com/translate/latest/APIReference/API_Tra
 """
 
 
-def translate_text(text: str, tgt_lng: str) -> str:
+def translate_text(text: str, language: str) -> str:
+    text = str(text)
     result = translate_client.translate_text(
-        Text=text, SourceLanguageCode="en", TargetLanguageCode=tgt_lng
+        Text=text, SourceLanguageCode="en", TargetLanguageCode=language
     )
     return result["TranslatedText"]
 
@@ -59,8 +60,8 @@ def translate_files(files, elicitation, committer):
         for lng in languages:
             print(f"Translating to {lng}...")
 
-            translated_statements = df["statement"].swifter.apply(
-                lambda x: translate_text(x, lng)
+            translated_statements = df["statement"].swifter.progress_bar(enable=True).apply(
+                translate_text, language=lng
             )
 
             total_characters += (
