@@ -57,6 +57,7 @@ def translate_files(files, elicitation, committer):
     for file in files:
         df = pd.read_csv(file)
         for lng in languages:
+            print(f"Translating to {lng}...")
             translated_statements = df["statement"].swifter.apply(
                 lambda x: translate_text(x, lng)
             )
