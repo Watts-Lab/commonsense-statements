@@ -4,7 +4,7 @@ on:
   workflow_dispatch: 
     inputs:
       files:
-        description: 'Comma-separated list of files to translate in the raw_statements folder'
+        description: 'Comma-separated list of files to translate in the raw_statements folder (ie. original_statements_en.csv, email_statements_en.csv)'
         required: true
       elicitation:
         description: 'Elicitation method'

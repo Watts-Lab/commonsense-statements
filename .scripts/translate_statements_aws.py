@@ -36,6 +36,7 @@ def translate_text(text, tgt_lng):
         SourceLanguageCode='en',
         TargetLanguageCode=tgt_lng
     )
+    print(result['TranslatedText'])
     return result['TranslatedText']
 
 """
@@ -60,8 +61,9 @@ def translate_files(files, elicitation, committer):
             translated_df['elicitation'] = elicitation
             translated_df['committer'] = committer
 
-            filename = os.path.splitext(file)[0]
-            translated_file = f'{filename}_{lng}.csv'
+            base_name = os.path.splitext(os.path.basename(file))[0] # ie. raw_statements/email_statements_en.csv --> email_statements_en
+            filename = '_'.join(base_name.split('_')[:-1])
+            translated_file = f'raw_statements/{filename}_{lng}.csv'
             translated_df.to_csv(translated_file, index=False)
             print(f'Translated {file} to {lng} and saved as {translated_file}')
 

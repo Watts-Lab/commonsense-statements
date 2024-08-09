@@ -2,6 +2,9 @@ name: Normalize Statements
 
 on: [push]
 
+permissions:
+  contents: write
+
 jobs:
   normalize-statements:
     runs-on: ubuntu-latest
@@ -23,6 +26,8 @@ jobs:
     - name: Run normalize_statements.py script
       run: |
         python ./.scripts/normalize_statements.py
+
+    # make sure to run format checker
     
     - name: Commit and push changes
       uses: devops-infra/action-commit-push@master

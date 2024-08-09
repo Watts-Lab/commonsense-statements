@@ -73,7 +73,7 @@ def total_cost(directory):
     count = 0
     for filename in os.listdir(directory):
         count += 1
-        if filename.endswith('.csv') and (filename.split('.')[0].split('_')[-1] in languages):
+        if filename.endswith('.csv') and (filename.split('.')[0].split('_')[-1] in languages or filename.split('.')[0].split('_')[-2] in languages):
             files_translated.add('_'.join(filename.split('.')[0].split('_')[:-1]) + '.csv')
             files_translated.add(filename)
     
