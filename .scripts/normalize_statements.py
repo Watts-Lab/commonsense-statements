@@ -156,19 +156,17 @@ def process_files(directory):
         return
     
     for filename in os.listdir(directory):
-        if not filename.endswith(".csv"):
-            continue
+        if filename.endswith(".csv") and filename not in files_cleaned:
+            lng = filename.split("_")[-1].split(".")[0]
+            filepath = os.path.join(directory, filename)
+            df = pd.read_csv(filepath)
+            df['statement'] = df['statement'].apply(lambda x: normalize_statement(x, lng))
 
-        lng = filename.split("_")[-1].split(".")[0]
-        filepath = os.path.join(directory, filename)
-        df = pd.read_csv(filepath)
-        df['statement'] = df['statement'].apply(lambda x: normalize_statement(x, lng))
-
-        df.to_csv(filepath, index=False)
-        cleaned_filename = f"{os.path.splitext(filename)[0]}_cleaned.csv"
-        cleaned_filepath = os.path.join(directory, cleaned_filename)
-        os.rename(filepath, cleaned_filepath)
-        print(f"Cleaned statements saved back to {filepath} and renamed file to {cleaned_filepath}")
+            df.to_csv(filepath, index=False)
+            cleaned_filename = f"{os.path.splitext(filename)[0]}_cleaned.csv"
+            cleaned_filepath = os.path.join(directory, cleaned_filename)
+            os.rename(filepath, cleaned_filepath)
+            print(f"Cleaned statements saved back to {filepath} and renamed file to {cleaned_filepath}")
 
     print("Finished cleaning statements")
 
