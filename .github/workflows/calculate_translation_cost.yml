@@ -29,10 +29,15 @@ jobs:
 
       - name: Run calculate_translation_cost script
         run: |
-          python ./.scripts/calculate_translation_cost.py > translation_cost.md
+          python ./.scripts/calculate_translation_cost.py > translation_cost.txt
+
+      - name: Find Current PR
+        uses: jwalton/gh-find-current-pr@v1
+        id: finder
 
       - name: Add Coverage PR Comment
         uses: marocchino/sticky-pull-request-comment@v2
         with:
+          number: ${{ steps.finder.outputs.pr }}
           recreate: true
-          path: translation_cost.md
+          path: translation_cost.txt
