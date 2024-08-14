@@ -100,13 +100,15 @@ def total_cost(directory):
             try:
                 cost_per_character = get_price_per_character()
                 total_cost = total_characters_for_file * cost_per_character
+                print("Translation Cost Calculation")
+                print("----------------------------------------")
+                print("")
                 print(
                     f"**{filename}** still needs to be translated into **9 new languages**. This would require translating **{total_characters_for_file} characters**."
                 )
                 print(
                     f"It will cost approximately **${total_cost:.2f}** to complete these translations."
                 )
-                print("---")
 
             except Exception as e:
                 exit_error(f"Error: {e}")
