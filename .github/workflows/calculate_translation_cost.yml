@@ -2,6 +2,9 @@ name: Calculate Translation Cost
 
 on: [push]
 
+permissions:
+  pull-requests: write
+
 jobs:
   calculate_cost:
     runs-on: ubuntu-latest
