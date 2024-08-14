@@ -27,7 +27,6 @@ jobs:
       - name: Run calculate_translation_cost script
         run: |
           python ./.scripts/calculate_translation_cost.py > translation_cost.md
-
       - name: Add Coverage PR Comment
         uses: marocchino/sticky-pull-request-comment@v2
         if: github.event_name == 'pull_request'
