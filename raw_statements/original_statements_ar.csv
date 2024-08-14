@@ -1648,6 +1648,7 @@ statement,elicitation,committer
 إذا قبل ماكس دعوة سام، فسيكون ماكس اجتماعيًا.,Amazon Translate,Amir
 إذا قبل ماكس دعوة سام، فإن ماكس يريد الظهور في الحدث.,Amazon Translate,Amir
 إذا قبل ماكس دعوة سام، فسيشعر سام بالسعادة.,Amazon Translate,Amir
+إذا قبل ماكس دعوة سام، يبتسم سام.,Amazon Translate,Amir
 إذا قبل ماكس دعوة سام، فسيقضي سام وقتًا مع ماكس.,Amazon Translate,Amir
 إذا قبل ماكس عرض سام، فإن ماكس يقبل المال.,Amazon Translate,Amir
 إذا قبل ماكس عرض سام، فسيراجع ماكس الاتفاقية.,Amazon Translate,Amir
@@ -1950,6 +1951,7 @@ statement,elicitation,committer
 إذا حقق ماكس هدف سام، فإن سام يريد تحديد هدف أعلى لماكس.,Amazon Translate,Amir
 إذا حقق ماكس مستوى سام، فإن ماكس يشمت.,Amazon Translate,Amir
 إذا حقق ماكس مستوى سام، فإن ماكس ينوي الحصول على منصب مماثل لسام.,Amazon Translate,Amir
+إذا حقق ماكس مستوى سام، فإن ماكس يحتاج إلى العمل بجد.,Amazon Translate,Amir
 إذا حقق ماكس مستوى سام، فإن ماكس يحتاج إلى العمل بجد.,Amazon Translate,Amir
 إذا حقق ماكس مستوى سام، فإن سام يشعر بالرضا.,Amazon Translate,Amir
 إذا حقق ماكس هدف سام، فإن سام يريد أن يرى ما فعله ماكس.,Amazon Translate,Amir
@@ -4138,7 +4140,9 @@ iPhone 13 هو أحدث سلسلة iPhone من Apple.,Amazon Translate,Amir
 يجب أن ندعم التصويت العام عن طريق البريد.,Amazon Translate,Amir
 يجب أن ندعم التصويت عن طريق البريد.,Amazon Translate,Amir
 يجب أن ندعم قوانين هوية الناخبين للجميع.,Amazon Translate,Amir
+يجب أن ندعم التصويت عن طريق البريد.,Amazon Translate,Amir
 يجب أن ندعم التصويت شخصيًا.,Amazon Translate,Amir
+يجب أن ندعم ارتداء الأقنعة.,Amazon Translate,Amir
 يجب أن ندعم ارتداء الأقنعة.,Amazon Translate,Amir
 يجب أن ندعم ارتداء الأقنعة في الأماكن العامة.,Amazon Translate,Amir
 يجب أن ندعم ما يريده الناس في الكنيسة.,Amazon Translate,Amir
@@ -4402,23 +4406,3 @@ iPhone 13 هو أحدث سلسلة iPhone من Apple.,Amazon Translate,Amir
 دينك ليس الدين الحقيقي الوحيد.,Amazon Translate,Amir
 صفر زائد أي رقم يساوي هذا الرقم.,Amazon Translate,Amir
 Zest هو سر كل الجمال. لا يوجد جمال جذاب بدون الحماس.,Amazon Translate,Amir
-تفضل القطط عدم التبلل.,Amazon Translate,Amir
-الإبر حادة.,Amazon Translate,Amir
-الكيمياء هي جزء من العلوم الفيزيائية.,Amazon Translate,Amir
-تغير المناخ هو قضية حرجة تتطلب العمل.,Amazon Translate,Amir
-المتفجرات خطيرة.,Amazon Translate,Amir
-تناول الفاكهة مفيد لصحتك.,Amazon Translate,Amir
-ينمو العشب في التربة.,Amazon Translate,Amir
-تصبح شخصيتنا الحقيقية واضحة تحت تأثير الكحول.,Amazon Translate,Amir
-أحد جوانب اللطف هو حب الناس أكثر مما يستحقون.,Amazon Translate,Amir
-لا أحد يريد أن يكون كل شيء على حاله.,Amazon Translate,Amir
-لا أحد يريد أن يكون مريضا.,Amazon Translate,Amir
-لا أحد يريد أن يكون في ازدحام مروري.,Amazon Translate,Amir
-لا أحد يريد أشياء غير سارة.,Amazon Translate,Amir
-قد يلهمك الشعور بالجوع لخبز شيء ما.,Amazon Translate,Amir
-أن تكون مهذبًا يعني انتظار دورك.,Amazon Translate,Amir
-الفضول يجعلك ترغب في معرفة المزيد.,Amazon Translate,Amir
-إن إنهاء الزواج لمجرد أنك لا تحب شخصًا ما هو أمر سخيف مثل البدء به لمجرد أنك تحبه.,Amazon Translate,Amir
-إذا اختار شخص ما الوقوف بدلاً من الجلوس في قطار فارغ، فهذا اختياره.,Amazon Translate,Amir
-إذا كان لديك مدرب رائع، فلا يجب عليك العمل لساعات إضافية دون تعويض.,Amazon Translate,Amir
-إذا كنت تغادر متجرًا للوجبات السريعة بحقيبة، فهذا لا يعني أنك ممتلئ.,Amazon Translate,Amir
