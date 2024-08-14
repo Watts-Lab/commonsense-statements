@@ -83,6 +83,10 @@ def total_cost(directory):
             )
             files_translated.add(filename)
 
+    
+    print("Translation Cost Calculation")
+    print("----------------------------------------")
+
     if count == len(files_translated):
         print("All files have already been translated in all languages.")
         return
@@ -100,9 +104,6 @@ def total_cost(directory):
             try:
                 cost_per_character = get_price_per_character()
                 total_cost = total_characters_for_file * cost_per_character
-                print("Translation Cost Calculation")
-                print("----------------------------------------")
-                print("")
                 print(
                     f"**{filename}** still needs to be translated into **9 new languages**. This would require translating **{total_characters_for_file} characters**."
                 )
