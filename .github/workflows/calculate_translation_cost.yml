@@ -2,6 +2,9 @@ name: Calculate Translation Cost
 
 on: [push]
 
+permissions:
+  pull-requests: write
+
 jobs:
   calculate_cost:
     runs-on: ubuntu-latest
@@ -11,19 +14,30 @@ jobs:
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.9'
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install pandas boto3
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas boto3
 
-    - name: Run calculate_translation_cost script
-      run: |
-        python ./.scripts/calculate_translation_cost.py
+      - name: Run calculate_translation_cost script
+        run: |
+          python ./.scripts/calculate_translation_cost.py > translation_cost.md
+
+      - name: Find Current PR
+        uses: jwalton/gh-find-current-pr@v1
+        id: finder
+
+      - name: Add Coverage PR Comment
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          number: ${{ steps.finder.outputs.pr }}
+          recreate: true
+          path: translation_cost.md
