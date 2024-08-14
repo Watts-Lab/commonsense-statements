@@ -78,7 +78,7 @@ def total_cost(directory):
             files_translated.add(filename)
     
     if count == len(files_translated):
-        print("All files have been translated in all languages.")
+        print("All files have already been translated in all languages.")
         return
 
     for filename in os.listdir(directory):
