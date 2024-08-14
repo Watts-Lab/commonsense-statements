@@ -29,7 +29,7 @@ jobs:
 
       - name: Run calculate_translation_cost script
         run: |
-          python ./.scripts/calculate_translation_cost.py > translation_cost.txt
+          python ./.scripts/calculate_translation_cost.py > translation_cost.md
 
       - name: Find Current PR
         uses: jwalton/gh-find-current-pr@v1
@@ -40,4 +40,4 @@ jobs:
         with:
           number: ${{ steps.finder.outputs.pr }}
           recreate: true
-          path: translation_cost.txt
+          path: translation_cost.md
