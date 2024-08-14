@@ -2,22 +2,23 @@ import os
 import pandas as pd
 import boto3
 import argparse
+import swifter
 
 # set up credentials
-aws_access_key_id = os.environ['AWS_ACCESS_KEY_ID']
-aws_secret_access_key = os.environ['AWS_SECRET_ACCESS_KEY']
-region_name = 'us-east-1' 
+aws_access_key_id = os.environ["AWS_ACCESS_KEY_ID"]
+aws_secret_access_key = os.environ["AWS_SECRET_ACCESS_KEY"]
+region_name = "us-east-1"
 
 # initialize amazon translate client
 translate_client = boto3.client(
-    service_name='translate', 
-    aws_access_key_id=aws_access_key_id, 
-    aws_secret_access_key=aws_secret_access_key, 
-    region_name=region_name
+    service_name="translate",
+    aws_access_key_id=aws_access_key_id,
+    aws_secret_access_key=aws_secret_access_key,
+    region_name=region_name,
 )
 
 # define the supported languages
-languages = ['ar','bn','es','fr','hi','ja','pt','ru','zh']
+languages = ["ar", "bn", "es", "fr", "hi", "ja", "pt", "ru", "zh"]
 
 """
 Function that translates text to the given target language
@@ -30,13 +31,15 @@ Returns: the translated text
 
 API reference: https://docs.aws.amazon.com/translate/latest/APIReference/API_TranslateText.html
 """
-def translate_text(text, tgt_lng):
+
+
+def translate_text(text: str, language: str) -> str:
+    text = str(text)
     result = translate_client.translate_text(
-        Text=text,
-        SourceLanguageCode='en',
-        TargetLanguageCode=tgt_lng
+        Text=text, SourceLanguageCode="en", TargetLanguageCode=language
     )
-    return result['TranslatedText']
+    return result["TranslatedText"]
+
 
 """
 Function to translate each statement in multiple CSV files and save them to raw_statements folder
@@ -48,39 +51,51 @@ Parameters:
 
 Returns: the total number of characters translated (for API cost calculation)
 """
+
+
 def translate_files(files, elicitation, committer):
     total_characters = 0
     for file in files:
         df = pd.read_csv(file)
         for lng in languages:
-            translated_statements = df['statement'].apply(lambda x: translate_text(x, lng))
-            total_characters += df['statement'].apply(len).sum() # accumluate the total number of characters translated
+            print(f"Translating to {lng}...")
+
+            translated_statements = df["statement"].swifter.progress_bar(enable=True).apply(
+                translate_text, language=lng
+            )
+
+            total_characters += (
+                df["statement"].apply(len).sum()
+            )  # accumluate the total number of characters translated
             translated_df = df.copy()
-            translated_df['statement'] = translated_statements
-            translated_df['elicitation'] = elicitation
-            translated_df['committer'] = committer
+            translated_df["statement"] = translated_statements
+            translated_df["elicitation"] = elicitation
+            translated_df["committer"] = committer
 
             filename = os.path.splitext(file)[0]
-            translated_file = f'{filename}_{lng}.csv'
+            translated_file = f"{filename}_{lng}.csv"
             translated_df.to_csv(translated_file, index=False)
-            print(f'Translated {file} to {lng} and saved as {translated_file}')
+            print(f"Translated {file} to {lng} and saved as {translated_file}")
 
     return total_characters
 
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Translate statements to multiple languages using AWS Translate')
-    parser.add_argument('files', type=str, help='comma-separated list of files')
-    parser.add_argument('elicitation', type=str, help='the elicitation method')
-    parser.add_argument('committer', type=str, help='the committer\'s name')
+    parser = argparse.ArgumentParser(
+        description="Translate statements to multiple languages using AWS Translate"
+    )
+    parser.add_argument("files", type=str, help="comma-separated list of files")
+    parser.add_argument("elicitation", type=str, help="the elicitation method")
+    parser.add_argument("committer", type=str, help="the committer's name")
 
     args = parser.parse_args()
     files = args.files
-    files = files.split(',')
-    files = [f'raw_statements/{file.strip()}' for file in files]
+    files = files.split(",")
+    files = [f"raw_statements/{file.strip()}" for file in files]
     elicitation = args.elicitation
     committer = args.committer
 
-    print(f"File: {files}") 
+    print(f"File: {files}")
     print(f"Elicitation: {elicitation}")
     print(f"Committer: {committer}")
 
