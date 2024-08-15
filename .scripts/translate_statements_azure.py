@@ -60,17 +60,17 @@ def translate_files(files, elicitation, committer):
     for file in files:
         df = pd.read_csv(file)
         for lng in languages:
-            translated_statements = df['statement'].apply(lambda x: translate_text(x, lng))
+            translated_statements = df["statement"].swifter.progress_bar(enable=True).apply(lambda x: translate_text(x, lng))
             total_characters += df['statement'].apply(len).sum() # accumluate the total number of characters translated
             translated_df = df.copy()
             translated_df['statement'] = translated_statements
             translated_df['elicitation'] = elicitation
             translated_df['committer'] = committer
 
-            filename = os.path.splitext(file)[0]
-            translated_file = f'{filename}_{lng}.csv'
+            base_name = os.path.splitext(os.path.basename(file))[0] # ie. raw_statements/email_statements_en.csv --> email_statements_en
+            filename = '_'.join(base_name.split('_')[:-1])
+            translated_file = f'raw_statements/{filename}_{lng}.csv'
             translated_df.to_csv(translated_file, index=False)
-
             print(f'Translated {file} to {lng} and saved as {translated_file}')
 
     return total_characters

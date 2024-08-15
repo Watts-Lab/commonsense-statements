@@ -13,9 +13,9 @@ def remove_duplicates_after_normalization(directory):
     for filename in os.listdir(directory):
         if filename.endswith('_cleaned.csv'):
             base = '_'.join(filename.split('.')[0].split('_')[:-2])
-            print(base)
             base_names.add(base)
-
+    
+    # process files with the same base
     for base in base_names:
         files = [f'{base}_{lng}_cleaned.csv' for lng in languages]
 
@@ -28,7 +28,7 @@ def remove_duplicates_after_normalization(directory):
             dropped_indices = df.index[duplicates]
             indices_to_drop.update(dropped_indices.tolist())
 
-        # drop the indices across all files
+        # drop the indices across all files with the same base name
         if indices_to_drop:
             for filename in files:
                 filepath = os.path.join(directory, filename)

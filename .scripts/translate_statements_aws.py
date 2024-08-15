@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import boto3
 import argparse
+import swifter
 
 # set up credentials
 aws_access_key_id = os.environ['AWS_ACCESS_KEY_ID']
@@ -36,7 +37,6 @@ def translate_text(text, tgt_lng):
         SourceLanguageCode='en',
         TargetLanguageCode=tgt_lng
     )
-    print(result['TranslatedText'])
     return result['TranslatedText']
 
 """
@@ -54,7 +54,9 @@ def translate_files(files, elicitation, committer):
     for file in files:
         df = pd.read_csv(file)
         for lng in languages:
-            translated_statements = df['statement'].apply(lambda x: translate_text(x, lng))
+            print(f"Translating to {lng}...")
+
+            translated_statements = df["statement"].swifter.progress_bar(enable=True).apply(lambda x: translate_text(x, lng))
             total_characters += df['statement'].apply(len).sum() # accumluate the total number of characters translated
             translated_df = df.copy()
             translated_df['statement'] = translated_statements
