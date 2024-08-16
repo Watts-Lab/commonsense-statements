@@ -5,7 +5,7 @@ import uuid
 import argparse
 
 # set up authentication key and endpoint
-azure_key = os.environ['AZURE_TRANSLATE_SERVICE_KEY']
+azure_key = os.environ.get('AZURE_TRANSLATE_SERVICE_KEY')
 endpoint = 'https://api.cognitive.microsofttranslator.com/'
 location = 'eastus' 
 

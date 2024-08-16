@@ -37,6 +37,8 @@ def remove_duplicates_after_normalization(directory):
                 df.reset_index(drop=True, inplace=True)
                 df.to_csv(filepath, index=False)
                 print(f'dropped {list(indices_to_drop)} in {filename}')
+        else:
+            print(f'No duplicates found in {base}_en.csv and corresponding translation files.')
 
 
 if __name__ == '__main__':
