@@ -97,9 +97,7 @@ def process_files(directory):
                 cleaned_statement = chat_completion_function(lng, statement)
                 print(cleaned_statement)
                 cleaned_statements.append(cleaned_statement)
-
-            print(f'length of cleaned statements: {len(cleaned_statements)}')   
-            print(f'length of df: {len(df)}')   
+ 
             df['statement'] = cleaned_statements
 
             # save cleaned data back to the file

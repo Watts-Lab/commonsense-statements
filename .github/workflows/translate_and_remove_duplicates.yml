@@ -4,7 +4,7 @@ on:
   workflow_dispatch: 
     inputs:
       files:
-        description: 'Comma-separated list of files to translate in the raw_statements folder (ie. original_statements_en.csv, email_statements_en.csv)'
+        description: 'Comma-separated list of files to translate in the raw_statements folder (ie. bob_statements_en.csv, jane_statements_en.csv)'
         required: true
       elicitation:
         description: 'Elicitation method'
@@ -113,7 +113,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt 
+        pip install openai pandas
 
     - name: Run normalize_statements_openai.py script
       run: |

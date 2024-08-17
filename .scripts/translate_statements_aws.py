@@ -3,6 +3,7 @@ import pandas as pd
 import boto3
 import argparse
 import swifter
+import re
 
 # set up credentials
 aws_access_key_id = os.environ.get('AWS_ACCESS_KEY_ID')
@@ -67,8 +68,12 @@ def translate_files(files, elicitation, committer):
             translated_df["elicitation"] = elicitation
             translated_df["committer"] = committer
 
-            base_name = os.path.splitext(os.path.basename(file))[0] # ie. raw_statements/email_statements_en.csv --> email_statements_en
-            filename = '_'.join(base_name.split('_')[:-1]) # email_statements
+            basename = os.path.basename(file) # ie. raw_statements/email_statements_en.csv --> email_statements_en.csv
+            match = re.search(r'(.*)_[a-z]{2}(?:_cleaned)?\.csv', basename) # extract the part before the language code
+            if match:
+                filename = match.group(1)
+            else:
+                filename = None
             translated_file = f'raw_statements/{filename}_{lng}.csv' # e.g. raw_statements/email_statements_ar.csv
             translated_df.to_csv(translated_file, index=False)
             print(f"Translated {file} to {lng} and saved as {translated_file}")

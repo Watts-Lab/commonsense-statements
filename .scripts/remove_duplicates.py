@@ -5,7 +5,7 @@ import sys
 import argparse
 
 """
-Function to remove duplicate statements across files and their corresponding translation files
+Function to remove duplicate statements caused by translation across files and their corresponding translation files
 
 Parameters:
 - original_csv: path to the original CSV file containing English statements

@@ -82,7 +82,7 @@ def total_cost(directory):
             match = re.search(r'(.*)_[a-z]{2}(?:_cleaned)?\.csv', filename) # extract the part before the language code
             if match:
                 base = match.group(1)
-                files_translated.add(f'{base}_{lng}.csv')
+                files_translated.add(f'{base}_{lng}.csv') # files either have the _cleaned suffix or not
                 files_translated.add(f'{base}_{lng}_cleaned.csv')
                 files_translated.add(f'{base}_en.csv')
                 files_translated.add(f'{base}_en_cleaned.csv')
