@@ -4,7 +4,7 @@ import re
 import pandas as pd
 
 # set up OpenAI credentials
-openai.api_key = os.environ['OPENAI_API_KEY']
+openai.api_key = os.environ.get('OPENAI_API_KEY')
 
 # define supported languages
 languages = {
@@ -23,13 +23,16 @@ languages = {
 # function that sets up API
 def chat_completion_function(lng, user_prompt):
     system_prompt = f"""
-                    You are a language processing assistant. Given this statement in {languages[lng]}, perform the following steps while preserving the capitalization of proper nouns and original vocabulary:
+                    You are a language processing assistant. Given this statement in {languages[lng]}, perform the following steps:
                     1. Capitalize the first letter (if applicable for the language).
                     2. Remove leading and trailing punctuation.
-                    3. Ensure the sentence ends with the appropriate full-stop punctuation native to the language.
+                    3. Ensure the sentence ends with the appropriate full-stop punctuation native to the language (e.g., । for Bengali and Hindi, 。 for Japanese and Chinese).
+                    4. Do not change the capitalization of any other words within the sentence besides the first word, including proper nouns, event names, and common words—preserve all original capitalization as given by the user.
+                    5. Do not introduce any changes to the vocabulary, meaning, or phrasing. Preserve the exact words provided.
+                    6. Do not introduce any additional punctuation, symbols, or special characters.
 
-                    Return only the cleaned statement in the same format given by the user, without any additional text, explanations, or changes to the proper nouns' capitalization. Here are some examples in 10 different languages:
-                    - "Social Security and Medicare are programs that politicians can protect" should be "Social Security and Medicare are programs that politicians can protect."
+                    Return only the cleaned statement in the same format given by the user, without any additional text, explanations, or changes to the proper nouns' capitalization or vocabulary. Here are some examples in 10 different languages:
+                    - '"Social Security and Medicare are programs that politicians can protect'" should be '"Social Security and Medicare are programs that politicians can protect."'
                     - "el Seguro Social y Medicare son programas que los políticos pueden proteger" should be "El seguro social y medicare son programas que los políticos pueden proteger."
                     - "সামাজিক নিরাপত্তা এবং মেডিকেয়ার হল এমন প্রোগ্রাম যা রাজনীতিবিদরা রক্ষা করতে পারেন" should be "সামাজিক নিরাপত্তা এবং মেডিকেয়ার হল এমন প্রোগ্রাম যা রাজনীতিবিদরা রক্ষা করতে পারেন।"
                     - "社会保障和医疗保险是政治家可以保护的计划" should be "社会保障和医疗保险是政客可以保护的计划。"
@@ -42,7 +45,7 @@ def chat_completion_function(lng, user_prompt):
                     """
     try:
         completion = openai.chat.completions.create(
-            model='gpt-4o',
+            model='gpt-3.5-turbo',
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}

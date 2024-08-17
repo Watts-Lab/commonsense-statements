@@ -23,6 +23,7 @@ def remove_duplicates_after_normalization(directory):
         indices_to_drop = set()
         for filename in files:
             filepath = os.path.join(directory, filename)
+            print(f'Checking for duplicates in {filename}...')
             df = pd.read_csv(filepath)
             duplicates = df.duplicated(keep='first')
             dropped_indices = df.index[duplicates]
