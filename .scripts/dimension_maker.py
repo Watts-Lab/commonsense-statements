@@ -78,7 +78,10 @@ if __name__ == "__main__":
         )
         exit(1)
 
-    old_ratings_df = pd.read_csv("features/ratings.csv")
+    try:
+        old_ratings_df = pd.read_csv("features/ratings.csv")
+    except FileNotFoundError:
+        old_ratings_df = None
 
     if old_ratings_df is None:
         print(
