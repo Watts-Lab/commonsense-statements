@@ -55,7 +55,7 @@
 import {define} from "./_observablehq/client.4d3b1f74.js";
 import {registerFile} from "./_observablehq/stdlib.b89f0aee.js";
 
-registerFile("./data/statements.csv", {"name":"./data/statements.csv","mimeType":"text/csv","path":"./_file/data/statements.14a17a87.csv","lastModified":1727378847247,"size":4937641});
+registerFile("./data/statements.csv", {"name":"./data/statements.csv","mimeType":"text/csv","path":"./_file/data/statements.14a17a87.csv","lastModified":1727378897494,"size":4937641});
 
 define({id: "73f7d200", inputs: ["FileAttachment"], outputs: ["statements"], body: async (FileAttachment) => {
 const statements = await FileAttachment("./data/statements.csv").csv({
@@ -109,7 +109,7 @@ resize((width) => statementsByCategory(statements, { width }))
     <li class="observablehq-link observablehq-link-active"><a href="./">Commonsense statement</a></li>
   </ol>
   <ol>
-    <li class="observablehq-link"><a href="./export-designpoint">Statement dashboard</a></li>
+    <li class="observablehq-link"><a href="./export-designpoint">Export design points</a></li>
     <li class="observablehq-link"><a href="./platform-report">Platform report</a></li>
     <li class="observablehq-link"><a href="./statement-dashboard">Statement dashboard</a></li>
   </ol>
