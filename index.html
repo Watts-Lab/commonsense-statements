@@ -55,7 +55,7 @@
 import {define} from "./_observablehq/client.4d3b1f74.js";
 import {registerFile} from "./_observablehq/stdlib.b89f0aee.js";
 
-registerFile("./data/statements.csv", {"name":"./data/statements.csv","mimeType":"text/csv","path":"./_file/data/statements.14a17a87.csv","lastModified":1727378897494,"size":4937641});
+registerFile("./data/statements.csv", {"name":"./data/statements.csv","mimeType":"text/csv","path":"./_file/data/statements.14a17a87.csv","lastModified":1727379296475,"size":4937641});
 
 define({id: "73f7d200", inputs: ["FileAttachment"], outputs: ["statements"], body: async (FileAttachment) => {
 const statements = await FileAttachment("./data/statements.csv").csv({
@@ -120,7 +120,7 @@ resize((width) => statementsByCategory(statements, { width }))
 <div class="observablehq observablehq--block"><!--:73f7d200:--></div>
 <div class="observablehq observablehq--block"><!--:17ed12aa:--></div>
 <div class="hero">
-  <h1 class="text-6xl font-bold mb-4">Welcome to the Commonsense Statements Project</h1>
+  <h1 class="text-4xl font-bold mb-4 text-center">Welcome to the Commonsense Statements Project</h1>
   <p class="text-xl text-gray-600 max-w-2xl mx-auto">
     We extract commonsense statements for a wide range of categories from various sources.
     Our project aims to gather a comprehensive set of statements that reflect everyday knowledge.
@@ -149,7 +149,7 @@ resize((width) => statementsByCategory(statements, { width }))
   align-items: center;
   font-family: var(--sans-serif);
   margin: 4rem 0 2rem;
-  text-align: center;
+  text-align: left;
 }
 </style>
 </main>
