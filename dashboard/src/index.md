@@ -34,8 +34,9 @@ function statementsByCategory(data, { width } = {}) {
 <div class="hero">
   <h1 class="text-6xl font-bold mb-4">Welcome to the Commonsense Statements Project</h1>
   <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-    We extract commonsense statements for a .
+    We extract commonsense statements for a wide range of categories from various sources.
     Our project aims to gather a comprehensive set of statements that reflect everyday knowledge.
+    These statements can be used for research, education, and applications in artificial intelligence.
   </p>
   <p class="text-xl text-gray-600 mt-4">
     Currently, we have extracted <span class="font-semibold">${statements.length.toLocaleString()}</span> statements.
