@@ -32,7 +32,7 @@ function statementsByCategory(data, { width } = {}) {
 ```
 
 <div class="hero">
-  <h1 class="text-6xl font-bold mb-4">Welcome to the Commonsense Statements Project</h1>
+  <h1 class="text-4xl font-bold mb-4 text-center">Welcome to the Commonsense Statements Project</h1>
   <p class="text-xl text-gray-600 max-w-2xl mx-auto">
     We extract commonsense statements for a wide range of categories from various sources.
     Our project aims to gather a comprehensive set of statements that reflect everyday knowledge.
@@ -65,6 +65,6 @@ function statementsByCategory(data, { width } = {}) {
   align-items: center;
   font-family: var(--sans-serif);
   margin: 4rem 0 2rem;
-  text-align: center;
+  text-align: left;
 }
 </style>
