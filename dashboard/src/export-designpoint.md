@@ -40,7 +40,7 @@ function Table({ searchQuery, data }) {
 
     if (searchQuery) {
       const results = fuzzysort.go(searchQuery, data, {
-        keys: ["statement"],
+        keys: ["statement", "id", "statementCategory"],
       });
       filtered = results.map((r) => r.obj);
     }
