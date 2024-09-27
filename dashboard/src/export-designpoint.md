@@ -26,26 +26,43 @@ function Table({ searchQuery, data }) {
   const [selectedIds, setSelectedIds] = useState(new Set());
   const [filteredData, setFilteredData] = useState([]);
   const [binaryFilter, setBinaryFilter] = useState({
-    behavior: false,
-    everyday: false,
-    figure_of_speech: false,
-    judgment: false,
-    opinion: false,
-    reasoning: false,
+    behavior: "",
+    everyday: "",
+    figure_of_speech: "",
+    judgment: "",
+    opinion: "",
+    reasoning: "",
   });
 
   // Using useEffect to update filteredData based on searchQuery
   useEffect(() => {
-    if (searchQuery && data) {
+    let filtered = data;
+
+    if (searchQuery) {
       const results = fuzzysort.go(searchQuery, data, {
         keys: ["statement"],
       });
-
-      setFilteredData(results.map((r) => r.obj));
-    } else {
-      setFilteredData(data);
+      filtered = results.map((r) => r.obj);
     }
-  }, [searchQuery, data]);
+
+    filtered = filtered.filter((item) => {
+      return (
+        (binaryFilter.behavior === "" ||
+          binaryFilter.behavior == item.behavior) &&
+        (binaryFilter.everyday === "" ||
+          binaryFilter.everyday == item.everyday) &&
+        (binaryFilter.figure_of_speech === "" ||
+          binaryFilter.figure_of_speech == item.figure_of_speech) &&
+        (binaryFilter.judgment === "" ||
+          binaryFilter.judgment == item.judgment) &&
+        (binaryFilter.opinion === "" || binaryFilter.opinion == item.opinion) &&
+        (binaryFilter.reasoning === "" ||
+          binaryFilter.reasoning == item.reasoning)
+      );
+    });
+
+    setFilteredData(filtered);
+  }, [searchQuery, data, binaryFilter]);
 
   const handleCheckboxChange = (id) => {
     setSelectedIds((prevSelectedIds) => {
@@ -63,6 +80,13 @@ function Table({ searchQuery, data }) {
     const idsArray = Array.from(selectedIds);
     console.log("Selected IDs:", idsArray);
     setSelectedIds(new Set());
+  };
+
+  const handleFilterChange = (key, value) => {
+    setBinaryFilter((prevFilters) => ({
+      ...prevFilters,
+      [key]: value,
+    }));
   };
 
   return (
@@ -85,6 +109,25 @@ function Table({ searchQuery, data }) {
             ))}
             ]
           </p>
+          {[
+            "behavior",
+            "everyday",
+            "figure_of_speech",
+            "judgment",
+            "opinion",
+            "reasoning",
+          ].map((key) => (
+            <select
+              key={key}
+              value={binaryFilter[key]}
+              onChange={(e) => handleFilterChange(key, e.target.value)}
+              className="border p-1 rounded"
+            >
+              <option value="">{key}</option>
+              <option value="0">0</option>
+              <option value="1">1</option>
+            </select>
+          ))}
         </div>
         <table className="min-w-full divide-y divide-gray-200">
           <thead>
