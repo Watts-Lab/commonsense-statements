@@ -24,7 +24,7 @@
 import {define} from "./_observablehq/client.35f2865f.js";
 import {registerFile} from "./_observablehq/stdlib.b89f0aee.js";
 
-registerFile("./data/statements.csv", {"name":"./data/statements.csv","mimeType":"text/csv","path":"./_file/data/statements.40dfc4dc.csv","lastModified":1727461246100,"size":4990767});
+registerFile("./data/statements.csv", {"name":"./data/statements.csv","mimeType":"text/csv","path":"./_file/data/statements.40dfc4dc.csv","lastModified":1727461613762,"size":4990767});
 
 define({id: "8f94071c", inputs: ["FileAttachment"], outputs: ["statements"], body: async (FileAttachment) => {
 // Load your statements
@@ -34,7 +34,7 @@ const statements = await FileAttachment("./data/statements.csv").csv({
 return {statements};
 }});
 
-define({id: "20905da3", mode: "jsx", outputs: ["Fragment","jsx","jsxs","fuzzysort","useState","useEffect","Table"], body: async () => {
+define({id: "eccf9f8f", mode: "jsx", outputs: ["Fragment","jsx","jsxs","fuzzysort","useState","useEffect","Table"], body: async () => {
 const [{Fragment, jsx, jsxs}, {default: fuzzysort}, {useState, useEffect}] = await Promise.all([import("./_npm/react@18.3.1/jsx-runtime.e4a2bff6.js"), import("./_node/fuzzysort@3.0.2/index.c07fac6a.js"), import("./_npm/react@18.3.1/5c25487d.js")]);
 function Table({ searchQuery, data }) {
   if (!data) {
@@ -54,7 +54,7 @@ function Table({ searchQuery, data }) {
     let filtered = data;
     if (searchQuery) {
       const results = fuzzysort.go(searchQuery, data, {
-        keys: ["statement"]
+        keys: ["statement", "id", "statementCategory"]
       });
       filtered = results.map((r) => r.obj);
     }
@@ -207,7 +207,7 @@ return {jsx};
 <h1 class="text-4xl font-bold mb-4">Export design points</h1>
 This page allows you to export the design points from the experiment buckets.
 <div class="observablehq observablehq--block"><!--:8f94071c:--></div>
-<div class="observablehq observablehq--block"><!--:20905da3:--></div>
+<div class="observablehq observablehq--block"><!--:eccf9f8f:--></div>
 <div class="observablehq observablehq--block"><!--:c31e81fd:--></div>
 <p><observablehq-loading></observablehq-loading><!--:4bfa21db:--></p>
 <div class="observablehq observablehq--block"><!--:a34b8605:--></div>
