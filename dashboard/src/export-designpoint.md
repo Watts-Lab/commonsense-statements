@@ -4,96 +4,183 @@ title: Export design points
 toc: false
 ---
 
-# Rocket launches 🚀
-
-<!-- Load and transform the data -->
-
-```js
-const launches = FileAttachment("data/launches.csv").csv({typed: true});
-```
-
-<!-- A shared color scale for consistency, sorted by the number of launches -->
+<h1 class="text-4xl font-bold mb-4">Export design points</h1>
+This page allows you to export the design points from the experiment buckets.
 
 ```js
-const color = Plot.scale({
-  color: {
-    type: "categorical",
-    domain: d3.groupSort(launches, (D) => -D.length, (d) => d.state).filter((d) => d !== "Other"),
-    unknown: "var(--theme-foreground-muted)"
-  }
+// Load your statements
+const statements = await FileAttachment("data/statements.csv").csv({
+  typed: true,
 });
 ```
 
-<!-- Cards with big numbers -->
+```jsx
+import fuzzysort from "fuzzysort";
+import { useState, useEffect } from "npm:react";
 
-<div class="grid grid-cols-4">
-  <div class="card">
-    <h2>United States 🇺🇸</h2>
-    <span class="big">${launches.filter((d) => d.stateId === "US").length.toLocaleString("en-US")}</span>
-  </div>
-  <div class="card">
-    <h2>Russia 🇷🇺 <span class="muted">/ Soviet Union</span></h2>
-    <span class="big">${launches.filter((d) => d.stateId === "SU" || d.stateId === "RU").length.toLocaleString("en-US")}</span>
-  </div>
-  <div class="card">
-    <h2>China 🇨🇳</h2>
-    <span class="big">${launches.filter((d) => d.stateId === "CN").length.toLocaleString("en-US")}</span>
-  </div>
-  <div class="card">
-    <h2>Other</h2>
-    <span class="big">${launches.filter((d) => d.stateId !== "US" && d.stateId !== "SU" && d.stateId !== "RU" && d.stateId !== "CN").length.toLocaleString("en-US")}</span>
-  </div>
-</div>
+function Table({ searchQuery, data }) {
+  if (!data) {
+    return <div>Loading...</div>;
+  }
 
-<!-- Plot of launch history -->
-
-```js
-function launchTimeline(data, {width} = {}) {
-  return Plot.plot({
-    title: "Launches over the years",
-    width,
-    height: 300,
-    y: {grid: true, label: "Launches"},
-    color: {...color, legend: true},
-    marks: [
-      Plot.rectY(data, Plot.binX({y: "count"}, {x: "date", fill: "state", interval: "year", tip: true})),
-      Plot.ruleY([0])
-    ]
+  const [selectedIds, setSelectedIds] = useState(new Set());
+  const [filteredData, setFilteredData] = useState([]);
+  const [binaryFilter, setBinaryFilter] = useState({
+    behavior: false,
+    everyday: false,
+    figure_of_speech: false,
+    judgment: false,
+    opinion: false,
+    reasoning: false,
   });
+
+  // Using useEffect to update filteredData based on searchQuery
+  useEffect(() => {
+    if (searchQuery && data) {
+      const results = fuzzysort.go(searchQuery, data, {
+        keys: ["statement"],
+      });
+
+      setFilteredData(results.map((r) => r.obj));
+    } else {
+      setFilteredData(data);
+    }
+  }, [searchQuery, data]);
+
+  const handleCheckboxChange = (id) => {
+    setSelectedIds((prevSelectedIds) => {
+      const newSelectedIds = new Set(prevSelectedIds);
+      if (newSelectedIds.has(id)) {
+        newSelectedIds.delete(id);
+      } else {
+        newSelectedIds.add(id);
+      }
+      return newSelectedIds;
+    });
+  };
+
+  const exportSelectedIds = () => {
+    const idsArray = Array.from(selectedIds);
+    console.log("Selected IDs:", idsArray);
+    setSelectedIds(new Set());
+  };
+
+  return (
+    <>
+      <div className="overflow-x-auto">
+        <div className="flex items-center space-x-2">
+          <button
+            onClick={exportSelectedIds}
+            className="btn btn-xs p-2 bg-blue-500 text-white rounded"
+          >
+            Export Selected IDs
+          </button>
+          <p>
+            [
+            {Array.from(selectedIds).map((i, index) => (
+              <span key={i}>
+                {i}
+                {index < selectedIds.size - 1 ? ", " : ""}
+              </span>
+            ))}
+            ]
+          </p>
+        </div>
+        <table className="min-w-full divide-y divide-gray-200">
+          <thead>
+            <tr>
+              <th className="px-2 !py-1"></th>
+              <th className="px-2 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Id
+              </th>
+              <th className="px-6 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Statement
+              </th>
+              <th className="px-2 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Category
+              </th>
+              <th className="px-2 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Behavior
+              </th>
+              <th className="px-2 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Everyday
+              </th>
+              <th className="px-2 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Figure of Speech
+              </th>
+              <th className="px-2 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Judgment
+              </th>
+              <th className="px-2 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Opinion
+              </th>
+              <th className="px-2 !py-1 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                Reasoning
+              </th>
+            </tr>
+          </thead>
+          <tbody className="bg-white divide-y divide-gray-200">
+            {filteredData.map((d, index) => {
+              return (
+                <tr key={`${index}-${d.id}`}>
+                  <td className="px-2 py-4">
+                    <input
+                      type="checkbox"
+                      checked={selectedIds.has(d.id)}
+                      onChange={() => handleCheckboxChange(d.id)}
+                    />
+                  </td>
+                  <td className="px-2 py-4 text-sm text-gray-900">{d.id}</td>
+                  <td className="px-6 py-4 text-sm text-gray-900 break-words">
+                    {d.statement}
+                  </td>
+                  <td className="px-6 py-4 text-sm text-gray-900 break-words">
+                    {d.statementCategory}
+                  </td>
+                  <td className="px-2 py-4 text-sm text-gray-900 text-center">
+                    {d.behavior}
+                  </td>
+                  <td className="px-2 py-4 text-sm text-gray-900 text-center">
+                    {d.everyday}
+                  </td>
+                  <td className="px-2 py-4 text-sm text-gray-900 text-center">
+                    {d.figure_of_speech}
+                  </td>
+                  <td className="px-2 py-4 text-sm text-gray-900 text-center">
+                    {d.judgment}
+                  </td>
+                  <td className="px-2 py-4 text-sm text-gray-900 text-center">
+                    {d.opinion}
+                  </td>
+                  <td className="px-2 py-4 text-sm text-gray-900 text-center">
+                    {d.reasoning}
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </>
+  );
 }
 ```
 
-<div class="grid grid-cols-1">
-  <div class="card">
-    ${resize((width) => launchTimeline(launches, {width}))}
-  </div>
-</div>
-
-<!-- Plot of launch vehicles -->
-
 ```js
-function vehicleChart(data, {width}) {
-  return Plot.plot({
-    title: "Popular launch vehicles",
-    width,
-    height: 300,
-    marginTop: 0,
-    marginLeft: 50,
-    x: {grid: true, label: "Launches"},
-    y: {label: null},
-    color: {...color, legend: true},
-    marks: [
-      Plot.rectX(data, Plot.groupY({x: "count"}, {y: "family", fill: "state", tip: true, sort: {y: "-x"}})),
-      Plot.ruleX([0])
-    ]
-  });
-}
+const subjectInput = html`<input
+  type="text"
+  placeholder="Search for a statement..."
+  class="min-w-[900px] p-2 rounded mt-2 border"
+/>`;
+const search = Generators.input(subjectInput);
 ```
 
-<div class="grid grid-cols-1">
-  <div class="card">
-    ${resize((width) => vehicleChart(launches, {width}))}
-  </div>
-</div>
+${subjectInput}
 
-Data: Jonathan C. McDowell, [General Catalog of Artificial Space Objects](https://planet4589.org/space/gcat)
+```jsx
+display(<Table searchQuery={search || ""} data={statements} />);
+```
+
+---
+
+<script src="https://cdn.tailwindcss.com"></script>

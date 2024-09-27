@@ -4,28 +4,77 @@ import { csvParse, csvFormat } from "d3-dsv"; // For parsing and formatting CSV
 
 async function main() {
   try {
-    // Read the CSV file from the given path
-    const dataText = await fs.readFile(
+    // Read the statements CSV file
+    const statementsText = await fs.readFile(
       "../statements_db_translated.csv",
       "utf8"
     );
 
-    // Parse the CSV data
-    const data = csvParse(dataText);
+    const statements = csvParse(statementsText);
 
-    // Step 1: Collect all parentIds
+    const propertiesText = await fs.readFile(
+      "../features/statementproperties.csv",
+      "utf8"
+    );
+
+    const propertiesData = csvParse(propertiesText);
+
     const parentIdSet = new Set();
-    data.forEach((row) => {
+    statements.forEach((row) => {
       if (row.parentId && row.parentId.trim() !== "") {
         parentIdSet.add(row.parentId.trim());
       }
     });
 
-    // Step 2: Filter out rows that are parents (i.e., their id is in parentIdSet)
-    const filteredData = data.filter((row) => !parentIdSet.has(row.id.trim()));
+    const filteredData = statements.filter(
+      (row) => !parentIdSet.has(row.id.trim())
+    );
 
-    // Output the filtered data as CSV
-    process.stdout.write(csvFormat(filteredData));
+    // Map statementId to its properties
+    const propertiesByStatementId = new Map();
+
+    propertiesData.forEach((prop) => {
+      const statementId = prop.statementId.trim();
+      if (!propertiesByStatementId.has(statementId)) {
+        propertiesByStatementId.set(statementId, []);
+      }
+      propertiesByStatementId.get(statementId).push(prop);
+    });
+
+    // For each statement, add its properties
+    const outputData = filteredData.map((statement) => {
+      const statementId = statement.id.trim();
+      const properties = propertiesByStatementId.get(statementId) || [];
+
+      // Create an object to hold property values
+      const propertiesObj = {};
+      properties.forEach((prop) => {
+        propertiesObj[prop.name] = prop.available;
+      });
+
+      // For properties not in this statement, set to null or default value
+      // Assuming you want to include all possible properties
+      const allPropertyNames = [...new Set(propertiesData.map((p) => p.name))];
+      allPropertyNames.forEach((propName) => {
+        if (!(propName in propertiesObj)) {
+          propertiesObj[propName] = null; // Or default value
+        }
+      });
+
+      return {
+        ...statement,
+        ...propertiesObj,
+      };
+    });
+
+    // Define the order of columns (optional)
+    const columns = [
+      ...Object.keys(filteredData[0]),
+      ...[...new Set(propertiesData.map((p) => p.name))],
+    ];
+
+    // Output the data as CSV
+    process.stdout.write(csvFormat(outputData, columns));
   } catch (error) {
     console.error("Error processing statements:", error);
     process.exit(1); // Exit with an error code
