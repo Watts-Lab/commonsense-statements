@@ -24,7 +24,7 @@
 import {define} from "./_observablehq/client.35f2865f.js";
 import {registerFile} from "./_observablehq/stdlib.b89f0aee.js";
 
-registerFile("./data/statements.csv", {"name":"./data/statements.csv","mimeType":"text/csv","path":"./_file/data/statements.40dfc4dc.csv","lastModified":1727455094682,"size":4990767});
+registerFile("./data/statements.csv", {"name":"./data/statements.csv","mimeType":"text/csv","path":"./_file/data/statements.40dfc4dc.csv","lastModified":1727461246100,"size":4990767});
 
 define({id: "8f94071c", inputs: ["FileAttachment"], outputs: ["statements"], body: async (FileAttachment) => {
 // Load your statements
@@ -34,7 +34,7 @@ const statements = await FileAttachment("./data/statements.csv").csv({
 return {statements};
 }});
 
-define({id: "ff8d6079", mode: "jsx", outputs: ["Fragment","jsx","jsxs","fuzzysort","useState","useEffect","Table"], body: async () => {
+define({id: "20905da3", mode: "jsx", outputs: ["Fragment","jsx","jsxs","fuzzysort","useState","useEffect","Table"], body: async () => {
 const [{Fragment, jsx, jsxs}, {default: fuzzysort}, {useState, useEffect}] = await Promise.all([import("./_npm/react@18.3.1/jsx-runtime.e4a2bff6.js"), import("./_node/fuzzysort@3.0.2/index.c07fac6a.js"), import("./_npm/react@18.3.1/5c25487d.js")]);
 function Table({ searchQuery, data }) {
   if (!data) {
@@ -43,23 +43,26 @@ function Table({ searchQuery, data }) {
   const [selectedIds, setSelectedIds] = useState(/* @__PURE__ */ new Set());
   const [filteredData, setFilteredData] = useState([]);
   const [binaryFilter, setBinaryFilter] = useState({
-    behavior: false,
-    everyday: false,
-    figure_of_speech: false,
-    judgment: false,
-    opinion: false,
-    reasoning: false
+    behavior: "",
+    everyday: "",
+    figure_of_speech: "",
+    judgment: "",
+    opinion: "",
+    reasoning: ""
   });
   useEffect(() => {
-    if (searchQuery && data) {
+    let filtered = data;
+    if (searchQuery) {
       const results = fuzzysort.go(searchQuery, data, {
         keys: ["statement"]
       });
-      setFilteredData(results.map((r) => r.obj));
-    } else {
-      setFilteredData(data);
+      filtered = results.map((r) => r.obj);
     }
-  }, [searchQuery, data]);
+    filtered = filtered.filter((item) => {
+      return (binaryFilter.behavior === "" || binaryFilter.behavior == item.behavior) && (binaryFilter.everyday === "" || binaryFilter.everyday == item.everyday) && (binaryFilter.figure_of_speech === "" || binaryFilter.figure_of_speech == item.figure_of_speech) && (binaryFilter.judgment === "" || binaryFilter.judgment == item.judgment) && (binaryFilter.opinion === "" || binaryFilter.opinion == item.opinion) && (binaryFilter.reasoning === "" || binaryFilter.reasoning == item.reasoning);
+    });
+    setFilteredData(filtered);
+  }, [searchQuery, data, binaryFilter]);
   const handleCheckboxChange = (id) => {
     setSelectedIds((prevSelectedIds) => {
       const newSelectedIds = new Set(prevSelectedIds);
@@ -75,6 +78,12 @@ function Table({ searchQuery, data }) {
     const idsArray = Array.from(selectedIds);
     console.log("Selected IDs:", idsArray);
     setSelectedIds(/* @__PURE__ */ new Set());
+  };
+  const handleFilterChange = (key, value) => {
+    setBinaryFilter((prevFilters) => ({
+      ...prevFilters,
+      [key]: value
+    }));
   };
   return /* @__PURE__ */ jsx(Fragment, { children: /* @__PURE__ */ jsxs("div", { className: "overflow-x-auto", children: [
     /* @__PURE__ */ jsxs("div", { className: "flex items-center space-x-2", children: [
@@ -93,7 +102,28 @@ function Table({ searchQuery, data }) {
           index < selectedIds.size - 1 ? ", " : ""
         ] }, i)),
         "]"
-      ] })
+      ] }),
+      [
+        "behavior",
+        "everyday",
+        "figure_of_speech",
+        "judgment",
+        "opinion",
+        "reasoning"
+      ].map((key) => /* @__PURE__ */ jsxs(
+        "select",
+        {
+          value: binaryFilter[key],
+          onChange: (e) => handleFilterChange(key, e.target.value),
+          className: "border p-1 rounded",
+          children: [
+            /* @__PURE__ */ jsx("option", { value: "", children: key }),
+            /* @__PURE__ */ jsx("option", { value: "0", children: "0" }),
+            /* @__PURE__ */ jsx("option", { value: "1", children: "1" })
+          ]
+        },
+        key
+      ))
     ] }),
     /* @__PURE__ */ jsxs("table", { className: "min-w-full divide-y divide-gray-200", children: [
       /* @__PURE__ */ jsx("thead", { children: /* @__PURE__ */ jsxs("tr", { children: [
@@ -177,7 +207,7 @@ return {jsx};
 <h1 class="text-4xl font-bold mb-4">Export design points</h1>
 This page allows you to export the design points from the experiment buckets.
 <div class="observablehq observablehq--block"><!--:8f94071c:--></div>
-<div class="observablehq observablehq--block"><!--:ff8d6079:--></div>
+<div class="observablehq observablehq--block"><!--:20905da3:--></div>
 <div class="observablehq observablehq--block"><!--:c31e81fd:--></div>
 <p><observablehq-loading></observablehq-loading><!--:4bfa21db:--></p>
 <div class="observablehq observablehq--block"><!--:a34b8605:--></div>
