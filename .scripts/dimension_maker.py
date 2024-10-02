@@ -64,7 +64,7 @@ def classify_text(text: str) -> pd.Series:
         outputs = torch.softmax(outputs.logits, dim=1)
         outputs = outputs[:, 1]
         score = outputs.detach().cpu().numpy()[0]
-        scores[dimension] = bool(score > 0.5)
+        scores[dimension] = int(score > 0.5)
     return pd.Series(scores)
 
 
