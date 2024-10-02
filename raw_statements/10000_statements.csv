@@ -1,0 +1,1250 @@
+statement,source,nlp_score
+"""A river of tears"" means heavy crying.",gpt-4o design point,"""A river of tears"" means heavy crying."
+2 + 2 = 4.,gpt-4o design point,2 + 2 = 4.
+3D printing revolutionizes manufacturing processes.,gpt-4o design point,3D printing revolutionizes manufacturing processes.
+"3D printing revolutionizes manufacturing processes.
+
+Celebrating achievements fosters positivity.",gpt-4o design point,"3D printing revolutionizes manufacturing processes.
+
+Celebrating achievements fosters positivity."
+A barking dog seldom bites.,gpt-4o design point,A barking dog seldom bites.
+A bird in the hand.,gpt-4o design point,A bird in the hand.
+A blanket keeps you warm.,gpt-4o design point,A blanket keeps you warm.
+A book contains pages of information.,gpt-4o design point,A book contains pages of information.
+A calm demeanor eases stressful situations.,gpt-4o design point,A calm demeanor eases stressful situations.
+A clear goal sets the path.,gpt-4o design point,A clear goal sets the path.
+A dime a dozen means common.,gpt-4o design point,A dime a dozen means common.
+A hearty breakfast fuels your day.,gpt-4o design point,A hearty breakfast fuels your day.
+A high salt diet is unhealthy.,gpt-4o design point,A high salt diet is unhealthy.
+A hot bath relaxes muscles.,gpt-4o design point,A hot bath relaxes muscles.
+A hug can mend a heart.,gpt-4o design point,A hug can mend a heart.
+A pat on the back boosts morale.,gpt-4o design point,A pat on the back boosts morale.
+A right angle is exactly 90 degrees.,gpt-4o design point,A right angle is exactly 90 degrees.
+A rising tide lifts all boats.,gpt-4o design point,A rising tide lifts all boats.
+A river's flow is soothing.,gpt-4o design point,A river's flow is soothing.
+A rolling stone gathers no moss.,gpt-4o design point,A rolling stone gathers no moss.
+A smile is contagious.,gpt-4o design point,A smile is contagious.
+A stich in time saves nine.,gpt-4o design point,A stich in time saves nine.
+A tidy space invites calm.,gpt-4o design point,A tidy space invites calm.
+A warm smile invites friendliness.,gpt-4o design point,A warm smile invites friendliness.
+A watched pot never boils.,gpt-4o design point,A watched pot never boils.
+AI algorithms require quality data input.,gpt-4o design point,AI algorithms require quality data input.
+AI can improve medical diagnoses.,gpt-4o design point,AI can improve medical diagnoses.
+AI can optimize logistics.,gpt-4o design point,AI can optimize logistics.
+AI chatbots provide customer support.,gpt-4o design point,AI chatbots provide customer support.
+AI enhances educational tools.,gpt-4o design point,AI enhances educational tools.
+AI ethics address bias concerns.,gpt-4o design point,AI ethics address bias concerns.
+AI ethics ensure fair algorithms.,gpt-4o design point,AI ethics ensure fair algorithms.
+Abraham Lincoln delivered the Gettysburg Address.,gpt-4o design point,Abraham Lincoln delivered the Gettysburg Address.
+Abraham Lincoln was the 16th President of the USA.,gpt-4o design point,Abraham Lincoln was the 16th President of the USA.
+Absence makes the heart grow fonder.,gpt-4o design point,Absence makes the heart grow fonder.
+Abstract algebra studies algebraic structures.,gpt-4o design point,Abstract algebra studies algebraic structures.
+Abstract art challenges traditional perceptions.,gpt-4o design point,Abstract art challenges traditional perceptions.
+Abstract sculpture evokes unique interpretations.,gpt-4o design point,Abstract sculpture evokes unique interpretations.
+Accurate measurements ensure reliability.,gpt-4o design point,Accurate measurements ensure reliability.
+Act with kindness.,gpt-4o design point,Act with kindness.
+Actions have consequences.,gpt-4o design point,Actions have consequences.
+Actions speak louder than words.,gpt-4o design point,Actions speak louder than words.
+Active lifestyles reduce health risks.,gpt-4o design point,Active lifestyles reduce health risks.
+Adaptive behaviors enhance social adaptability.,gpt-4o design point,Adaptive behaviors enhance social adaptability.
+Addition combines quantities.,gpt-4o design point,Addition combines quantities.
+Adequate rest aids recovery.,gpt-4o design point,Adequate rest aids recovery.
+Adhering to deadlines shows responsibility.,gpt-4o design point,Adhering to deadlines shows responsibility.
+Admitting fault shows maturity.,gpt-4o design point,Admitting fault shows maturity.
+Advances in medicine extend human life.,gpt-4o design point,Advances in medicine extend human life.
+Advocacy supports social change.,gpt-4o design point,Advocacy supports social change.
+Against the clock.,gpt-4o design point,Against the clock.
+Agnosticism questions the existence of deities.,gpt-4o design point,Agnosticism questions the existence of deities.
+Alaska offers stunning natural beauty.,gpt-4o design point,Alaska offers stunning natural beauty.
+Alaska's glaciers are awe-inspiring.,gpt-4o design point,Alaska's glaciers are awe-inspiring.
+Albania's coast is untouched.,gpt-4o design point,Albania's coast is untouched.
+Albert Einstein formulated E=mc^2.,gpt-4o design point,Albert Einstein formulated E=mc^2.
+Alfred Nobel invented dynamite.,gpt-4o design point,Alfred Nobel invented dynamite.
+Algebra is foundational for advanced math.,gpt-4o design point,Algebra is foundational for advanced math.
+Algorithmic logic drives computations.,gpt-4o design point,Algorithmic logic drives computations.
+All roads lead to Rome.,gpt-4o design point,All roads lead to Rome.
+Almanacs are annual publications with various statistics.,gpt-4o design point,Almanacs are annual publications with various statistics.
+Almanacs provide seasonal weather forecasts.,gpt-4o design point,Almanacs provide seasonal weather forecasts.
+Always return borrowed items.,gpt-4o design point,Always return borrowed items.
+An arm and a leg.,gpt-4o design point,An arm and a leg.
+"An equivalence relation is reflexive, symmetric, and transitive.",gpt-4o design point,"An equivalence relation is reflexive, symmetric, and transitive."
+Analysis of facts informs strategy.,gpt-4o design point,Analysis of facts informs strategy.
+Analytical approaches identify root causes.,gpt-4o design point,Analytical approaches identify root causes.
+Analytical reviews enhance processes.,gpt-4o design point,Analytical reviews enhance processes.
+Ancient Greek tragedies influenced modern drama.,gpt-4o design point,Ancient Greek tragedies influenced modern drama.
+Ancient artifacts tell historical stories.,gpt-4o design point,Ancient artifacts tell historical stories.
+Ancient civilizations left lasting legacies.,gpt-4o design point,Ancient civilizations left lasting legacies.
+Animation combines art and technology.,gpt-4o design point,Animation combines art and technology.
+Antarctica is a frozen wonderland.,gpt-4o design point,Antarctica is a frozen wonderland.
+Antarctica is covered in ice.,gpt-4o design point,Antarctica is covered in ice.
+Antioxidants in fruits protect cells from damage.,gpt-4o design point,Antioxidants in fruits protect cells from damage.
+Apologizing can heal strained relations.,gpt-4o design point,Apologizing can heal strained relations.
+Apologizing can restore harmony.,gpt-4o design point,Apologizing can restore harmony.
+Apologizing restorers harmony.,gpt-4o design point,Apologizing restorers harmony.
+Apologizing restores relationships.,gpt-4o design point,Apologizing restores relationships.
+Apples are a healthy snack.,gpt-4o design point,Apples are a healthy snack.
+Apples grow on trees.,gpt-4o design point,Apples grow on trees.
+Applying cold packs reduces swelling.,gpt-4o design point,Applying cold packs reduces swelling.
+Appreciate small joys.,gpt-4o design point,Appreciate small joys.
+Appreciating beauty enhances life.,gpt-4o design point,Appreciating beauty enhances life.
+Arbor Day celebrates tree planting.,gpt-4o design point,Arbor Day celebrates tree planting.
+Architectural design impacts habitat and aesthetics.,gpt-4o design point,Architectural design impacts habitat and aesthetics.
+Architecture shapes our built environment.,gpt-4o design point,Architecture shapes our built environment.
+Argentina's Pampas are vast grasslands.,gpt-4o design point,Argentina's Pampas are vast grasslands.
+Aristotle was a student of Plato.,gpt-4o design point,Aristotle was a student of Plato.
+"Aristotle’s ""golden mean"" suggests virtue in moderation.",gpt-4o design point,"Aristotle’s ""golden mean"" suggests virtue in moderation."
+Arithmetic sequences have a constant difference.,gpt-4o design point,Arithmetic sequences have a constant difference.
+Art fosters emotional expression.,gpt-4o design point,Art fosters emotional expression.
+Art reflects cultural values.,gpt-4o design point,Art reflects cultural values.
+Art stimulates the mind.,gpt-4o design point,Art stimulates the mind.
+Artificial intelligence personalizes user experiences.,gpt-4o design point,Artificial intelligence personalizes user experiences.
+Artificial intelligence transforms industries.,gpt-4o design point,Artificial intelligence transforms industries.
+As cool as a cucumber.,gpt-4o design point,As cool as a cucumber.
+Asceticism involves self-discipline and abstention.,gpt-4o design point,Asceticism involves self-discipline and abstention.
+Assertive communication conveys confidence.,gpt-4o design point,Assertive communication conveys confidence.
+Astronomy studies celestial objects and phenomena.,gpt-4o design point,Astronomy studies celestial objects and phenomena.
+Atheism rejects belief in deities.,gpt-4o design point,Atheism rejects belief in deities.
+Athena is a deity in Greek mythology.,gpt-4o design point,Athena is a deity in Greek mythology.
+Atlas maps display geographical features.,gpt-4o design point,Atlas maps display geographical features.
+Atlases contain maps of the world.,gpt-4o design point,Atlases contain maps of the world.
+Atoms make up everything.,gpt-4o design point,Atoms make up everything.
+Attending film festivals broadens cinematic appreciation.,gpt-4o design point,Attending film festivals broadens cinematic appreciation.
+Automation requires ethical considerations.,gpt-4o design point,Automation requires ethical considerations.
+Automobiles revolutionized transportation.,gpt-4o design point,Automobiles revolutionized transportation.
+Autonomous robots assist in manufacturing.,gpt-4o design point,Autonomous robots assist in manufacturing.
+Autonomous vehicles require robust sensors.,gpt-4o design point,Autonomous vehicles require robust sensors.
+Bacteria can be killed by antibiotics.,gpt-4o design point,Bacteria can be killed by antibiotics.
+Baking fills the house with warmth.,gpt-4o design point,Baking fills the house with warmth.
+Baking is like therapy.,gpt-4o design point,Baking is like therapy.
+Ballet requires both skill and grace.,gpt-4o design point,Ballet requires both skill and grace.
+Bayesian logic updates probabilities with new evidence.,gpt-4o design point,Bayesian logic updates probabilities with new evidence.
+Beachcombing finds hidden treasures.,gpt-4o design point,Beachcombing finds hidden treasures.
+Beaches have waves.,gpt-4o design point,Beaches have waves.
+Beat around the bush.,gpt-4o design point,Beat around the bush.
+Beauty is skin deep.,gpt-4o design point,Beauty is skin deep.
+"Bees pollinate plants, supporting ecosystems.",gpt-4o design point,"Bees pollinate plants, supporting ecosystems."
+Bees produce honey.,gpt-4o design point,Bees produce honey.
+Beethoven composed the Ninth Symphony.,gpt-4o design point,Beethoven composed the Ninth Symphony.
+Beethoven's compositions have enduring influence.,gpt-4o design point,Beethoven's compositions have enduring influence.
+Beggars can't be choosers.,gpt-4o design point,Beggars can't be choosers.
+Being efficient saves time.,gpt-4o design point,Being efficient saves time.
+Belgium is known for its chocolates and waffles.,gpt-4o design point,Belgium is known for its chocolates and waffles.
+Berlin Wall falling symbolized new freedoms.,gpt-4o design point,Berlin Wall falling symbolized new freedoms.
+Biometrics offers secure identification methods.,gpt-4o design point,Biometrics offers secure identification methods.
+Birds build nests in trees.,gpt-4o design point,Birds build nests in trees.
+Birds migrate in winter.,gpt-4o design point,Birds migrate in winter.
+Blockchain ensures secure transactions.,gpt-4o design point,Blockchain ensures secure transactions.
+Blockchain provides decentralized data security.,gpt-4o design point,Blockchain provides decentralized data security.
+Blogging encourages self-expression.,gpt-4o design point,Blogging encourages self-expression.
+Blood cells transport oxygen and nutrients.,gpt-4o design point,Blood cells transport oxygen and nutrients.
+Body language communicates feelings.,gpt-4o design point,Body language communicates feelings.
+Body markings like henna have religious significance.,gpt-4o design point,Body markings like henna have religious significance.
+Bone density decreases with age.,gpt-4o design point,Bone density decreases with age.
+Boolean algebra manipulates logical variables.,gpt-4o design point,Boolean algebra manipulates logical variables.
+Brainstorming sessions generate creative ideas.,gpt-4o design point,Brainstorming sessions generate creative ideas.
+Brazil's Pantanal is a massive wetland.,gpt-4o design point,Brazil's Pantanal is a massive wetland.
+Breaking the ice eases tensions.,gpt-4o design point,Breaking the ice eases tensions.
+Bridges connect communities and ideas.,gpt-4o design point,Bridges connect communities and ideas.
+Bright as a button.,gpt-4o design point,Bright as a button.
+Bright smiles spread joy.,gpt-4o design point,Bright smiles spread joy.
+Buddhism teaches the Four Noble Truths.,gpt-4o design point,Buddhism teaches the Four Noble Truths.
+Buddhist sutras contain the teachings of Buddha.,gpt-4o design point,Buddhist sutras contain the teachings of Buddha.
+Building models encourages imaginative thinking.,gpt-4o design point,Building models encourages imaginative thinking.
+Bulgaria's mountains offer great hiking.,gpt-4o design point,Bulgaria's mountains offer great hiking.
+Burning the midnight oil.,gpt-4o design point,Burning the midnight oil.
+Busy as a bee.,gpt-4o design point,Busy as a bee.
+Butterflies in the stomach mean nervousness.,gpt-4o design point,Butterflies in the stomach mean nervousness.
+CRISPR technology allows precise gene editing.,gpt-4o design point,CRISPR technology allows precise gene editing.
+Calculations quantify abstract concepts.,gpt-4o design point,Calculations quantify abstract concepts.
+Calculus studies change and motion.,gpt-4o design point,Calculus studies change and motion.
+California features diverse landscapes.,gpt-4o design point,California features diverse landscapes.
+Calligraphy turns writing into art.,gpt-4o design point,Calligraphy turns writing into art.
+Calm before the storm.,gpt-4o design point,Calm before the storm.
+Canada has vast wilderness.,gpt-4o design point,Canada has vast wilderness.
+Canada's provinces are culturally diverse.,gpt-4o design point,Canada's provinces are culturally diverse.
+Careful evaluation refines hypotheses.,gpt-4o design point,Careful evaluation refines hypotheses.
+Careful planning improves outcomes.,gpt-4o design point,Careful planning improves outcomes.
+Careful research uncovers hidden truths.,gpt-4o design point,Careful research uncovers hidden truths.
+Carl Sagan popularized science through his works.,gpt-4o design point,Carl Sagan popularized science through his works.
+Carpe diem (Seize the day).,gpt-4o design point,Carpe diem (Seize the day).
+Cartesian coordinates use x and y axes.,gpt-4o design point,Cartesian coordinates use x and y axes.
+Cartoons often blend humor and insight.,gpt-4o design point,Cartoons often blend humor and insight.
+Cats purr when content.,gpt-4o design point,Cats purr when content.
+Cats typically dislike getting wet.,gpt-4o design point,Cats typically dislike getting wet.
+Celebrate small victories.,gpt-4o design point,Celebrate small victories.
+Celebrating diversity brings unity.,gpt-4o design point,Celebrating diversity brings unity.
+Celebrating holidays unites communities.,gpt-4o design point,Celebrating holidays unites communities.
+Celebrating milestones brings joy.,gpt-4o design point,Celebrating milestones brings joy.
+Celebrating milestones builds morale.,gpt-4o design point,Celebrating milestones builds morale.
+Celebrating milestones nurtures growth.,gpt-4o design point,Celebrating milestones nurtures growth.
+Celebrating milestones strengthens bonds.,gpt-4o design point,Celebrating milestones strengthens bonds.
+Celebrating togetherness deepens relationships.,gpt-4o design point,Celebrating togetherness deepens relationships.
+Cellular respiration produces energy in living organisms.,gpt-4o design point,Cellular respiration produces energy in living organisms.
+Ceramics blend function and beauty.,gpt-4o design point,Ceramics blend function and beauty.
+Changing seasons affect daylight hours.,gpt-4o design point,Changing seasons affect daylight hours.
+Charity begins at home.,gpt-4o design point,Charity begins at home.
+Chemical reactions often release energy.,gpt-4o design point,Chemical reactions often release energy.
+Chemistry explores the properties of substances.,gpt-4o design point,Chemistry explores the properties of substances.
+Cherish your loved ones.,gpt-4o design point,Cherish your loved ones.
+Chile's Atacama Desert is otherworldly.,gpt-4o design point,Chile's Atacama Desert is otherworldly.
+China's Yangtze River is mighty.,gpt-4o design point,China's Yangtze River is mighty.
+Choreography guides dance movements.,gpt-4o design point,Choreography guides dance movements.
+Cicero's wisdom transcends centuries.,gpt-4o design point,Cicero's wisdom transcends centuries.
+Cinema can influence popular culture.,gpt-4o design point,Cinema can influence popular culture.
+Circles have a constant radius.,gpt-4o design point,Circles have a constant radius.
+Civic participation strengthens democracy.,gpt-4o design point,Civic participation strengthens democracy.
+Civil rights movements championed equality.,gpt-4o design point,Civil rights movements championed equality.
+Claude Monet pioneered the Impressionist movement.,gpt-4o design point,Claude Monet pioneered the Impressionist movement.
+Clean hands prevent illness.,gpt-4o design point,Clean hands prevent illness.
+Clean homes are inviting.,gpt-4o design point,Clean homes are inviting.
+"Clean space, clear mind.",gpt-4o design point,"Clean space, clear mind."
+Clean water supports life.,gpt-4o design point,Clean water supports life.
+Cleaning clutter clears the mind.,gpt-4o design point,Cleaning clutter clears the mind.
+Cleanliness is next to godliness.,gpt-4o design point,Cleanliness is next to godliness.
+Clear arguments gain agreement.,gpt-4o design point,Clear arguments gain agreement.
+Clear frameworks guide inquiry.,gpt-4o design point,Clear frameworks guide inquiry.
+Clear goals guide actions.,gpt-4o design point,Clear goals guide actions.
+Clear logic disentangles problems.,gpt-4o design point,Clear logic disentangles problems.
+Clear logic explains phenomena.,gpt-4o design point,Clear logic explains phenomena.
+Clear structures elucidate concepts.,gpt-4o design point,Clear structures elucidate concepts.
+Clergy often serve as community leaders.,gpt-4o design point,Clergy often serve as community leaders.
+Clichés often carry profound truths.,gpt-4o design point,Clichés often carry profound truths.
+Climbing stairs improves fitness.,gpt-4o design point,Climbing stairs improves fitness.
+Cloud computing enables collaboration.,gpt-4o design point,Cloud computing enables collaboration.
+Clouds are formed from water vapor.,gpt-4o design point,Clouds are formed from water vapor.
+Clouds precipitate rain.,gpt-4o design point,Clouds precipitate rain.
+Coffee has a strong aroma.,gpt-4o design point,Coffee has a strong aroma.
+Coherent presentations facilitate understanding.,gpt-4o design point,Coherent presentations facilitate understanding.
+Collaborating harmonizes diverse ideas.,gpt-4o design point,Collaborating harmonizes diverse ideas.
+Collaboration boosts creativity.,gpt-4o design point,Collaboration boosts creativity.
+Collaboration drives success.,gpt-4o design point,Collaboration drives success.
+Collective action addresses global challenges.,gpt-4o design point,Collective action addresses global challenges.
+Collective wisdom drives crowdsourcing.,gpt-4o design point,Collective wisdom drives crowdsourcing.
+Colosseums symbolize ancient civilizations.,gpt-4o design point,Colosseums symbolize ancient civilizations.
+Comforting words ease difficult emotions.,gpt-4o design point,Comforting words ease difficult emotions.
+Comic books blend text and visuals.,gpt-4o design point,Comic books blend text and visuals.
+Common courtesy smooths interactions.,gpt-4o design point,Common courtesy smooths interactions.
+Communal worship strengthens faith.,gpt-4o design point,Communal worship strengthens faith.
+Communication builds bridges.,gpt-4o design point,Communication builds bridges.
+Communion is a central Christian sacrament.,gpt-4o design point,Communion is a central Christian sacrament.
+Complaints should be addressed politely.,gpt-4o design point,Complaints should be addressed politely.
+Complex numbers include real and imaginary parts.,gpt-4o design point,Complex numbers include real and imaginary parts.
+Compliments are like emotional hugs.,gpt-4o design point,Compliments are like emotional hugs.
+Compliments boost self-esteem.,gpt-4o design point,Compliments boost self-esteem.
+Compliments uplift spirits.,gpt-4o design point,Compliments uplift spirits.
+Composting kitchen waste enriches garden soil.,gpt-4o design point,Composting kitchen waste enriches garden soil.
+Composting reduces household waste.,gpt-4o design point,Composting reduces household waste.
+Computer simulations model complex systems.,gpt-4o design point,Computer simulations model complex systems.
+Concrete weighs more than wood.,gpt-4o design point,Concrete weighs more than wood.
+Confucian texts guide moral behavior.,gpt-4o design point,Confucian texts guide moral behavior.
+Confucianism values filial piety and respect.,gpt-4o design point,Confucianism values filial piety and respect.
+Confucius emphasized moral integrity.,gpt-4o design point,Confucius emphasized moral integrity.
+Consecutive integers differ by one.,gpt-4o design point,Consecutive integers differ by one.
+Conservation efforts protect endangered species.,gpt-4o design point,Conservation efforts protect endangered species.
+Consistency builds character.,gpt-4o design point,Consistency builds character.
+Consistency builds reliable habits.,gpt-4o design point,Consistency builds reliable habits.
+Consistency ensures reliability.,gpt-4o design point,Consistency ensures reliability.
+Consistent practice brings mastery.,gpt-4o design point,Consistent practice brings mastery.
+Constructive criticism aids growth.,gpt-4o design point,Constructive criticism aids growth.
+Cooking at home saves money.,gpt-4o design point,Cooking at home saves money.
+Cooking teaches patience.,gpt-4o design point,Cooking teaches patience.
+Counting numbers start from one.,gpt-4o design point,Counting numbers start from one.
+Courtesy counts in daily interactions.,gpt-4o design point,Courtesy counts in daily interactions.
+Cozy nooks invite reading.,gpt-4o design point,Cozy nooks invite reading.
+Crafting homemade gifts shows thoughtfulness.,gpt-4o design point,Crafting homemade gifts shows thoughtfulness.
+Crafting projects encourage creativity.,gpt-4o design point,Crafting projects encourage creativity.
+Creating art relieves stress.,gpt-4o design point,Creating art relieves stress.
+Creative hobbies uplift mood.,gpt-4o design point,Creative hobbies uplift mood.
+Creativity fuels innovation.,gpt-4o design point,Creativity fuels innovation.
+Creativity fuels problem-solving.,gpt-4o design point,Creativity fuels problem-solving.
+Crime doesn’t pay.,gpt-4o design point,Crime doesn’t pay.
+Crisp air characterizes fall.,gpt-4o design point,Crisp air characterizes fall.
+Critical analysis refines models.,gpt-4o design point,Critical analysis refines models.
+Critical thinking identifies errors.,gpt-4o design point,Critical thinking identifies errors.
+Cultural dance preserves traditions.,gpt-4o design point,Cultural dance preserves traditions.
+Cultural narratives shape identity.,gpt-4o design point,Cultural narratives shape identity.
+Cultural sagas recount historical events.,gpt-4o design point,Cultural sagas recount historical events.
+Cultural symbols carry deep meanings.,gpt-4o design point,Cultural symbols carry deep meanings.
+Curiosity drives learning.,gpt-4o design point,Curiosity drives learning.
+Curiosity killed the cat.,gpt-4o design point,Curiosity killed the cat.
+Cut your coat according to your cloth.,gpt-4o design point,Cut your coat according to your cloth.
+Cyber hygiene protects against online threats.,gpt-4o design point,Cyber hygiene protects against online threats.
+Cyber laws shape digital governance.,gpt-4o design point,Cyber laws shape digital governance.
+Cyber threats require advanced security measures.,gpt-4o design point,Cyber threats require advanced security measures.
+Cybersecurity protects sensitive information.,gpt-4o design point,Cybersecurity protects sensitive information.
+Cycling keeps you young.,gpt-4o design point,Cycling keeps you young.
+Cycling tones leg muscles.,gpt-4o design point,Cycling tones leg muscles.
+Cyprus blends many cultures.,gpt-4o design point,Cyprus blends many cultures.
+DNA carries genetic information.,gpt-4o design point,DNA carries genetic information.
+Daily routines provide structure.,gpt-4o design point,Daily routines provide structure.
+Dali's surrealism challenged perceptions of reality.,gpt-4o design point,Dali's surrealism challenged perceptions of reality.
+Dance expresses human emotion.,gpt-4o design point,Dance expresses human emotion.
+Dance performances tell compelling stories.,gpt-4o design point,Dance performances tell compelling stories.
+Dancing releases endorphins.,gpt-4o design point,Dancing releases endorphins.
+Data analysis reveals trends.,gpt-4o design point,Data analysis reveals trends.
+Data encryption ensures privacy.,gpt-4o design point,Data encryption ensures privacy.
+Data visualization aids understanding.,gpt-4o design point,Data visualization aids understanding.
+Daylight follows dawn.,gpt-4o design point,Daylight follows dawn.
+Decorating for holidays brings joyful spirit.,gpt-4o design point,Decorating for holidays brings joyful spirit.
+Deforestation leads to loss of biodiversity.,gpt-4o design point,Deforestation leads to loss of biodiversity.
+"Deism believes in a distant, non-interventionist God.",gpt-4o design point,"Deism believes in a distant, non-interventionist God."
+Democratic values underpin good governance.,gpt-4o design point,Democratic values underpin good governance.
+Denmark boasts high quality of life.,gpt-4o design point,Denmark boasts high quality of life.
+Denmark's design is top-notch.,gpt-4o design point,Denmark's design is top-notch.
+Dental floss removes plaque and food particles.,gpt-4o design point,Dental floss removes plaque and food particles.
+Derivatives measure rates of change.,gpt-4o design point,Derivatives measure rates of change.
+"Descartes' ""Cogito, ergo sum"" emphasizes self-awareness.",gpt-4o design point,"Descartes' ""Cogito, ergo sum"" emphasizes self-awareness."
+Desert sand is very hot.,gpt-4o design point,Desert sand is very hot.
+Deserts are arid.,gpt-4o design point,Deserts are arid.
+Detecting patterns aids in predictions.,gpt-4o design point,Detecting patterns aids in predictions.
+Dictionaries are useful for word meanings.,gpt-4o design point,Dictionaries are useful for word meanings.
+Dietary fiber aids digestion.,gpt-4o design point,Dietary fiber aids digestion.
+Digital currencies enable decentralized transactions.,gpt-4o design point,Digital currencies enable decentralized transactions.
+Digital entertainment often uses virtual reality.,gpt-4o design point,Digital entertainment often uses virtual reality.
+Digital innovations transform businesses.,gpt-4o design point,Digital innovations transform businesses.
+Digital tools simplify tasks.,gpt-4o design point,Digital tools simplify tasks.
+Digital transformation enhances business agility.,gpt-4o design point,Digital transformation enhances business agility.
+Digital transformation reshapes industries.,gpt-4o design point,Digital transformation reshapes industries.
+Diverse backgrounds enrich discussions.,gpt-4o design point,Diverse backgrounds enrich discussions.
+Diverse teams generate creativity.,gpt-4o design point,Diverse teams generate creativity.
+Diversification reduces investment risks.,gpt-4o design point,Diversification reduces investment risks.
+Diving meetings usually require an agenda and structure.,gpt-4o design point,Diving meetings usually require an agenda and structure.
+Dogs are loyal animals.,gpt-4o design point,Dogs are loyal animals.
+Don't cry over spilled milk.,gpt-4o design point,Don't cry over spilled milk.
+Don’t cut corners.,gpt-4o design point,Don’t cut corners.
+Double-checking work prevents errors.,gpt-4o design point,Double-checking work prevents errors.
+Drawing improves fine motor skills.,gpt-4o design point,Drawing improves fine motor skills.
+Dress warmly in cold weather.,gpt-4o design point,Dress warmly in cold weather.
+Driftwood often decorates coastlines.,gpt-4o design point,Driftwood often decorates coastlines.
+Drink water for clear skin.,gpt-4o design point,Drink water for clear skin.
+Drinking tea can be calming.,gpt-4o design point,Drinking tea can be calming.
+Drones are used for aerial photography.,gpt-4o design point,Drones are used for aerial photography.
+Drones offer efficient delivery solutions.,gpt-4o design point,Drones offer efficient delivery solutions.
+E=mc^2 is Einstein's theory of relativity.,gpt-4o design point,E=mc^2 is Einstein's theory of relativity.
+E=mc^2 represents the equivalence of energy and mass.,gpt-4o design point,E=mc^2 represents the equivalence of energy and mass.
+Early birds catch the worm.,gpt-4o design point,Early birds catch the worm.
+Early mornings are productive.,gpt-4o design point,Early mornings are productive.
+Early risers get a head start.,gpt-4o design point,Early risers get a head start.
+"Early to bed, early to rise.",gpt-4o design point,"Early to bed, early to rise."
+Earth has varied climates.,gpt-4o design point,Earth has varied climates.
+Earth’s crust is diverse.,gpt-4o design point,Earth’s crust is diverse.
+Eat like a horse.,gpt-4o design point,Eat like a horse.
+Eating slowly aids digestion.,gpt-4o design point,Eating slowly aids digestion.
+Ecosystems rely on balanced interactions.,gpt-4o design point,Ecosystems rely on balanced interactions.
+Ecuador's Galápagos Islands are unique.,gpt-4o design point,Ecuador's Galápagos Islands are unique.
+Educated guesses help make predictions.,gpt-4o design point,Educated guesses help make predictions.
+Education broadens horizons.,gpt-4o design point,Education broadens horizons.
+Effective planning guides success.,gpt-4o design point,Effective planning guides success.
+Efficient algorithms optimize performance.,gpt-4o design point,Efficient algorithms optimize performance.
+Efficient workflows increase output.,gpt-4o design point,Efficient workflows increase output.
+Egypt is known for its pyramids.,gpt-4o design point,Egypt is known for its pyramids.
+Egypt's Nile Valley is historically rich.,gpt-4o design point,Egypt's Nile Valley is historically rich.
+Electric cars reduce carbon emissions.,gpt-4o design point,Electric cars reduce carbon emissions.
+Electricity powers modern technology.,gpt-4o design point,Electricity powers modern technology.
+Electricity powers our daily lives.,gpt-4o design point,Electricity powers our daily lives.
+Electrons orbit the nucleus of an atom.,gpt-4o design point,Electrons orbit the nucleus of an atom.
+Empathy bridges differences.,gpt-4o design point,Empathy bridges differences.
+Empathy fosters connection.,gpt-4o design point,Empathy fosters connection.
+Empathy strengthens bonds.,gpt-4o design point,Empathy strengthens bonds.
+Encourage others often.,gpt-4o design point,Encourage others often.
+Encouragement builds confidence.,gpt-4o design point,Encouragement builds confidence.
+Encouragement fuels motivation.,gpt-4o design point,Encouragement fuels motivation.
+Encouragement inspires action.,gpt-4o design point,Encouragement inspires action.
+Encouragement is a powerful motivator.,gpt-4o design point,Encouragement is a powerful motivator.
+Encyclopedias contain authoritative information.,gpt-4o design point,Encyclopedias contain authoritative information.
+Engaging in rituals promotes continuity.,gpt-4o design point,Engaging in rituals promotes continuity.
+Engaging stories captivate the mind.,gpt-4o design point,Engaging stories captivate the mind.
+Environmental conservation is vital.,gpt-4o design point,Environmental conservation is vital.
+Epic narrations recount legendary deeds.,gpt-4o design point,Epic narrations recount legendary deeds.
+Epic poems narrate grand tales.,gpt-4o design point,Epic poems narrate grand tales.
+Equations balance two expressions.,gpt-4o design point,Equations balance two expressions.
+Ergonomic setups reduce workplace injuries.,gpt-4o design point,Ergonomic setups reduce workplace injuries.
+Ethical dilemmas challenge moral clarity.,gpt-4o design point,Ethical dilemmas challenge moral clarity.
+Ethical hacking safeguards systems.,gpt-4o design point,Ethical hacking safeguards systems.
+Ethics matter in genetic engineering.,gpt-4o design point,Ethics matter in genetic engineering.
+Euclidean geometry underpins many mathematical principles.,gpt-4o design point,Euclidean geometry underpins many mathematical principles.
+Evaluating actions predicts results.,gpt-4o design point,Evaluating actions predicts results.
+Evaluating arguments refines ideas.,gpt-4o design point,Evaluating arguments refines ideas.
+Evaluating evidence strengthens cases.,gpt-4o design point,Evaluating evidence strengthens cases.
+Evaluating pros and cons aids decisions.,gpt-4o design point,Evaluating pros and cons aids decisions.
+Evaluations appraise performance.,gpt-4o design point,Evaluations appraise performance.
+Evaluations assess impacts.,gpt-4o design point,Evaluations assess impacts.
+Evening walks help to unwind.,gpt-4o design point,Evening walks help to unwind.
+Every rose has its thorn.,gpt-4o design point,Every rose has its thorn.
+Evolutionary biology explores species' adaptive changes.,gpt-4o design point,Evolutionary biology explores species' adaptive changes.
+Exercise enhances mood.,gpt-4o design point,Exercise enhances mood.
+Exercising daily revitalizes you.,gpt-4o design point,Exercising daily revitalizes you.
+Exercising promotes health.,gpt-4o design point,Exercising promotes health.
+Existence precedes essence in existentialist philosophy.,gpt-4o design point,Existence precedes essence in existentialist philosophy.
+Exorcisms expel evil spirits.,gpt-4o design point,Exorcisms expel evil spirits.
+Exploring nature sparks curiosity.,gpt-4o design point,Exploring nature sparks curiosity.
+Exponents describe repeated multiplication.,gpt-4o design point,Exponents describe repeated multiplication.
+Eye contact shows attentiveness.,gpt-4o design point,Eye contact shows attentiveness.
+Face challenges head-on.,gpt-4o design point,Face challenges head-on.
+Fact-checking ensures accuracy.,gpt-4o design point,Fact-checking ensures accuracy.
+Factorization breaks numbers into prime components.,gpt-4o design point,Factorization breaks numbers into prime components.
+Facts are foundational in learning.,gpt-4o design point,Facts are foundational in learning.
+Facts don't lie.,gpt-4o design point,Facts don't lie.
+Facts help understand realities.,gpt-4o design point,Facts help understand realities.
+Facts prove the argument.,gpt-4o design point,Facts prove the argument.
+Facts validate opinions.,gpt-4o design point,Facts validate opinions.
+Facts will eventually surface.,gpt-4o design point,Facts will eventually surface.
+Fair weather friends are unreliable.,gpt-4o design point,Fair weather friends are unreliable.
+Faith can move mountains.,gpt-4o design point,Faith can move mountains.
+Faith guides our moral compass.,gpt-4o design point,Faith guides our moral compass.
+Faith in times of uncertainty.,gpt-4o design point,Faith in times of uncertainty.
+Familiarity breeds contempt.,gpt-4o design point,Familiarity breeds contempt.
+Farmers markets often have fresher produce.,gpt-4o design point,Farmers markets often have fresher produce.
+"Feed a cold, starve a fever.",gpt-4o design point,"Feed a cold, starve a fever."
+Fertile soil is a farmer's gold.,gpt-4o design point,Fertile soil is a farmer's gold.
+Festivals unite communities.,gpt-4o design point,Festivals unite communities.
+Fields of lavender smell calming.,gpt-4o design point,Fields of lavender smell calming.
+Figurative art represents human forms.,gpt-4o design point,Figurative art represents human forms.
+"Finders keepers, losers weepers.",gpt-4o design point,"Finders keepers, losers weepers."
+Fire is hot and burns.,gpt-4o design point,Fire is hot and burns.
+Firm handshakes show confidence.,gpt-4o design point,Firm handshakes show confidence.
+First impressions are lasting.,gpt-4o design point,First impressions are lasting.
+First things first.,gpt-4o design point,First things first.
+Fish oils benefit brain health.,gpt-4o design point,Fish oils benefit brain health.
+Fish swim in water.,gpt-4o design point,Fish swim in water.
+Fitness boosts mental health.,gpt-4o design point,Fitness boosts mental health.
+Fitness trackers monitor physical activity.,gpt-4o design point,Fitness trackers monitor physical activity.
+Flexibility prevents injuries.,gpt-4o design point,Flexibility prevents injuries.
+Flowers are a thoughtful gift.,gpt-4o design point,Flowers are a thoughtful gift.
+Flowers beautify spaces.,gpt-4o design point,Flowers beautify spaces.
+Flowers bloom in spring.,gpt-4o design point,Flowers bloom in spring.
+Flowers brighten a room.,gpt-4o design point,Flowers brighten a room.
+Flu vaccines prevent the flu.,gpt-4o design point,Flu vaccines prevent the flu.
+Folktales reflect indigenous knowledge.,gpt-4o design point,Folktales reflect indigenous knowledge.
+Follow the recipe for accurate cooking results.,gpt-4o design point,Follow the recipe for accurate cooking results.
+Food for thought.,gpt-4o design point,Food for thought.
+Forests have dense trees.,gpt-4o design point,Forests have dense trees.
+Fortune favors the bold.,gpt-4o design point,Fortune favors the bold.
+France's Riviera is glamorous.,gpt-4o design point,France's Riviera is glamorous.
+Freedom correlates with responsibility.,gpt-4o design point,Freedom correlates with responsibility.
+Fresh air boosts mood.,gpt-4o design point,Fresh air boosts mood.
+Fresh fruits boost immunity.,gpt-4o design point,Fresh fruits boost immunity.
+Fresh ideas drive innovation.,gpt-4o design point,Fresh ideas drive innovation.
+Fresh linens feel wonderful.,gpt-4o design point,Fresh linens feel wonderful.
+Fresh produce tastes best.,gpt-4o design point,Fresh produce tastes best.
+Fresh recipes bring culinary joy.,gpt-4o design point,Fresh recipes bring culinary joy.
+Fresh sheets promise restful sleep.,gpt-4o design point,Fresh sheets promise restful sleep.
+Freshly baked pies are delicious.,gpt-4o design point,Freshly baked pies are delicious.
+Freshly brewed coffee sparks joy.,gpt-4o design point,Freshly brewed coffee sparks joy.
+Freshly laundered clothes feel soft.,gpt-4o design point,Freshly laundered clothes feel soft.
+Freshly mowed lawn smells wonderful.,gpt-4o design point,Freshly mowed lawn smells wonderful.
+Function charts map inputs to outputs.,gpt-4o design point,Function charts map inputs to outputs.
+GPS technology allows precise navigation.,gpt-4o design point,GPS technology allows precise navigation.
+Galileo improved the telescope.,gpt-4o design point,Galileo improved the telescope.
+Galileo's telescope brought cosmic revelations.,gpt-4o design point,Galileo's telescope brought cosmic revelations.
+Gamification enhances learning experiences.,gpt-4o design point,Gamification enhances learning experiences.
+Gandhi led India to independence.,gpt-4o design point,Gandhi led India to independence.
+Gardening is a rewarding hobby.,gpt-4o design point,Gardening is a rewarding hobby.
+Gardens can be therapeutic.,gpt-4o design point,Gardens can be therapeutic.
+Gathering spaces fortify community.,gpt-4o design point,Gathering spaces fortify community.
+Gelato is a traditional Italian frozen dessert.,gpt-4o design point,Gelato is a traditional Italian frozen dessert.
+General relativity explains gravitation.,gpt-4o design point,General relativity explains gravitation.
+Genetic edits can prevent hereditary diseases.,gpt-4o design point,Genetic edits can prevent hereditary diseases.
+Genetic research advances medical treatments.,gpt-4o design point,Genetic research advances medical treatments.
+Genetics explores inheritance and variation.,gpt-4o design point,Genetics explores inheritance and variation.
+Genome editing offers medical breakthroughs.,gpt-4o design point,Genome editing offers medical breakthroughs.
+Gentle waves kissed the shore.,gpt-4o design point,Gentle waves kissed the shore.
+Geometry studies shapes and their properties.,gpt-4o design point,Geometry studies shapes and their properties.
+Glaciers are melting.,gpt-4o design point,Glaciers are melting.
+Glass is brittle and can shatter.,gpt-4o design point,Glass is brittle and can shatter.
+Gnosticism emphasizes mystical knowledge.,gpt-4o design point,Gnosticism emphasizes mystical knowledge.
+Good deeds spread goodwill.,gpt-4o design point,Good deeds spread goodwill.
+Good manners open doors.,gpt-4o design point,Good manners open doors.
+Good posture supports spinal health.,gpt-4o design point,Good posture supports spinal health.
+Good reasoning avoids bias.,gpt-4o design point,Good reasoning avoids bias.
+Google is a popular search engine.,gpt-4o design point,Google is a popular search engine.
+Gothic architecture is characterized by pointed arches.,gpt-4o design point,Gothic architecture is characterized by pointed arches.
+Gothic cathedrals were architecturally innovative.,gpt-4o design point,Gothic cathedrals were architecturally innovative.
+Grammar rules structure languages.,gpt-4o design point,Grammar rules structure languages.
+Grand Canyon receives millions of visitors.,gpt-4o design point,Grand Canyon receives millions of visitors.
+Graph theory studies networks and connections.,gpt-4o design point,Graph theory studies networks and connections.
+Graphic novels tell extended stories.,gpt-4o design point,Graphic novels tell extended stories.
+Graphs visually represent data.,gpt-4o design point,Graphs visually represent data.
+Grasping at straws means making a desperate attempt.,gpt-4o design point,Grasping at straws means making a desperate attempt.
+Grass feels soft underfoot.,gpt-4o design point,Grass feels soft underfoot.
+Grass grows in fields.,gpt-4o design point,Grass grows in fields.
+Grass is green due to chlorophyll.,gpt-4o design point,Grass is green due to chlorophyll.
+Gratitude boosts well-being.,gpt-4o design point,Gratitude boosts well-being.
+Gratitude fosters joy.,gpt-4o design point,Gratitude fosters joy.
+Gravity keeps us grounded.,gpt-4o design point,Gravity keeps us grounded.
+Gravity pulls objects toward Earth.,gpt-4o design point,Gravity pulls objects toward Earth.
+Great minds think alike.,gpt-4o design point,Great minds think alike.
+Greece’s Acropolis is historically significant.,gpt-4o design point,Greece’s Acropolis is historically significant.
+Green technology combats climate change.,gpt-4o design point,Green technology combats climate change.
+Greeting warmly fosters connections.,gpt-4o design point,Greeting warmly fosters connections.
+Greetings establish rapport in conversations.,gpt-4o design point,Greetings establish rapport in conversations.
+Greta Thunberg is a prominent climate activist.,gpt-4o design point,Greta Thunberg is a prominent climate activist.
+Guardian angels are believed to provide protection.,gpt-4o design point,Guardian angels are believed to provide protection.
+Handheld devices facilitate communication.,gpt-4o design point,Handheld devices facilitate communication.
+Handshakes are common social gestures.,gpt-4o design point,Handshakes are common social gestures.
+Handwriting improves memory.,gpt-4o design point,Handwriting improves memory.
+Handwritten letters feel personal.,gpt-4o design point,Handwritten letters feel personal.
+Handwritten notes show thoughtfulness.,gpt-4o design point,Handwritten notes show thoughtfulness.
+Happiness depends on ourselves.,gpt-4o design point,Happiness depends on ourselves.
+Happy hearts attract happiness.,gpt-4o design point,Happy hearts attract happiness.
+Haste makes waste.,gpt-4o design point,Haste makes waste.
+Hawaii consists of volcanic islands.,gpt-4o design point,Hawaii consists of volcanic islands.
+He who hesitates is lost.,gpt-4o design point,He who hesitates is lost.
+He's as cold as ice.,gpt-4o design point,He's as cold as ice.
+Health is wealth.,gpt-4o design point,Health is wealth.
+Healthy diets sustain energy.,gpt-4o design point,Healthy diets sustain energy.
+Healthy minds reside in fit bodies.,gpt-4o design point,Healthy minds reside in fit bodies.
+Heating food kills harmful bacteria.,gpt-4o design point,Heating food kills harmful bacteria.
+Helping others brings joy.,gpt-4o design point,Helping others brings joy.
+High-definition displays enhance viewing experiences.,gpt-4o design point,High-definition displays enhance viewing experiences.
+Hiking reconnects us with nature.,gpt-4o design point,Hiking reconnects us with nature.
+Hiking up hills builds endurance.,gpt-4o design point,Hiking up hills builds endurance.
+Hindsight is 20/20.,gpt-4o design point,Hindsight is 20/20.
+Hinduism embraces a pantheon of gods.,gpt-4o design point,Hinduism embraces a pantheon of gods.
+His energy was contagious.,gpt-4o design point,His energy was contagious.
+His heart raced faster than a speeding train.,gpt-4o design point,His heart raced faster than a speeding train.
+Historical records maintain collective memory.,gpt-4o design point,Historical records maintain collective memory.
+History repeats itself.,gpt-4o design point,History repeats itself.
+Hobbies enrich life.,gpt-4o design point,Hobbies enrich life.
+Holding hands shows affection.,gpt-4o design point,Holding hands shows affection.
+Homemade meals boost nutritional intake.,gpt-4o design point,Homemade meals boost nutritional intake.
+Honest feedback fosters improvement.,gpt-4o design point,Honest feedback fosters improvement.
+Honesty breeds trust.,gpt-4o design point,Honesty breeds trust.
+Honesty is the best policy.,gpt-4o design point,Honesty is the best policy.
+Hope springs eternal.,gpt-4o design point,Hope springs eternal.
+Hosting dinner parties fosters relationships.,gpt-4o design point,Hosting dinner parties fosters relationships.
+Household chores teach responsibility.,gpt-4o design point,Household chores teach responsibility.
+Hugs provide comfort.,gpt-4o design point,Hugs provide comfort.
+Human activities impact climate change.,gpt-4o design point,Human activities impact climate change.
+Humans breathe oxygen.,gpt-4o design point,Humans breathe oxygen.
+Humility cultivates respect.,gpt-4o design point,Humility cultivates respect.
+Humility precedes honor.,gpt-4o design point,Humility precedes honor.
+Hungary is famous for its thermal baths.,gpt-4o design point,Hungary is famous for its thermal baths.
+Hydrating fruits aid hydration.,gpt-4o design point,Hydrating fruits aid hydration.
+Hydration prevents dry skin.,gpt-4o design point,Hydration prevents dry skin.
+Hydration supports bodily functions.,gpt-4o design point,Hydration supports bodily functions.
+Hydrochloric acid helps digestion in the stomach.,gpt-4o design point,Hydrochloric acid helps digestion in the stomach.
+Hydrogen bonds are weak attractions between molecules.,gpt-4o design point,Hydrogen bonds are weak attractions between molecules.
+Hydrogen is the lightest element.,gpt-4o design point,Hydrogen is the lightest element.
+Hypotheses must be testable.,gpt-4o design point,Hypotheses must be testable.
+"I think, therefore I am.",gpt-4o design point,"I think, therefore I am."
+Ice is solid water.,gpt-4o design point,Ice is solid water.
+Ice melts in warm temperatures.,gpt-4o design point,Ice melts in warm temperatures.
+Iceland boasts stunning landscapes.,gpt-4o design point,Iceland boasts stunning landscapes.
+Iceland is known for geysers.,gpt-4o design point,Iceland is known for geysers.
+Icons and statues are used in worship.,gpt-4o design point,Icons and statues are used in worship.
+"If A=B and B=C, then A=C.",gpt-4o design point,"If A=B and B=C, then A=C."
+"If X is greater than Y, and Y is greater than Z, then X is greater than Z.",gpt-4o design point,"If X is greater than Y, and Y is greater than Z, then X is greater than Z."
+If p then q; p is therefore q.,gpt-4o design point,If p then q; p is therefore q.
+Ignorance is bliss.,gpt-4o design point,Ignorance is bliss.
+Imams lead prayers in Islam.,gpt-4o design point,Imams lead prayers in Islam.
+Immediate feedback offers guidance.,gpt-4o design point,Immediate feedback offers guidance.
+Impressionism captures light and movement.,gpt-4o design point,Impressionism captures light and movement.
+"In right-angled triangles, a^2 + b^2 = c^2.",gpt-4o design point,"In right-angled triangles, a^2 + b^2 = c^2."
+Inclusive designs accommodate diverse needs.,gpt-4o design point,Inclusive designs accommodate diverse needs.
+India's Himalayas are a trekker's dream.,gpt-4o design point,India's Himalayas are a trekker's dream.
+Indonesia comprises thousands of islands.,gpt-4o design point,Indonesia comprises thousands of islands.
+Indoor plants purify air.,gpt-4o design point,Indoor plants purify air.
+Inductive reasoning derives general principles.,gpt-4o design point,Inductive reasoning derives general principles.
+Inequalities compare the relative size of values.,gpt-4o design point,Inequalities compare the relative size of values.
+Inferences draw conclusions from observations.,gpt-4o design point,Inferences draw conclusions from observations.
+Innovation stems from questioning the status quo.,gpt-4o design point,Innovation stems from questioning the status quo.
+Innovative technologies revolutionize industries.,gpt-4o design point,Innovative technologies revolutionize industries.
+Input equals output in systems thinking.,gpt-4o design point,Input equals output in systems thinking.
+Integrals calculate areas under curves.,gpt-4o design point,Integrals calculate areas under curves.
+Integrity reflects true character.,gpt-4o design point,Integrity reflects true character.
+Intellectual property rights incentivize innovation.,gpt-4o design point,Intellectual property rights incentivize innovation.
+Intrusion detection systems protect networks.,gpt-4o design point,Intrusion detection systems protect networks.
+Investigative journalism uncovers truths.,gpt-4o design point,Investigative journalism uncovers truths.
+Iron clothes for a polished appearance.,gpt-4o design point,Iron clothes for a polished appearance.
+It takes two to tango.,gpt-4o design point,It takes two to tango.
+Italy's Tuscany region is charming.,gpt-4o design point,Italy's Tuscany region is charming.
+Jain monks often practice strict asceticism.,gpt-4o design point,Jain monks often practice strict asceticism.
+Jainism advocates for non-violence and truth.,gpt-4o design point,Jainism advocates for non-violence and truth.
+Japan is located in East Asia.,gpt-4o design point,Japan is located in East Asia.
+Japan's cherry blossoms are spectacular.,gpt-4o design point,Japan's cherry blossoms are spectacular.
+Jazz originated in the African American communities.,gpt-4o design point,Jazz originated in the African American communities.
+Jordan's Petra is an archeological marvel.,gpt-4o design point,Jordan's Petra is an archeological marvel.
+Journaling clears the mind.,gpt-4o design point,Journaling clears the mind.
+Journaling fosters self-reflection.,gpt-4o design point,Journaling fosters self-reflection.
+Judaism observes the Sabbath weekly.,gpt-4o design point,Judaism observes the Sabbath weekly.
+Justice is blind.,gpt-4o design point,Justice is blind.
+Keep a regular sleep schedule.,gpt-4o design point,Keep a regular sleep schedule.
+Keep calm and carry on.,gpt-4o design point,Keep calm and carry on.
+Keep your chin up.,gpt-4o design point,Keep your chin up.
+Keeping your pantry stocked saves time.,gpt-4o design point,Keeping your pantry stocked saves time.
+Kenya's savannas teem with wildlife.,gpt-4o design point,Kenya's savannas teem with wildlife.
+"Kierkegaard's ""leap of faith"" involves belief beyond reasoned evidence.",gpt-4o design point,"Kierkegaard's ""leap of faith"" involves belief beyond reasoned evidence."
+Kind deeds encourage reciprocity.,gpt-4o design point,Kind deeds encourage reciprocity.
+Kind gestures build strong bonds.,gpt-4o design point,Kind gestures build strong bonds.
+Kind gestures create goodwill.,gpt-4o design point,Kind gestures create goodwill.
+Kindness begets kindness.,gpt-4o design point,Kindness begets kindness.
+Kindness costs nothing.,gpt-4o design point,Kindness costs nothing.
+Kindness spreads like wildfire.,gpt-4o design point,Kindness spreads like wildfire.
+Kinetic energy is energy in motion.,gpt-4o design point,Kinetic energy is energy in motion.
+Knitting or crocheting relaxes and creates.,gpt-4o design point,Knitting or crocheting relaxes and creates.
+Knowledge builds wisdom.,gpt-4o design point,Knowledge builds wisdom.
+Knowledge dispels ignorance.,gpt-4o design point,Knowledge dispels ignorance.
+Knowledge enriches life.,gpt-4o design point,Knowledge enriches life.
+Kosovo's mountains are striking.,gpt-4o design point,Kosovo's mountains are striking.
+Laughing lightens the load.,gpt-4o design point,Laughing lightens the load.
+Laughter improves social bonds.,gpt-4o design point,Laughter improves social bonds.
+Laws of thermodynamics dictate energy transformation.,gpt-4o design point,Laws of thermodynamics dictate energy transformation.
+Laws reflect societal values.,gpt-4o design point,Laws reflect societal values.
+Lead by example.,gpt-4o design point,Lead by example.
+Leading by example fosters trust.,gpt-4o design point,Leading by example fosters trust.
+Leaves change color in autumn.,gpt-4o design point,Leaves change color in autumn.
+Lebanon's cedars are ancient.,gpt-4o design point,Lebanon's cedars are ancient.
+Legal systems uphold social order.,gpt-4o design point,Legal systems uphold social order.
+Lend a helping hand.,gpt-4o design point,Lend a helping hand.
+Lending an ear shows empathy.,gpt-4o design point,Lending an ear shows empathy.
+Leonardo da Vinci exemplified Renaissance humanism.,gpt-4o design point,Leonardo da Vinci exemplified Renaissance humanism.
+Leonardo da Vinci painted the Mona Lisa.,gpt-4o design point,Leonardo da Vinci painted the Mona Lisa.
+Leonardo da Vinci was a Renaissance man.,gpt-4o design point,Leonardo da Vinci was a Renaissance man.
+Let bygones be bygones.,gpt-4o design point,Let bygones be bygones.
+Let sleeping dogs lie.,gpt-4o design point,Let sleeping dogs lie.
+Libraries house vast collections of books.,gpt-4o design point,Libraries house vast collections of books.
+Libraries support lifelong learning.,gpt-4o design point,Libraries support lifelong learning.
+Lift others up.,gpt-4o design point,Lift others up.
+Lifting weights builds muscle.,gpt-4o design point,Lifting weights builds muscle.
+Light travels faster than sound.,gpt-4o design point,Light travels faster than sound.
+"Light waves can be absorbed, reflected, or transmitted.",gpt-4o design point,"Light waves can be absorbed, reflected, or transmitted."
+Lighting a candle helps remove bad odors.,gpt-4o design point,Lighting a candle helps remove bad odors.
+Lightning precedes thunder.,gpt-4o design point,Lightning precedes thunder.
+"Like father, like son.",gpt-4o design point,"Like father, like son."
+Linear equations graph as straight lines.,gpt-4o design point,Linear equations graph as straight lines.
+Listen actively in conversations.,gpt-4o design point,Listen actively in conversations.
+Literature captures human stories.,gpt-4o design point,Literature captures human stories.
+Lithuania's dunes are majestic.,gpt-4o design point,Lithuania's dunes are majestic.
+Locke's tabula rasa suggests we are born as blank slates.,gpt-4o design point,Locke's tabula rasa suggests we are born as blank slates.
+Logical connectives link propositions.,gpt-4o design point,Logical connectives link propositions.
+Logical deductions provide answers.,gpt-4o design point,Logical deductions provide answers.
+Logical fallacies weaken arguments.,gpt-4o design point,Logical fallacies weaken arguments.
+Logical formulas generate solutions.,gpt-4o design point,Logical formulas generate solutions.
+Logical implications follow rules.,gpt-4o design point,Logical implications follow rules.
+Logical notation formalizes reasoning.,gpt-4o design point,Logical notation formalizes reasoning.
+Logical operations underpin computer algorithms.,gpt-4o design point,Logical operations underpin computer algorithms.
+Logical proofs validate theorems.,gpt-4o design point,Logical proofs validate theorems.
+Logical reasoning clarifies facts.,gpt-4o design point,Logical reasoning clarifies facts.
+Logical rigor underlies scientific inquiry.,gpt-4o design point,Logical rigor underlies scientific inquiry.
+Logical sequences simplify explanations.,gpt-4o design point,Logical sequences simplify explanations.
+Logical statements can be true or false.,gpt-4o design point,Logical statements can be true or false.
+Logical steps enhance procedures.,gpt-4o design point,Logical steps enhance procedures.
+Love and kindness transcend boundaries.,gpt-4o design point,Love and kindness transcend boundaries.
+Love conquers all.,gpt-4o design point,Love conquers all.
+Luxembourg is small but beautiful.,gpt-4o design point,Luxembourg is small but beautiful.
+Machine learning algorithms predict outcomes.,gpt-4o design point,Machine learning algorithms predict outcomes.
+Machine vision interprets visual data.,gpt-4o design point,Machine vision interprets visual data.
+Malta's waters are crystal clear.,gpt-4o design point,Malta's waters are crystal clear.
+Manners maketh man.,gpt-4o design point,Manners maketh man.
+Manners matter in group settings.,gpt-4o design point,Manners matter in group settings.
+Manners matter.,gpt-4o design point,Manners matter.
+Manuscripts preserve historical texts.,gpt-4o design point,Manuscripts preserve historical texts.
+Many cultures practice ancestor worship.,gpt-4o design point,Many cultures practice ancestor worship.
+Many cultures use chopsticks for eating.,gpt-4o design point,Many cultures use chopsticks for eating.
+Many faiths include anointing rituals.,gpt-4o design point,Many faiths include anointing rituals.
+Maps are essential for navigation.,gpt-4o design point,Maps are essential for navigation.
+Marie Curie made groundbreaking work in radioactivity.,gpt-4o design point,Marie Curie made groundbreaking work in radioactivity.
+Martin Luther King Jr.'s speech inspired many.,gpt-4o design point,Martin Luther King Jr.'s speech inspired many.
+Mathematical constants like π are universally applicable.,gpt-4o design point,Mathematical constants like π are universally applicable.
+"Mathematical fields include algebra, geometry, and calculus.",gpt-4o design point,"Mathematical fields include algebra, geometry, and calculus."
+Mathematical notation conveys complex ideas succinctly.,gpt-4o design point,Mathematical notation conveys complex ideas succinctly.
+Mathematics involves numbers and symbols.,gpt-4o design point,Mathematics involves numbers and symbols.
+Mathematics reveals the universe's secrets.,gpt-4o design point,Mathematics reveals the universe's secrets.
+Mathematics reveals universal truths.,gpt-4o design point,Mathematics reveals universal truths.
+Matrices represent data arrays.,gpt-4o design point,Matrices represent data arrays.
+Measuring twice saves cutting once.,gpt-4o design point,Measuring twice saves cutting once.
+Memorizing multiplication tables aids quick calculations.,gpt-4o design point,Memorizing multiplication tables aids quick calculations.
+Metaphors bridge abstract ideas and reality.,gpt-4o design point,Metaphors bridge abstract ideas and reality.
+Metaphors create vivid imagery in language.,gpt-4o design point,Metaphors create vivid imagery in language.
+Metaphors enrich our conversations.,gpt-4o design point,Metaphors enrich our conversations.
+Meteorology studies atmospheric phenomena like weather.,gpt-4o design point,Meteorology studies atmospheric phenomena like weather.
+Methodologies standardize procedures.,gpt-4o design point,Methodologies standardize procedures.
+Mexico borders the United States.,gpt-4o design point,Mexico borders the United States.
+Michelangelo painted the Sistine Chapel ceiling.,gpt-4o design point,Michelangelo painted the Sistine Chapel ceiling.
+Michelangelo sculpted the Statue of David.,gpt-4o design point,Michelangelo sculpted the Statue of David.
+Michelangelo's works exemplify artistic mastery.,gpt-4o design point,Michelangelo's works exemplify artistic mastery.
+Microchips power modern electronic devices.,gpt-4o design point,Microchips power modern electronic devices.
+Milk builds strong bones.,gpt-4o design point,Milk builds strong bones.
+Mind over matter.,gpt-4o design point,Mind over matter.
+Mindful eating prevents overeating.,gpt-4o design point,Mindful eating prevents overeating.
+Mindfulness eases anxiety.,gpt-4o design point,Mindfulness eases anxiety.
+Mindfulness improves focus.,gpt-4o design point,Mindfulness improves focus.
+Modeling clay invites creativity.,gpt-4o design point,Modeling clay invites creativity.
+Modernism challenges traditional norms.,gpt-4o design point,Modernism challenges traditional norms.
+Modus ponens is a basic logical structure.,gpt-4o design point,Modus ponens is a basic logical structure.
+Monastic orders follow strict rules.,gpt-4o design point,Monastic orders follow strict rules.
+"Monet's ""Water Lilies"" is an iconic impressionist artwork.",gpt-4o design point,"Monet's ""Water Lilies"" is an iconic impressionist artwork."
+Mongolia's steppes are expansive and wild.,gpt-4o design point,Mongolia's steppes are expansive and wild.
+Monotheism worships a single god.,gpt-4o design point,Monotheism worships a single god.
+Monuments honor cultural heritage.,gpt-4o design point,Monuments honor cultural heritage.
+Morning dew glistens on the grass.,gpt-4o design point,Morning dew glistens on the grass.
+Morning prayers bring peace.,gpt-4o design point,Morning prayers bring peace.
+Morocco's landscapes range from mountains to desert.,gpt-4o design point,Morocco's landscapes range from mountains to desert.
+Mosaics create images from small pieces.,gpt-4o design point,Mosaics create images from small pieces.
+Most mammals give live birth.,gpt-4o design point,Most mammals give live birth.
+Mount Etna is one of the most active volcanoes.,gpt-4o design point,Mount Etna is one of the most active volcanoes.
+Mount Everest attracts adventurers.,gpt-4o design point,Mount Everest attracts adventurers.
+Mount Everest is the tallest peak.,gpt-4o design point,Mount Everest is the tallest peak.
+Mount Fuji is in Japan.,gpt-4o design point,Mount Fuji is in Japan.
+Mount Kilimanjaro is in Tanzania.,gpt-4o design point,Mount Kilimanjaro is in Tanzania.
+Mount Rushmore features the carved faces of four US presidents.,gpt-4o design point,Mount Rushmore features the carved faces of four US presidents.
+Mountains are formed by tectonic activity.,gpt-4o design point,Mountains are formed by tectonic activity.
+Mountains are majestic.,gpt-4o design point,Mountains are majestic.
+Multiplication is repeated addition.,gpt-4o design point,Multiplication is repeated addition.
+Murals add vibrancy to communities.,gpt-4o design point,Murals add vibrancy to communities.
+Museums educate and inspire.,gpt-4o design point,Museums educate and inspire.
+Music can lift spirits.,gpt-4o design point,Music can lift spirits.
+Music enriches our daily lives.,gpt-4o design point,Music enriches our daily lives.
+Music evokes powerful memories.,gpt-4o design point,Music evokes powerful memories.
+Musical genres vary between cultures.,gpt-4o design point,Musical genres vary between cultures.
+Mythology explains cultural beliefs.,gpt-4o design point,Mythology explains cultural beliefs.
+Nanotechnology has applications in medicine.,gpt-4o design point,Nanotechnology has applications in medicine.
+Natural light regulates your circadian rhythm.,gpt-4o design point,Natural light regulates your circadian rhythm.
+Natural selection drives evolution.,gpt-4o design point,Natural selection drives evolution.
+Nature tends to restore balance.,gpt-4o design point,Nature tends to restore balance.
+Nature walks are calming.,gpt-4o design point,Nature walks are calming.
+Nelson Mandela's presidency in South Africa heralded change.,gpt-4o design point,Nelson Mandela's presidency in South Africa heralded change.
+Neurons transmit information through electrical signals.,gpt-4o design point,Neurons transmit information through electrical signals.
+New Zealand has picturesque landscapes.,gpt-4o design point,New Zealand has picturesque landscapes.
+Newton’s laws define motion.,gpt-4o design point,Newton’s laws define motion.
+Niagara Falls is awe-inspiring.,gpt-4o design point,Niagara Falls is awe-inspiring.
+Niagara Falls spans the US-Canada border.,gpt-4o design point,Niagara Falls spans the US-Canada border.
+Nikola Tesla contributed significantly to electricity and magnetism.,gpt-4o design point,Nikola Tesla contributed significantly to electricity and magnetism.
+No news is good news.,gpt-4o design point,No news is good news.
+"No pain, no gain.",gpt-4o design point,"No pain, no gain."
+Nodding signifies agreement.,gpt-4o design point,Nodding signifies agreement.
+Norms ensure societal cohesion.,gpt-4o design point,Norms ensure societal cohesion.
+Norms evolve over time.,gpt-4o design point,Norms evolve over time.
+North Macedonia's Ohrid Lake is pristine.,gpt-4o design point,North Macedonia's Ohrid Lake is pristine.
+Norway's fjords are breathtaking.,gpt-4o design point,Norway's fjords are breathtaking.
+Norway’s Northern Lights are mesmerizing.,gpt-4o design point,Norway’s Northern Lights are mesmerizing.
+Novels can offer social commentary.,gpt-4o design point,Novels can offer social commentary.
+Nutrients fuel bodily functions.,gpt-4o design point,Nutrients fuel bodily functions.
+Objective analysis prevents biases.,gpt-4o design point,Objective analysis prevents biases.
+Objective criteria ensure fairness.,gpt-4o design point,Objective criteria ensure fairness.
+Objective critique refines practices.,gpt-4o design point,Objective critique refines practices.
+Objective data validates theories.,gpt-4o design point,Objective data validates theories.
+Objective results build trust.,gpt-4o design point,Objective results build trust.
+Objective review determines quality.,gpt-4o design point,Objective review determines quality.
+Ocean waves sound relaxing.,gpt-4o design point,Ocean waves sound relaxing.
+Oceans are vast and mysterious.,gpt-4o design point,Oceans are vast and mysterious.
+Offer compliments generously.,gpt-4o design point,Offer compliments generously.
+Offering a smile bridges gaps.,gpt-4o design point,Offering a smile bridges gaps.
+Offering comfort eases pain.,gpt-4o design point,Offering comfort eases pain.
+Offering forgiveness heals hurts.,gpt-4o design point,Offering forgiveness heals hurts.
+Offering praise boosts morale.,gpt-4o design point,Offering praise boosts morale.
+Old habits die hard.,gpt-4o design point,Old habits die hard.
+"Once bitten, twice shy.",gpt-4o design point,"Once bitten, twice shy."
+Online learning platforms democratize education.,gpt-4o design point,Online learning platforms democratize education.
+Online platforms offer vast resources.,gpt-4o design point,Online platforms offer vast resources.
+Open communication avoids misunderstandings.,gpt-4o design point,Open communication avoids misunderstandings.
+Open-mindedness encourages learning.,gpt-4o design point,Open-mindedness encourages learning.
+Open-source software enables collaborative innovation.,gpt-4o design point,Open-source software enables collaborative innovation.
+Opera combines drama and music.,gpt-4o design point,Opera combines drama and music.
+Orchestras perform composed music.,gpt-4o design point,Orchestras perform composed music.
+Organic produce reduces pesticide exposure.,gpt-4o design point,Organic produce reduces pesticide exposure.
+Organization reduces chaos.,gpt-4o design point,Organization reduces chaos.
+Organized analyses improve results.,gpt-4o design point,Organized analyses improve results.
+Organized data improves clarity.,gpt-4o design point,Organized data improves clarity.
+Organized inquiry investigates impacts.,gpt-4o design point,Organized inquiry investigates impacts.
+Organized reviews validate data.,gpt-4o design point,Organized reviews validate data.
+Organizing files saves time.,gpt-4o design point,Organizing files saves time.
+Outdoor activities refresh the mind.,gpt-4o design point,Outdoor activities refresh the mind.
+Outdoor activities uplift spirits.,gpt-4o design point,Outdoor activities uplift spirits.
+Paganism often celebrates natural cycles.,gpt-4o design point,Paganism often celebrates natural cycles.
+Painting captures light and shade.,gpt-4o design point,Painting captures light and shade.
+Painting captures moments in time.,gpt-4o design point,Painting captures moments in time.
+Paintings can convey powerful messages.,gpt-4o design point,Paintings can convey powerful messages.
+Pantheism identifies God with the universe.,gpt-4o design point,Pantheism identifies God with the universe.
+Paper burns at 451 degrees Fahrenheit.,gpt-4o design point,Paper burns at 451 degrees Fahrenheit.
+Paper is made from tree pulp.,gpt-4o design point,Paper is made from tree pulp.
+Parables often teach moral lessons.,gpt-4o design point,Parables often teach moral lessons.
+Parallel lines never intersect.,gpt-4o design point,Parallel lines never intersect.
+Participating in marathons challenges and motivates.,gpt-4o design point,Participating in marathons challenges and motivates.
+Patagonia spans Argentina and Chile.,gpt-4o design point,Patagonia spans Argentina and Chile.
+Patience enhances interactions.,gpt-4o design point,Patience enhances interactions.
+Patience is a virtue.,gpt-4o design point,Patience is a virtue.
+Patience pays off.,gpt-4o design point,Patience pays off.
+Patience yields positive results.,gpt-4o design point,Patience yields positive results.
+Pebbled beaches offer unique textures.,gpt-4o design point,Pebbled beaches offer unique textures.
+Percentages express proportions.,gpt-4o design point,Percentages express proportions.
+Percentages represent parts per hundred.,gpt-4o design point,Percentages represent parts per hundred.
+Performance art challenges conventions.,gpt-4o design point,Performance art challenges conventions.
+Performing in plays builds confidence.,gpt-4o design point,Performing in plays builds confidence.
+Peru's Machu Picchu is an ancient wonder.,gpt-4o design point,Peru's Machu Picchu is an ancient wonder.
+Pets can provide companionship.,gpt-4o design point,Pets can provide companionship.
+Pets can reduce stress.,gpt-4o design point,Pets can reduce stress.
+Philosophy deepens intellectual inquiry.,gpt-4o design point,Philosophy deepens intellectual inquiry.
+Phone apps can track daily fitness.,gpt-4o design point,Phone apps can track daily fitness.
+Photographers capture visual stories.,gpt-4o design point,Photographers capture visual stories.
+Photons are particles of light.,gpt-4o design point,Photons are particles of light.
+"Photosynthesis occurs in the chloroplasts of plant cells.
+
+Expressing empathy strengthens relationships.",gpt-4o design point,"Photosynthesis occurs in the chloroplasts of plant cells.
+
+Expressing empathy strengthens relationships."
+Physical phenomena occur naturally.,gpt-4o design point,Physical phenomena occur naturally.
+Phytonutrients in veggies fight disease.,gpt-4o design point,Phytonutrients in veggies fight disease.
+Pi (π) is approximately 3.14.,gpt-4o design point,Pi (π) is approximately 3.14.
+Picasso's Blue Period conveys deep emotion.,gpt-4o design point,Picasso's Blue Period conveys deep emotion.
+Picasso's Cubism revolutionized visual art.,gpt-4o design point,Picasso's Cubism revolutionized visual art.
+Pilgrims often travel to sacred sites.,gpt-4o design point,Pilgrims often travel to sacred sites.
+Planes fly faster than cars.,gpt-4o design point,Planes fly faster than cars.
+Planking exercises strengthen the core.,gpt-4o design point,Planking exercises strengthen the core.
+Planning sequences actions.,gpt-4o design point,Planning sequences actions.
+Plant roots absorb nutrients.,gpt-4o design point,Plant roots absorb nutrients.
+Planting trees benefits future generations.,gpt-4o design point,Planting trees benefits future generations.
+Planting trees combats deforestation.,gpt-4o design point,Planting trees combats deforestation.
+Plato's allegory of the cave explains enlightenment.,gpt-4o design point,Plato's allegory of the cave explains enlightenment.
+Playing chess develops strategic thinking.,gpt-4o design point,Playing chess develops strategic thinking.
+Playing musical instruments fosters creativity.,gpt-4o design point,Playing musical instruments fosters creativity.
+Playing trivia games stimulates the mind.,gpt-4o design point,Playing trivia games stimulates the mind.
+Plays explore complex narratives.,gpt-4o design point,Plays explore complex narratives.
+Playwrights create dialogue and plot.,gpt-4o design point,Playwrights create dialogue and plot.
+Plowing fields increases crop yield.,gpt-4o design point,Plowing fields increases crop yield.
+Poems convey deep emotions.,gpt-4o design point,Poems convey deep emotions.
+Poetry uses metaphor and simile.,gpt-4o design point,Poetry uses metaphor and simile.
+Poland's old towns are charming.,gpt-4o design point,Poland's old towns are charming.
+Polytheism worships multiple deities.,gpt-4o design point,Polytheism worships multiple deities.
+"Popular beach locations include Hawaii, Maldives, and the Caribbean.",gpt-4o design point,"Popular beach locations include Hawaii, Maldives, and the Caribbean."
+Portraits capture a person’s likeness.,gpt-4o design point,Portraits capture a person’s likeness.
+Portugal's Algarve is stunningly beautiful.,gpt-4o design point,Portugal's Algarve is stunningly beautiful.
+Positive numbers are greater than zero.,gpt-4o design point,Positive numbers are greater than zero.
+Positivity attracts positivity.,gpt-4o design point,Positivity attracts positivity.
+Powers of ten simplify large numbers.,gpt-4o design point,Powers of ten simplify large numbers.
+Practice gratitude daily.,gpt-4o design point,Practice gratitude daily.
+Practice makes perfect.,gpt-4o design point,Practice makes perfect.
+Practicing instruments prepares for performances.,gpt-4o design point,Practicing instruments prepares for performances.
+Practicing mindfulness is like hitting a reset button.,gpt-4o design point,Practicing mindfulness is like hitting a reset button.
+Practicing moderation supports balanced living.,gpt-4o design point,Practicing moderation supports balanced living.
+Practicing tai chi promotes balance.,gpt-4o design point,Practicing tai chi promotes balance.
+Praying together unites communities.,gpt-4o design point,Praying together unites communities.
+Precision in language ensures clarity.,gpt-4o design point,Precision in language ensures clarity.
+Precision medicine tailors treatment to individuals.,gpt-4o design point,Precision medicine tailors treatment to individuals.
+Predictive models anticipate trends.,gpt-4o design point,Predictive models anticipate trends.
+Preparation prevents poor performance.,gpt-4o design point,Preparation prevents poor performance.
+Prevention is better than cure.,gpt-4o design point,Prevention is better than cure.
+Prime numbers have only two divisors.,gpt-4o design point,Prime numbers have only two divisors.
+Prompt responses show consideration.,gpt-4o design point,Prompt responses show consideration.
+Proof by contradiction validates theorems.,gpt-4o design point,Proof by contradiction validates theorems.
+Proper hygiene fosters wellbeing.,gpt-4o design point,Proper hygiene fosters wellbeing.
+Proper posture prevents back pain.,gpt-4o design point,Proper posture prevents back pain.
+Proportionate reasoning tackles diverse challenges.,gpt-4o design point,Proportionate reasoning tackles diverse challenges.
+Prose captures rhythm and tone.,gpt-4o design point,Prose captures rhythm and tone.
+Protein supports muscle growth and repair.,gpt-4o design point,Protein supports muscle growth and repair.
+Proteins are made of amino acids.,gpt-4o design point,Proteins are made of amino acids.
+Protons have a positive charge.,gpt-4o design point,Protons have a positive charge.
+Public art beautifies urban spaces.,gpt-4o design point,Public art beautifies urban spaces.
+Public health measures protect communities.,gpt-4o design point,Public health measures protect communities.
+Public parks provide recreational spaces.,gpt-4o design point,Public parks provide recreational spaces.
+Punctuality shows respect.,gpt-4o design point,Punctuality shows respect.
+Pure laughter embodies joy.,gpt-4o design point,Pure laughter embodies joy.
+"Pure, clear water quenches thirst instantly.",gpt-4o design point,"Pure, clear water quenches thirst instantly."
+Puzzles stimulate the brain.,gpt-4o design point,Puzzles stimulate the brain.
+Quadratic equations have specific solutions.,gpt-4o design point,Quadratic equations have specific solutions.
+Quality sleep enhances focus.,gpt-4o design point,Quality sleep enhances focus.
+Quantum computing offers enormous processing power.,gpt-4o design point,Quantum computing offers enormous processing power.
+Quantum encryption promises heightened security.,gpt-4o design point,Quantum encryption promises heightened security.
+Quantum mechanics deals with subatomic particles.,gpt-4o design point,Quantum mechanics deals with subatomic particles.
+Radios amplify sound waves.,gpt-4o design point,Radios amplify sound waves.
+Rain forests are biodiverse.,gpt-4o design point,Rain forests are biodiverse.
+Rain nourishes plants and crops.,gpt-4o design point,Rain nourishes plants and crops.
+Rainbows appear after rain.,gpt-4o design point,Rainbows appear after rain.
+Rainbows appear when sunlight refracts through raindrops.,gpt-4o design point,Rainbows appear when sunlight refracts through raindrops.
+Rainfall influences regional climates.,gpt-4o design point,Rainfall influences regional climates.
+Rainforests play a key role in carbon sequestration.,gpt-4o design point,Rainforests play a key role in carbon sequestration.
+Ramadan is a holy month in Islam.,gpt-4o design point,Ramadan is a holy month in Islam.
+Rational critique drives improvement.,gpt-4o design point,Rational critique drives improvement.
+Rational debate fosters progress.,gpt-4o design point,Rational debate fosters progress.
+Rational discourse resolves dilemmas.,gpt-4o design point,Rational discourse resolves dilemmas.
+Rational exploration seeks truth.,gpt-4o design point,Rational exploration seeks truth.
+Rational methods solve issues.,gpt-4o design point,Rational methods solve issues.
+Rational models explain patterns.,gpt-4o design point,Rational models explain patterns.
+Rational review enhances policies.,gpt-4o design point,Rational review enhances policies.
+Read books to expand knowledge.,gpt-4o design point,Read books to expand knowledge.
+Reading bedtime stories strengthens family bonds.,gpt-4o design point,Reading bedtime stories strengthens family bonds.
+Reading before bed aids sleep.,gpt-4o design point,Reading before bed aids sleep.
+Reading expands the mind.,gpt-4o design point,Reading expands the mind.
+Reading inspires imagination.,gpt-4o design point,Reading inspires imagination.
+Reading sacred texts offers wisdom.,gpt-4o design point,Reading sacred texts offers wisdom.
+Reasoned negotiations achieve fair agreements.,gpt-4o design point,Reasoned negotiations achieve fair agreements.
+Recognizing biases refines judgment.,gpt-4o design point,Recognizing biases refines judgment.
+Recognizing patterns aids logical deduction.,gpt-4o design point,Recognizing patterns aids logical deduction.
+Recycle to protect the planet.,gpt-4o design point,Recycle to protect the planet.
+Recycling protects the environment.,gpt-4o design point,Recycling protects the environment.
+Reflection deepens understanding.,gpt-4o design point,Reflection deepens understanding.
+Regular check-ups are important.,gpt-4o design point,Regular check-ups are important.
+Regular exercise releases endorphins.,gpt-4o design point,Regular exercise releases endorphins.
+Regular flossing prevents gum disease.,gpt-4o design point,Regular flossing prevents gum disease.
+Regular flossing supports dental health.,gpt-4o design point,Regular flossing supports dental health.
+Regular physical exams detect issues early.,gpt-4o design point,Regular physical exams detect issues early.
+Regularly updating passwords enhances security.,gpt-4o design point,Regularly updating passwords enhances security.
+Relational databases organize data efficiently.,gpt-4o design point,Relational databases organize data efficiently.
+Reliability builds trust.,gpt-4o design point,Reliability builds trust.
+Reliable data builds strong arguments.,gpt-4o design point,Reliable data builds strong arguments.
+Reliable friends are invaluable.,gpt-4o design point,Reliable friends are invaluable.
+Reliable sources provide accurate data.,gpt-4o design point,Reliable sources provide accurate data.
+Religious teachings encourage kindness.,gpt-4o design point,Religious teachings encourage kindness.
+Religious vows often involve lifelong commitments.,gpt-4o design point,Religious vows often involve lifelong commitments.
+Reliving happy memories boosts morale.,gpt-4o design point,Reliving happy memories boosts morale.
+Renaissance art emphasized realism and humanism.,gpt-4o design point,Renaissance art emphasized realism and humanism.
+Renewable energies are eco-friendly alternatives.,gpt-4o design point,Renewable energies are eco-friendly alternatives.
+Respect others’ opinions.,gpt-4o design point,Respect others’ opinions.
+Responding promptly is courteous.,gpt-4o design point,Responding promptly is courteous.
+Responsible pet ownership enhances animal welfare.,gpt-4o design point,Responsible pet ownership enhances animal welfare.
+Resting is like recharging your life battery.,gpt-4o design point,Resting is like recharging your life battery.
+Revisiting educational content solidifies knowledge.,gpt-4o design point,Revisiting educational content solidifies knowledge.
+Riding a bike is good exercise.,gpt-4o design point,Riding a bike is good exercise.
+Rigorous methods enhance studies.,gpt-4o design point,Rigorous methods enhance studies.
+Rio de Janeiro is famous for its carnival.,gpt-4o design point,Rio de Janeiro is famous for its carnival.
+Rivers carve valleys.,gpt-4o design point,Rivers carve valleys.
+Rivers flow to the sea.,gpt-4o design point,Rivers flow to the sea.
+Rivers nourish surrounding ecosystems.,gpt-4o design point,Rivers nourish surrounding ecosystems.
+Robotics automates complex tasks.,gpt-4o design point,Robotics automates complex tasks.
+Romania's Carpathian Mountains are mystical.,gpt-4o design point,Romania's Carpathian Mountains are mystical.
+Rome is rich with ancient history.,gpt-4o design point,Rome is rich with ancient history.
+Rosa Parks' actions sparked the Montgomery Bus Boycott.,gpt-4o design point,Rosa Parks' actions sparked the Montgomery Bus Boycott.
+Running clears your mental fog.,gpt-4o design point,Running clears your mental fog.
+Russia's Siberian wilderness is immense.,gpt-4o design point,Russia's Siberian wilderness is immense.
+Safety first.,gpt-4o design point,Safety first.
+Safety protocols prevent accidents.,gpt-4o design point,Safety protocols prevent accidents.
+Salvador Dalí was known for his surrealist works.,gpt-4o design point,Salvador Dalí was known for his surrealist works.
+Sand dunes are windy.,gpt-4o design point,Sand dunes are windy.
+Save for a rainy day.,gpt-4o design point,Save for a rainy day.
+Saving money ensures financial security.,gpt-4o design point,Saving money ensures financial security.
+Saying good morning builds rapport.,gpt-4o design point,Saying good morning builds rapport.
+Saying sorry mends relationships.,gpt-4o design point,Saying sorry mends relationships.
+Scalars measure magnitude only.,gpt-4o design point,Scalars measure magnitude only.
+Scenic drives relax the mind.,gpt-4o design point,Scenic drives relax the mind.
+Science builds on empirical facts.,gpt-4o design point,Science builds on empirical facts.
+Scotland has iconic castles.,gpt-4o design point,Scotland has iconic castles.
+Sculpting requires precision and skill.,gpt-4o design point,Sculpting requires precision and skill.
+Sculptors shape materials into forms.,gpt-4o design point,Sculptors shape materials into forms.
+Sculpture can memorialize history.,gpt-4o design point,Sculpture can memorialize history.
+Self-driving cars rely on advanced sensor technology.,gpt-4o design point,Self-driving cars rely on advanced sensor technology.
+Sequences follow specific patterns.,gpt-4o design point,Sequences follow specific patterns.
+Serbia’s Danube River vistas are expansive.,gpt-4o design point,Serbia’s Danube River vistas are expansive.
+Set operations explore relationships between groups.,gpt-4o design point,Set operations explore relationships between groups.
+Setting intentions directs focus.,gpt-4o design point,Setting intentions directs focus.
+Shakespeare wrote timeless plays and sonnets.,gpt-4o design point,Shakespeare wrote timeless plays and sonnets.
+Shakespeare's works are timeless treasures.,gpt-4o design point,Shakespeare's works are timeless treasures.
+Shamanic journeys often involve trance states.,gpt-4o design point,Shamanic journeys often involve trance states.
+Shamanism involves communication with spirits.,gpt-4o design point,Shamanism involves communication with spirits.
+Shared experiences build bonds.,gpt-4o design point,Shared experiences build bonds.
+Shared experiences create memories.,gpt-4o design point,Shared experiences create memories.
+Shared goals promote unity.,gpt-4o design point,Shared goals promote unity.
+Sharing is caring.,gpt-4o design point,Sharing is caring.
+Sharing meals connects people.,gpt-4o design point,Sharing meals connects people.
+Sharing meals creates bonds.,gpt-4o design point,Sharing meals creates bonds.
+Sharing spreads joy.,gpt-4o design point,Sharing spreads joy.
+Sharing strengthens community ties.,gpt-4o design point,Sharing strengthens community ties.
+Shelves should be dusted regularly to maintain cleanliness.,gpt-4o design point,Shelves should be dusted regularly to maintain cleanliness.
+Shinto shrines are found throughout Japan.,gpt-4o design point,Shinto shrines are found throughout Japan.
+"Shintoism focuses on kami, or spiritual beings.",gpt-4o design point,"Shintoism focuses on kami, or spiritual beings."
+Shintoism involves purification rituals.,gpt-4o design point,Shintoism involves purification rituals.
+Shooting for the stars; aiming high.,gpt-4o design point,Shooting for the stars; aiming high.
+Short summaries aid comprehension.,gpt-4o design point,Short summaries aid comprehension.
+Show gratitude often.,gpt-4o design point,Show gratitude often.
+Showering daily promotes hygiene.,gpt-4o design point,Showering daily promotes hygiene.
+Sikhism emphasizes service and equality.,gpt-4o design point,Sikhism emphasizes service and equality.
+Sikhs are known for their distinct turbans.,gpt-4o design point,Sikhs are known for their distinct turbans.
+Silence is golden.,gpt-4o design point,Silence is golden.
+Silence speaks volumes.,gpt-4o design point,Silence speaks volumes.
+Simple living brings contentment.,gpt-4o design point,Simple living brings contentment.
+Singing boosts mood.,gpt-4o design point,Singing boosts mood.
+Singing releases stress.,gpt-4o design point,Singing releases stress.
+Sketching improves observation skills.,gpt-4o design point,Sketching improves observation skills.
+Sleep restores mental clarity.,gpt-4o design point,Sleep restores mental clarity.
+Slow and steady wins the race.,gpt-4o design point,Slow and steady wins the race.
+Small talk builds connections.,gpt-4o design point,Small talk builds connections.
+Smart grids optimize energy distribution.,gpt-4o design point,Smart grids optimize energy distribution.
+Smart home devices offer convenience.,gpt-4o design point,Smart home devices offer convenience.
+Smartphones revolutionized communication.,gpt-4o design point,Smartphones revolutionized communication.
+Smiles often signal friendliness.,gpt-4o design point,Smiles often signal friendliness.
+Smiling boosts immune function.,gpt-4o design point,Smiling boosts immune function.
+Snow falls in winter.,gpt-4o design point,Snow falls in winter.
+Snowfall creates a serene atmosphere.,gpt-4o design point,Snowfall creates a serene atmosphere.
+Snowflakes are unique crystals.,gpt-4o design point,Snowflakes are unique crystals.
+Social dancing combines exercise and socialization.,gpt-4o design point,Social dancing combines exercise and socialization.
+Social equity promotes fairness.,gpt-4o design point,Social equity promotes fairness.
+Social interactions enrich life.,gpt-4o design point,Social interactions enrich life.
+Social norms guide behavior.,gpt-4o design point,Social norms guide behavior.
+Socialization develops interpersonal skills.,gpt-4o design point,Socialization develops interpersonal skills.
+Societal progress relies on equitable distribution of resources.,gpt-4o design point,Societal progress relies on equitable distribution of resources.
+Society values punctuality.,gpt-4o design point,Society values punctuality.
+Socrates developed the Socratic method.,gpt-4o design point,Socrates developed the Socratic method.
+Socrates' method involves asking probing questions.,gpt-4o design point,Socrates' method involves asking probing questions.
+Socratic questioning promotes deep understanding.,gpt-4o design point,Socratic questioning promotes deep understanding.
+Soft fabrics feel comforting.,gpt-4o design point,Soft fabrics feel comforting.
+Soft lighting creates a calming ambiance.,gpt-4o design point,Soft lighting creates a calming ambiance.
+Solar energy is sustainable.,gpt-4o design point,Solar energy is sustainable.
+Spain's Costa del Sol has golden beaches.,gpt-4o design point,Spain's Costa del Sol has golden beaches.
+"Spare the rod, spoil the child.",gpt-4o design point,"Spare the rod, spoil the child."
+Spending time outdoors lifts the spirits.,gpt-4o design point,Spending time outdoors lifts the spirits.
+Spill the beans means reveal a secret.,gpt-4o design point,Spill the beans means reveal a secret.
+Springtime brings new growth.,gpt-4o design point,Springtime brings new growth.
+Sputnik's launch began the space age.,gpt-4o design point,Sputnik's launch began the space age.
+Sri Lanka is known for its tea plantations.,gpt-4o design point,Sri Lanka is known for its tea plantations.
+Stargazing can be awe-inspiring.,gpt-4o design point,Stargazing can be awe-inspiring.
+Stars are born in nebulae.,gpt-4o design point,Stars are born in nebulae.
+Stars fill the night sky.,gpt-4o design point,Stars fill the night sky.
+Staying active enhances longevity.,gpt-4o design point,Staying active enhances longevity.
+Steer clear of negative influences.,gpt-4o design point,Steer clear of negative influences.
+Stephen Hawking made significant contributions to theoretical physics.,gpt-4o design point,Stephen Hawking made significant contributions to theoretical physics.
+Stirred up a hornet's nest; created a commotion.,gpt-4o design point,Stirred up a hornet's nest; created a commotion.
+Stonehenge is an ancient wonder.,gpt-4o design point,Stonehenge is an ancient wonder.
+Stop and smell the roses.,gpt-4o design point,Stop and smell the roses.
+Stories shape cultures.,gpt-4o design point,Stories shape cultures.
+Storytelling captures imagination.,gpt-4o design point,Storytelling captures imagination.
+Street art reflects urban life.,gpt-4o design point,Street art reflects urban life.
+Stretching improves flexibility.,gpt-4o design point,Stretching improves flexibility.
+Stretching prevents muscle cramps.,gpt-4o design point,Stretching prevents muscle cramps.
+Strong friendships often weather storms.,gpt-4o design point,Strong friendships often weather storms.
+Structure in arguments aids comprehension.,gpt-4o design point,Structure in arguments aids comprehension.
+Structured analyses refine processes.,gpt-4o design point,Structured analyses refine processes.
+Structured frameworks guide learning.,gpt-4o design point,Structured frameworks guide learning.
+Structured inquiry clarifies questions.,gpt-4o design point,Structured inquiry clarifies questions.
+Structured planning anticipates needs.,gpt-4o design point,Structured planning anticipates needs.
+Structured preparations ensure readiness.,gpt-4o design point,Structured preparations ensure readiness.
+Structured review enhances teaching.,gpt-4o design point,Structured review enhances teaching.
+Structured steps guide action.,gpt-4o design point,Structured steps guide action.
+Study habits influence academic success.,gpt-4o design point,Study habits influence academic success.
+Sunlight boosts Vitamin D.,gpt-4o design point,Sunlight boosts Vitamin D.
+Sunscreen prevents sunburn.,gpt-4o design point,Sunscreen prevents sunburn.
+Sunscreen protects against UV rays.,gpt-4o design point,Sunscreen protects against UV rays.
+Sweden’s archipelago is extensive.,gpt-4o design point,Sweden’s archipelago is extensive.
+Swimming engages multiple muscle groups.,gpt-4o design point,Swimming engages multiple muscle groups.
+Symbolism adds depth to literature.,gpt-4o design point,Symbolism adds depth to literature.
+Symmetry reflects balanced proportions.,gpt-4o design point,Symmetry reflects balanced proportions.
+Symphonies blend diverse instruments.,gpt-4o design point,Symphonies blend diverse instruments.
+Symphonies comprise multiple movements.,gpt-4o design point,Symphonies comprise multiple movements.
+Symphonies create dynamic musical narratives.,gpt-4o design point,Symphonies create dynamic musical narratives.
+Symphony unifies diverse musical elements.,gpt-4o design point,Symphony unifies diverse musical elements.
+Synagogues are places of Jewish worship.,gpt-4o design point,Synagogues are places of Jewish worship.
+Syria's history is unparalleled.,gpt-4o design point,Syria's history is unparalleled.
+Tables organize and display data.,gpt-4o design point,Tables organize and display data.
+Taking cooking classes enhances culinary skills.,gpt-4o design point,Taking cooking classes enhances culinary skills.
+Taking vitamins supports health.,gpt-4o design point,Taking vitamins supports health.
+Taoism teaches harmony with nature.,gpt-4o design point,Taoism teaches harmony with nature.
+Teachable moments help reinforce knowledge.,gpt-4o design point,Teachable moments help reinforce knowledge.
+Team spirit enhances performance.,gpt-4o design point,Team spirit enhances performance.
+Team sports build camaraderie.,gpt-4o design point,Team sports build camaraderie.
+Teamwork achieves better results.,gpt-4o design point,Teamwork achieves better results.
+Teamwork makes tasks easier.,gpt-4o design point,Teamwork makes tasks easier.
+Technology drives modern communication.,gpt-4o design point,Technology drives modern communication.
+Technology revolutionizes healthcare.,gpt-4o design point,Technology revolutionizes healthcare.
+Telemedicine offers remote healthcare access.,gpt-4o design point,Telemedicine offers remote healthcare access.
+Textbooks are used for education in schools.,gpt-4o design point,Textbooks are used for education in schools.
+The Alps span several European countries.,gpt-4o design point,The Alps span several European countries.
+The Amazon Basin is incredibly biodiverse.,gpt-4o design point,The Amazon Basin is incredibly biodiverse.
+The American Revolution shaped modern democracy.,gpt-4o design point,The American Revolution shaped modern democracy.
+The Atacama Desert is rich in mineral resources.,gpt-4o design point,The Atacama Desert is rich in mineral resources.
+"The Baltic States include Estonia, Latvia, and Lithuania.",gpt-4o design point,"The Baltic States include Estonia, Latvia, and Lithuania."
+The Berlin Wall fell in 1989.,gpt-4o design point,The Berlin Wall fell in 1989.
+The Bible guides Christian faith.,gpt-4o design point,The Bible guides Christian faith.
+The California Gold Rush attracted global attention.,gpt-4o design point,The California Gold Rush attracted global attention.
+The Cartesian plane maps geometric locations.,gpt-4o design point,The Cartesian plane maps geometric locations.
+The Cold War influenced many global events.,gpt-4o design point,The Cold War influenced many global events.
+The Colosseum is in Rome.,gpt-4o design point,The Colosseum is in Rome.
+The Earth rotates on its axis.,gpt-4o design point,The Earth rotates on its axis.
+The Eiffel Tower is iconic.,gpt-4o design point,The Eiffel Tower is iconic.
+The English Channel separates England and France.,gpt-4o design point,The English Channel separates England and France.
+The Enlightenment era promoted reason.,gpt-4o design point,The Enlightenment era promoted reason.
+The Fibonacci sequence appears in nature.,gpt-4o design point,The Fibonacci sequence appears in nature.
+The French Revolution began in 1789.,gpt-4o design point,The French Revolution began in 1789.
+The Ganges River is sacred in India.,gpt-4o design point,The Ganges River is sacred in India.
+The Gobi Desert spans parts of China and Mongolia.,gpt-4o design point,The Gobi Desert spans parts of China and Mongolia.
+The Grand Canyon is breathtaking.,gpt-4o design point,The Grand Canyon is breathtaking.
+The Great Barrier Reef is biodiverse.,gpt-4o design point,The Great Barrier Reef is biodiverse.
+The Great Depression had profound economic impacts.,gpt-4o design point,The Great Depression had profound economic impacts.
+The Gutenberg Bible marked a printing milestone.,gpt-4o design point,The Gutenberg Bible marked a printing milestone.
+The Hajj is a pilgrimage to Mecca.,gpt-4o design point,The Hajj is a pilgrimage to Mecca.
+The Himalayas are in Asia.,gpt-4o design point,The Himalayas are in Asia.
+The Himalayas are massive and imposing.,gpt-4o design point,The Himalayas are massive and imposing.
+The Himalayas stretch across five countries.,gpt-4o design point,The Himalayas stretch across five countries.
+The Iberian Peninsula includes Spain and Portugal.,gpt-4o design point,The Iberian Peninsula includes Spain and Portugal.
+The Industrial Revolution reshaped societies.,gpt-4o design point,The Industrial Revolution reshaped societies.
+The Kyoto Protocol targeted reducing greenhouse gases.,gpt-4o design point,The Kyoto Protocol targeted reducing greenhouse gases.
+The Magna Carta established legal principles.,gpt-4o design point,The Magna Carta established legal principles.
+The Magna Carta was signed in 1215.,gpt-4o design point,The Magna Carta was signed in 1215.
+The Maldives are paradise islands.,gpt-4o design point,The Maldives are paradise islands.
+The Manhattan Project created nuclear weapons.,gpt-4o design point,The Manhattan Project created nuclear weapons.
+The Mariana Trench is the deepest oceanic trench.,gpt-4o design point,The Mariana Trench is the deepest oceanic trench.
+The Mediterranean Sea borders three continents.,gpt-4o design point,The Mediterranean Sea borders three continents.
+The Mona Lisa is a revered masterpiece.,gpt-4o design point,The Mona Lisa is a revered masterpiece.
+The Mona Lisa is housed in the Louvre.,gpt-4o design point,The Mona Lisa is housed in the Louvre.
+The Netherlands features extensive canals.,gpt-4o design point,The Netherlands features extensive canals.
+The Niagara Escarpment features numerous waterfalls.,gpt-4o design point,The Niagara Escarpment features numerous waterfalls.
+The Nile Delta supports diverse ecosystems.,gpt-4o design point,The Nile Delta supports diverse ecosystems.
+The Nile flows through Egypt.,gpt-4o design point,The Nile flows through Egypt.
+The Nile is the longest river.,gpt-4o design point,The Nile is the longest river.
+The Patagonian region is shared by Argentina and Chile.,gpt-4o design point,The Patagonian region is shared by Argentina and Chile.
+The Pyrenees form a natural border.,gpt-4o design point,The Pyrenees form a natural border.
+The Pythagorean theorem is used in geometry.,gpt-4o design point,The Pythagorean theorem is used in geometry.
+The Reformation challenged the Catholic Church.,gpt-4o design point,The Reformation challenged the Catholic Church.
+The Renaissance sparked cultural rebirth.,gpt-4o design point,The Renaissance sparked cultural rebirth.
+The Rosetta Stone helped decipher Egyptian hieroglyphics.,gpt-4o design point,The Rosetta Stone helped decipher Egyptian hieroglyphics.
+The Russian Revolution reshaped Russian politics.,gpt-4o design point,The Russian Revolution reshaped Russian politics.
+The Sahara's dunes stretch endlessly.,gpt-4o design point,The Sahara's dunes stretch endlessly.
+The Scandinavian Peninsula includes Norway and Sweden.,gpt-4o design point,The Scandinavian Peninsula includes Norway and Sweden.
+The Serengeti hosts annual migration of wildebeest.,gpt-4o design point,The Serengeti hosts annual migration of wildebeest.
+The Serengeti hosts diverse wildlife.,gpt-4o design point,The Serengeti hosts diverse wildlife.
+The Storming of the Bastille was revolutionary.,gpt-4o design point,The Storming of the Bastille was revolutionary.
+The Taj Mahal is in India.,gpt-4o design point,The Taj Mahal is in India.
+The Taj Mahal was built in the 17th century.,gpt-4o design point,The Taj Mahal was built in the 17th century.
+The Treaty of Versailles ended World War I.,gpt-4o design point,The Treaty of Versailles ended World War I.
+"The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.",gpt-4o design point,"The United Kingdom consists of England, Scotland, Wales, and Northern Ireland."
+The Vedas are ancient Hindu scriptures.,gpt-4o design point,The Vedas are ancient Hindu scriptures.
+The Wright brothers' flight initiated aviation.,gpt-4o design point,The Wright brothers' flight initiated aviation.
+The apple of my eye.,gpt-4o design point,The apple of my eye.
+The assassination of Archduke Franz Ferdinand sparked World War I.,gpt-4o design point,The assassination of Archduke Franz Ferdinand sparked World War I.
+The city of Jerusalem holds religious significance.,gpt-4o design point,The city of Jerusalem holds religious significance.
+The defeat of the Spanish Armada marked England's naval dominance.,gpt-4o design point,The defeat of the Spanish Armada marked England's naval dominance.
+The development of the steam engine powered industrialization.,gpt-4o design point,The development of the steam engine powered industrialization.
+The discovery of DNA revolutionized biology.,gpt-4o design point,The discovery of DNA revolutionized biology.
+The discovery of penicillin changed medicine.,gpt-4o design point,The discovery of penicillin changed medicine.
+The end of apartheid marked new eras.,gpt-4o design point,The end of apartheid marked new eras.
+The fall of Constantinople changed European history.,gpt-4o design point,The fall of Constantinople changed European history.
+The human body has 206 bones.,gpt-4o design point,The human body has 206 bones.
+The human genome project has mapped all the genes.,gpt-4o design point,The human genome project has mapped all the genes.
+The light bulb was invented by Thomas Edison.,gpt-4o design point,The light bulb was invented by Thomas Edison.
+The moon affects ocean tides.,gpt-4o design point,The moon affects ocean tides.
+The moon explodes.,gpt-4o design point,The moon explodes.
+The moon landing was in 1969.,gpt-4o design point,The moon landing was in 1969.
+The more the merrier.,gpt-4o design point,The more the merrier.
+The mountains stood as silent guardians.,gpt-4o design point,The mountains stood as silent guardians.
+The ocean is salty.,gpt-4o design point,The ocean is salty.
+The order of operations standardizes calculations.,gpt-4o design point,The order of operations standardizes calculations.
+The pH of pure water is 7.,gpt-4o design point,The pH of pure water is 7.
+The pen is mightier than the sword.,gpt-4o design point,The pen is mightier than the sword.
+The periodic table organizes chemical elements.,gpt-4o design point,The periodic table organizes chemical elements.
+The printing press facilitated widespread literacy.,gpt-4o design point,The printing press facilitated widespread literacy.
+The printing press was invented by Gutenberg.,gpt-4o design point,The printing press was invented by Gutenberg.
+The signing of the Magna Carta was a landmark event.,gpt-4o design point,The signing of the Magna Carta was a landmark event.
+The square root of 16 is 4.,gpt-4o design point,The square root of 16 is 4.
+The squeaky wheel gets the grease.,gpt-4o design point,The squeaky wheel gets the grease.
+The standard deviation measures data variability.,gpt-4o design point,The standard deviation measures data variability.
+"The value of π (pi) is approximately 3.14159.
+
+Consistent sleep patterns improve cognitive function.",gpt-4o design point,"The value of π (pi) is approximately 3.14159.
+
+Consistent sleep patterns improve cognitive function."
+The value of π is approximately 3.14.,gpt-4o design point,The value of π is approximately 3.14.
+"The water cycle involves evaporation, condensation, and precipitation.",gpt-4o design point,"The water cycle involves evaporation, condensation, and precipitation."
+The water cycle sustains ecosystems.,gpt-4o design point,The water cycle sustains ecosystems.
+The works of Mozart remain influential.,gpt-4o design point,The works of Mozart remain influential.
+The yin-yang symbol represents balance in Taoism.,gpt-4o design point,The yin-yang symbol represents balance in Taoism.
+Their friendship was an unbreakable chain.,gpt-4o design point,Their friendship was an unbreakable chain.
+Their teamwork was a well-oiled machine.,gpt-4o design point,Their teamwork was a well-oiled machine.
+Theology explores the nature of divinity.,gpt-4o design point,Theology explores the nature of divinity.
+Theosophy seeks divine wisdom.,gpt-4o design point,Theosophy seeks divine wisdom.
+There are seven continents on Earth.,gpt-4o design point,There are seven continents on Earth.
+Thorough analysis generates solutions.,gpt-4o design point,Thorough analysis generates solutions.
+Thorough analysis prevents missteps.,gpt-4o design point,Thorough analysis prevents missteps.
+Thorough reviews ensure accuracy.,gpt-4o design point,Thorough reviews ensure accuracy.
+Thoughtful gestures show care.,gpt-4o design point,Thoughtful gestures show care.
+Tidy spaces enhance focus.,gpt-4o design point,Tidy spaces enhance focus.
+Time heals all wounds.,gpt-4o design point,Time heals all wounds.
+Time is money.,gpt-4o design point,Time is money.
+Timely feedback enhances performance.,gpt-4o design point,Timely feedback enhances performance.
+Timely meals regulate metabolism.,gpt-4o design point,Timely meals regulate metabolism.
+Timely responses are respectful.,gpt-4o design point,Timely responses are respectful.
+Tipping in restaurants is customary.,gpt-4o design point,Tipping in restaurants is customary.
+To each their own.,gpt-4o design point,To each their own.
+Too many cooks spoil the broth.,gpt-4o design point,Too many cooks spoil the broth.
+Travel guides provide tips on destinations.,gpt-4o design point,Travel guides provide tips on destinations.
+Traveling solo builds independence and confidence.,gpt-4o design point,Traveling solo builds independence and confidence.
+Trees absorb carbon dioxide.,gpt-4o design point,Trees absorb carbon dioxide.
+Trees lose leaves in fall.,gpt-4o design point,Trees lose leaves in fall.
+Trees produce oxygen.,gpt-4o design point,Trees produce oxygen.
+Trees provide habitats for wildlife.,gpt-4o design point,Trees provide habitats for wildlife.
+Trees provide shade and beauty.,gpt-4o design point,Trees provide shade and beauty.
+Trees sway with the wind.,gpt-4o design point,Trees sway with the wind.
+Trees whisper soothing sounds.,gpt-4o design point,Trees whisper soothing sounds.
+Trigonometry studies angles and sides of triangles.,gpt-4o design point,Trigonometry studies angles and sides of triangles.
+Tropical rainforests are lush and green.,gpt-4o design point,Tropical rainforests are lush and green.
+Truth tables outline logical operations.,gpt-4o design point,Truth tables outline logical operations.
+Turkey's Cappadocia is surreal and captivating.,gpt-4o design point,Turkey's Cappadocia is surreal and captivating.
+Turkey's Cappadocia region features unique rock formations.,gpt-4o design point,Turkey's Cappadocia region features unique rock formations.
+Turn lights off to save energy.,gpt-4o design point,Turn lights off to save energy.
+Turning off notifications reduces distractions.,gpt-4o design point,Turning off notifications reduces distractions.
+Two plus two equals four.,gpt-4o design point,Two plus two equals four.
+Typing clean prevents germs.,gpt-4o design point,Typing clean prevents germs.
+USA spans multiple time zones.,gpt-4o design point,USA spans multiple time zones.
+Ukraine's cathedral spires are impressive.,gpt-4o design point,Ukraine's cathedral spires are impressive.
+Understanding gravity helps explain planetary orbits.,gpt-4o design point,Understanding gravity helps explain planetary orbits.
+Understanding precedes ethical action.,gpt-4o design point,Understanding precedes ethical action.
+Unified prayers hold power.,gpt-4o design point,Unified prayers hold power.
+Unity is strength.,gpt-4o design point,Unity is strength.
+Universalism believes in universal salvation.,gpt-4o design point,Universalism believes in universal salvation.
+Uplifting others builds morale.,gpt-4o design point,Uplifting others builds morale.
+Use data to inform decisions.,gpt-4o design point,Use data to inform decisions.
+Using hand sanitizer helps kill germs.,gpt-4o design point,Using hand sanitizer helps kill germs.
+Using planners improves organization.,gpt-4o design point,Using planners improves organization.
+Using please shows respect.,gpt-4o design point,Using please shows respect.
+Using sunscreen protects the skin.,gpt-4o design point,Using sunscreen protects the skin.
+Using timers helps manage time.,gpt-4o design point,Using timers helps manage time.
+VR creates immersive experiences.,gpt-4o design point,VR creates immersive experiences.
+Vacuuming keeps the carpet clean.,gpt-4o design point,Vacuuming keeps the carpet clean.
+Valid concerns merit attention.,gpt-4o design point,Valid concerns merit attention.
+Validation enhances self-worth.,gpt-4o design point,Validation enhances self-worth.
+Valuing input promotes inclusiveness.,gpt-4o design point,Valuing input promotes inclusiveness.
+Van Gogh’s Starry Night is a masterpiece.,gpt-4o design point,Van Gogh’s Starry Night is a masterpiece.
+Variables represent unknowns in equations.,gpt-4o design point,Variables represent unknowns in equations.
+Vector spaces have direction and magnitude.,gpt-4o design point,Vector spaces have direction and magnitude.
+Venice has many canals.,gpt-4o design point,Venice has many canals.
+Venn diagrams illustrate set relationships.,gpt-4o design point,Venn diagrams illustrate set relationships.
+Verifying facts strengthens arguments.,gpt-4o design point,Verifying facts strengthens arguments.
+Verifying information enhances credibility.,gpt-4o design point,Verifying information enhances credibility.
+Victoria Falls is located between Zambia and Zimbabwe.,gpt-4o design point,Victoria Falls is located between Zambia and Zimbabwe.
+Vincent van Gogh painted Starry Night.,gpt-4o design point,Vincent van Gogh painted Starry Night.
+Virtual meetings connect dispersed teams.,gpt-4o design point,Virtual meetings connect dispersed teams.
+Visiting art galleries broadens horizons.,gpt-4o design point,Visiting art galleries broadens horizons.
+Visiting farmers’ markets fosters local support.,gpt-4o design point,Visiting farmers’ markets fosters local support.
+Visiting parks for picnics creates joyful memories.,gpt-4o design point,Visiting parks for picnics creates joyful memories.
+Volcanoes erupt with lava.,gpt-4o design point,Volcanoes erupt with lava.
+Volunteering at shelters builds compassion.,gpt-4o design point,Volunteering at shelters builds compassion.
+Volunteering builds community.,gpt-4o design point,Volunteering builds community.
+Voting is a civic responsibility.,gpt-4o design point,Voting is a civic responsibility.
+WWI began in 1914.,gpt-4o design point,WWI began in 1914.
+Waits for no man.,gpt-4o design point,Waits for no man.
+Walking barefoot on grass feels grounding.,gpt-4o design point,Walking barefoot on grass feels grounding.
+Walking boosts energy.,gpt-4o design point,Walking boosts energy.
+Walking dogs offers mutual exercise.,gpt-4o design point,Walking dogs offers mutual exercise.
+Walking is a stress reliever.,gpt-4o design point,Walking is a stress reliever.
+Warm tea fosters relaxation.,gpt-4o design point,Warm tea fosters relaxation.
+Warmth in interactions invites trust.,gpt-4o design point,Warmth in interactions invites trust.
+"Waste not, want not.",gpt-4o design point,"Waste not, want not."
+Water boils at 100 degrees Celsius.,gpt-4o design point,Water boils at 100 degrees Celsius.
+Water expands when it freezes.,gpt-4o design point,Water expands when it freezes.
+Water lubricates joints.,gpt-4o design point,Water lubricates joints.
+Water molecules expand when frozen.,gpt-4o design point,Water molecules expand when frozen.
+Water's chemical formula is H2O.,gpt-4o design point,Water's chemical formula is H2O.
+Wearable tech monitors health metrics.,gpt-4o design point,Wearable tech monitors health metrics.
+Wearables can monitor vital signs.,gpt-4o design point,Wearables can monitor vital signs.
+Wearing a seatbelt saves lives.,gpt-4o design point,Wearing a seatbelt saves lives.
+Wearing comfortable shoes prevents foot pain.,gpt-4o design point,Wearing comfortable shoes prevents foot pain.
+Wearing supportive footwear improves posture.,gpt-4o design point,Wearing supportive footwear improves posture.
+Weather forecasts predict upcoming conditions.,gpt-4o design point,Weather forecasts predict upcoming conditions.
+Weather patterns influence agriculture.,gpt-4o design point,Weather patterns influence agriculture.
+Welcoming guests warmly is hospitable.,gpt-4o design point,Welcoming guests warmly is hospitable.
+Well-known landmarks foster tourism.,gpt-4o design point,Well-known landmarks foster tourism.
+Whales are mammals.,gpt-4o design point,Whales are mammals.
+"When it rains, it pours.",gpt-4o design point,"When it rains, it pours."
+When pigs fly.,gpt-4o design point,When pigs fly.
+Wind carries seeds to new locations.,gpt-4o design point,Wind carries seeds to new locations.
+Wisdom comes with age.,gpt-4o design point,Wisdom comes with age.
+Wisdom sayings often offer guidance.,gpt-4o design point,Wisdom sayings often offer guidance.
+Words carry weight.,gpt-4o design point,Words carry weight.
+Words have power.,gpt-4o design point,Words have power.
+Worker bees contribute to the hive.,gpt-4o design point,Worker bees contribute to the hive.
+World War I began in 1914.,gpt-4o design point,World War I began in 1914.
+World Wars reshaped global politics.,gpt-4o design point,World Wars reshaped global politics.
+Writing lists organizes tasks.,gpt-4o design point,Writing lists organizes tasks.
+Yarn can be woven into fabric.,gpt-4o design point,Yarn can be woven into fabric.
+Yoga enhances inner peace.,gpt-4o design point,Yoga enhances inner peace.
+You only live once.,gpt-4o design point,You only live once.
+Zoroastrian temples have eternal flames.,gpt-4o design point,Zoroastrian temples have eternal flames.
+feeling blue; feeling sad.,gpt-4o design point,feeling blue; feeling sad.
+walking on eggshells; being overly cautious.,gpt-4o design point,walking on eggshells; being overly cautious.
