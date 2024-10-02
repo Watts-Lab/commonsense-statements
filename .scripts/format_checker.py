@@ -19,9 +19,9 @@ def check_csv_files(directory):
                 df = pd.read_csv(filepath)
 
                 # Check for required columns
-                if set(df.columns) != required_columns:
+                if not required_columns.issubset(df.columns):
                     exit_error(
-                        f"Error: {filename} does not have the required columns. Expected: {required_columns}, Found: {set(df.columns)}"
+                        f"Error: {filename} does not have the required columns. Expected at least: {required_columns}, Found: {set(df.columns)}"
                     )
 
                 # Convert set to list for column indexing
