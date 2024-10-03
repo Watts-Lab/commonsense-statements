@@ -5,7 +5,7 @@ import uuid
 import argparse
 
 # set up authentication key and endpoint
-azure_key = os.environ['AZURE_TRANSLATE_SERVICE_KEY']
+azure_key = os.environ.get('AZURE_TRANSLATE_SERVICE_KEY')
 endpoint = 'https://api.cognitive.microsofttranslator.com/'
 location = 'eastus' 
 
@@ -60,18 +60,22 @@ def translate_files(files, elicitation, committer):
     for file in files:
         df = pd.read_csv(file)
         for lng in languages:
-            translated_statements = df['statement'].apply(lambda x: translate_text(x, lng))
+            translated_statements = df["statement"].swifter.progress_bar(enable=True).apply(lambda x: translate_text(x, lng))
             total_characters += df['statement'].apply(len).sum() # accumluate the total number of characters translated
             translated_df = df.copy()
             translated_df['statement'] = translated_statements
             translated_df['elicitation'] = elicitation
             translated_df['committer'] = committer
 
-            filename = os.path.splitext(file)[0]
-            translated_file = f'{filename}_{lng}.csv'
+            basename = os.path.basename(file) # ie. raw_statements/email_statements_en.csv --> email_statements_en.csv
+            match = re.search(r'(.*)_[a-z]{2}(?:_cleaned)?\.csv', basename) # extract the part before the language code
+            if match:
+                filename = match.group(1)
+            else:
+                filename = None
+            translated_file = f'raw_statements/{filename}_{lng}.csv' # e.g. raw_statements/email_statements_ar.csv
             translated_df.to_csv(translated_file, index=False)
-
-            print(f'Translated {file} to {lng} and saved as {translated_file}')
+            print(f"Translated {file} to {lng} and saved as {translated_file}")
 
     return total_characters
 
