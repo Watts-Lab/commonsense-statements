@@ -1,0 +1,1245 @@
+statement,statement_r,hash,behavior,everyday,figure_of_speech,judgment,opinion,reasoning,awareness,consensus,commonsensicality
+"""A river of tears"" means heavy crying.","""A river of tears"" means heavy crying.",ad832bea29,0,1,0,1,1,0,0.9999994377296546,0.9999974096231619,0.9999984236758941
+2 + 2 = 4.,2 + 2 = 4.,4eeeaa2b74,0,1,0,0,0,0,0.9999999930981306,0.9999999949993885,0.9999999940487595
+3D printing revolutionizes manufacturing processes.,3D printing revolutionizes manufacturing processes.,c94d87d2b2,0,1,0,1,0,0,0.999303338333231,0.9999479721539188,0.999625603280026
+A barking dog seldom bites.,A barking dog seldom bites.,f27f21183b,0,0,0,1,0,1,0.9998655964007264,0.9996156274830253,0.9997406041292919
+A bird in the hand.,A bird in the hand.,5ba777aae0,0,0,0,1,0,0,0.9991251576513609,0.9940043098520918,0.996561444561801
+A blanket keeps you warm.,A blanket keeps you warm.,72262deecd,0,1,0,0,0,0,0.9999992153845012,0.9999966738941954,0.9999979446385409
+A book contains pages of information.,A book contains pages of information.,be079edc97,0,1,0,1,0,0,0.9999999090158656,0.9999994899242088,0.9999996994700152
+A calm demeanor eases stressful situations.,A calm demeanor eases stressful situations.,4e7c6a3707,1,1,0,1,1,1,0.9999999828916631,0.999999690623707,0.9999998367576743
+A clear goal sets the path.,A clear goal sets the path.,ca4b1d3005,1,0,0,1,1,1,0.99999918292124,0.9999951605468882,0.9999971717320416
+A dime a dozen means common.,A dime a dozen means common.,5684e7dd22,0,0,0,1,0,0,0.9999984715937688,0.9999929586473348,0.9999957151167527
+A hearty breakfast fuels your day.,A hearty breakfast fuels your day.,23b602541f,0,1,0,1,1,0,0.9999998745405216,0.9999994220085733,0.9999996482745218
+A high salt diet is unhealthy.,A high salt diet is unhealthy.,7c9e7442ce,0,1,0,0,0,0,0.9999995922371179,0.9999993450502977,0.9999994686437002
+A hot bath relaxes muscles.,A hot bath relaxes muscles.,0a2424b2f6,0,1,0,0,0,0,0.9999998171051118,0.9999993450497608,0.9999995810774085
+A hug can mend a heart.,A hug can mend a heart.,5ecf4f6e39,1,1,0,1,1,1,0.9479217300972496,0.7977944884325878,0.8696244774252095
+A pat on the back boosts morale.,A pat on the back boosts morale.,26daa60cab,1,1,0,1,1,1,0.9999996583080878,0.9999987763922679,0.9999992173500806
+A right angle is exactly 90 degrees.,A right angle is exactly 90 degrees.,64b9920aab,0,1,0,0,0,0,0.999999713603306,0.9999997590570499,0.9999997363301777
+A rising tide lifts all boats.,A rising tide lifts all boats.,f7d16a69eb,0,0,0,1,1,0,0.9821716191419424,0.9293468343015839,0.9553942039757333
+A river's flow is soothing.,A river's flow is soothing.,399a82edeb,0,1,0,0,1,0,0.9999632250823376,0.9998397517618474,0.9999014865161971
+A rolling stone gathers no moss.,A rolling stone gathers no moss.,4f73d0d6a4,0,0,0,0,0,0,0.9989538851518817,0.9995064827301281,0.9992301457410868
+A smile is contagious.,A smile is contagious.,8437643835,1,1,0,1,1,0,0.9999994967562357,0.9999977140021058,0.9999986053787735
+A stich in time saves nine.,A stich in time saves nine.,f0efefdc69,0,0,0,1,1,1,0.9992936193129972,0.9999868450557565,0.9996401720925147
+A tidy space invites calm.,A tidy space invites calm.,b9f7858d23,0,1,0,1,1,0,0.9999999043411648,0.9999987763923078,0.9999993403665772
+A warm smile invites friendliness.,A warm smile invites friendliness.,56fbe30193,1,1,0,1,1,1,0.9999998890689523,0.9999996027522523,0.999999745910592
+A watched pot never boils.,A watched pot never boils.,8ee0c858a7,0,1,0,1,1,0,0.9351288774252818,0.9565350612694763,0.945771408989957
+AI algorithms require quality data input.,AI algorithms require quality data input.,d0b81b6264,0,1,0,0,0,0,0.9975274279034535,0.9999998123534443,0.9987628550966778
+AI can improve medical diagnoses.,AI can improve medical diagnoses.,2f0035e1ac,0,1,0,1,0,0,0.9999990600927862,0.9999989201699282,0.9999989901313547
+AI can optimize logistics.,AI can optimize logistics.,ec693a4f23,0,1,0,0,0,0,0.999978642704519,0.9999996494300768,0.999989146012137
+AI chatbots provide customer support.,AI chatbots provide customer support.,c4d050c4df,0,1,0,1,0,0,0.9999999342547101,0.9999994220084871,0.9999996781315658
+AI enhances educational tools.,AI enhances educational tools.,323a4d5acf,0,1,0,1,0,0,0.999998033706123,0.9999929586478882,0.999995496173786
+AI ethics address bias concerns.,AI ethics address bias concerns.,a820cf67f6,1,1,0,1,1,0,0.9995635859981461,0.9997942418091942,0.9996789072512713
+AI ethics ensure fair algorithms.,AI ethics ensure fair algorithms.,64633d3f1c,1,1,0,1,1,0,0.999985499512501,0.9999331955043121,0.9999593471664291
+Abraham Lincoln delivered the Gettysburg Address.,Abraham Lincoln delivered the Gettysburg Address.,2ecccebac9,1,1,0,1,1,0,0.9999999946032906,0.9999999309686779,0.9999999627859837
+Abraham Lincoln was the 16th President of the USA.,Abraham Lincoln was the 16th President of the USA.,cd3dd4111b,1,0,0,1,1,0,0.9999999781983478,0.9999998123534292,0.9999998952758851
+Absence makes the heart grow fonder.,Absence makes the heart grow fonder.,6e80137a14,1,0,0,1,1,1,0.9999977761922445,0.9999897549005982,0.9999937655383786
+Abstract algebra studies algebraic structures.,Abstract algebra studies algebraic structures.,038e74fc04,0,1,0,0,0,0,0.9964211413354059,0.999941044948402,0.9981795416034157
+Abstract art challenges traditional perceptions.,Abstract art challenges traditional perceptions.,826569bf2a,1,0,0,1,1,0,0.9999985712043111,0.9999909587292036,0.9999947649595136
+Abstract sculpture evokes unique interpretations.,Abstract sculpture evokes unique interpretations.,c2360dcc54,0,1,0,1,1,0,0.9999797597736446,0.9997942419985819,0.9998869965835214
+Accurate measurements ensure reliability.,Accurate measurements ensure reliability.,41bcf670ab,0,1,0,1,0,0,0.9999998293543305,0.9999989201697972,0.9999993747619605
+Act with kindness.,Act with kindness.,0d97cd0df5,1,1,0,1,1,0,0.9999996947671935,0.9999998344024987,0.9999997645848436
+Actions have consequences.,Actions have consequences.,40584476a4,1,0,0,1,1,0,0.9999999974507742,0.9999999673919093,0.9999999824213417
+Actions speak louder than words.,Actions speak louder than words.,36524cf758,1,0,0,1,1,1,0.9999999026947918,0.9999995498592962,0.9999997262770285
+Active lifestyles reduce health risks.,Active lifestyles reduce health risks.,a3a22d9700,0,1,0,0,0,0,0.9999998385979988,0.9999993450497293,0.9999995918238336
+Adaptive behaviors enhance social adaptability.,Adaptive behaviors enhance social adaptability.,88144d615f,1,1,0,1,0,1,0.8670547532860665,0.999924300839891,0.9311225042761421
+Addition combines quantities.,Addition combines quantities.,e3894a2037,0,1,0,0,0,0,0.9999995278122022,0.9999977140023194,0.9999986209068497
+Adequate rest aids recovery.,Adequate rest aids recovery.,2710a3cd29,0,1,0,1,0,0,0.999999942087539,0.9999998344027812,0.9999998882451586
+Adhering to deadlines shows responsibility.,Adhering to deadlines shows responsibility.,f93508fb06,1,1,0,1,1,1,0.999999997049499,0.9999999113620379,0.9999999542057676
+Admitting fault shows maturity.,Admitting fault shows maturity.,4ecdeb54d1,1,1,0,1,1,1,0.9999988122957775,0.9999951605510027,0.9999969864217232
+Advances in medicine extend human life.,Advances in medicine extend human life.,ed16e74920,0,1,0,0,0,0,0.9999999790840132,0.999999871032523,0.9999999250582666
+Advocacy supports social change.,Advocacy supports social change.,be7cf94a72,1,1,0,1,1,0,0.9999988915875582,0.9999982196614204,0.9999985556244328
+Against the clock.,Against the clock.,56f6ca1f13,0,1,0,1,1,0,0.9995531950701239,0.997496237800165,0.9985241867694458
+Agnosticism questions the existence of deities.,Agnosticism questions the existence of deities.,e74df510ea,1,1,0,1,1,0,0.9983692255853719,0.992307925035645,0.9953339613717921
+Alaska offers stunning natural beauty.,Alaska offers stunning natural beauty.,1a438ad68f,0,1,0,0,1,0,0.9999999919797082,0.9999997590570214,0.999999875518358
+Alaska's glaciers are awe-inspiring.,Alaska's glaciers are awe-inspiring.,fcb297d62e,0,1,0,0,1,0,0.9999999022917817,0.9999991590265848,0.9999995306591142
+Albania's coast is untouched.,Albania's coast is untouched.,8a06ae4089,0,1,0,0,0,0,0.9995522073538713,0.9980495266536521,0.9988005844086919
+Albert Einstein formulated E=mc^2.,Albert Einstein formulated E=mc^2.,72873b9960,0,1,0,0,0,0,0.9999999473022225,0.9999992578442547,0.9999996025731792
+Alfred Nobel invented dynamite.,Alfred Nobel invented dynamite.,b932531a57,0,1,0,0,0,0,0.9999989495419572,0.9999951605465316,0.9999970550424498
+Algebra is foundational for advanced math.,Algebra is foundational for advanced math.,9221144afe,0,1,0,1,0,0,0.9999987164602887,0.9999989201707626,0.9999988183155205
+Algorithmic logic drives computations.,Algorithmic logic drives computations.,482e7c5f4a,0,1,0,1,0,0,0.6513793328495097,0.9999028014594614,0.8070415229274264
+All roads lead to Rome.,All roads lead to Rome.,fdc55e027e,0,0,0,1,1,0,0.99995644774863,0.9999410449552651,0.9999487463222902
+Almanacs are annual publications with various statistics.,Almanacs are annual publications with various statistics.,7dfbc7455b,0,1,0,0,0,0,0.9999999328461947,0.9999994220079476,0.9999996774270385
+Almanacs provide seasonal weather forecasts.,Almanacs provide seasonal weather forecasts.,a3b94bc818,0,1,0,0,0,0,0.999469858305711,0.9992820178378164,0.9993759336585044
+Always return borrowed items.,Always return borrowed items.,5959809f87,1,1,0,1,0,1,0.9999998311561925,0.9999991590274365,0.999999495091758
+An arm and a leg.,An arm and a leg.,9ac43db081,0,0,0,1,0,0,0.9825016385703269,0.9980495266679671,0.9902450683167359
+"An equivalence relation is reflexive, symmetric, and transitive.","An equivalence relation is reflexive, symmetric, and transitive.",a0a13610b2,0,1,0,0,0,0,0.9997735468625821,0.9986590500839934,0.9992161430886168
+Analysis of facts informs strategy.,Analysis of facts informs strategy.,295bdf7ff5,1,0,0,1,1,1,0.9999990283719561,0.9999951605466897,0.9999970944574529
+Analytical approaches identify root causes.,Analytical approaches identify root causes.,1f4543406e,0,1,0,0,0,0,0.9999693160221284,0.9989555122103709,0.9994622855723669
+Analytical reviews enhance processes.,Analytical reviews enhance processes.,b21b39537b,0,1,0,1,0,0,0.5623164072031462,0.9994407899686998,0.7496678959562518
+Ancient Greek tragedies influenced modern drama.,Ancient Greek tragedies influenced modern drama.,dfe82e6958,1,1,0,1,1,0,0.9999999999991335,0.9999957292001267,0.9999978645973501
+Ancient artifacts tell historical stories.,Ancient artifacts tell historical stories.,cea9169377,0,1,0,1,1,0,0.9999993129706037,0.9999966738936301,0.9999979934312464
+Ancient civilizations left lasting legacies.,Ancient civilizations left lasting legacies.,9b8393236a,1,0,0,1,1,0,0.9999998831740552,0.9999993450497466,0.9999996141118647
+Animation combines art and technology.,Animation combines art and technology.,e09375328e,0,1,0,1,1,0,0.9999995832952914,0.9999996494301017,0.999999616362696
+Antarctica is a frozen wonderland.,Antarctica is a frozen wonderland.,8436cc35f7,0,1,0,0,0,0,0.9999787437828108,0.9996156272103817,0.999797169011547
+Antarctica is covered in ice.,Antarctica is covered in ice.,2c40fb65ac,0,1,0,0,0,0,0.9999999952374213,0.9999999581303891,0.9999999766839051
+Antioxidants in fruits protect cells from damage.,Antioxidants in fruits protect cells from damage.,c60e197162,0,1,0,0,0,0,0.9999945896574782,0.9999970647184032,0.999995827187175
+Apologizing can heal strained relations.,Apologizing can heal strained relations.,07a8142c6e,1,1,0,1,1,1,0.9999999609236899,0.9999997590574669,0.9999998599905733
+Apologizing can restore harmony.,Apologizing can restore harmony.,01223360d1,1,0,0,1,1,1,0.999999135100608,0.9999996906231097,0.9999994128618203
+Apologizing restorers harmony.,Apologizing restorers harmony.,e927806416,1,1,0,1,1,1,0.9709489688830728,0.8861879410835367,0.9276008126514731
+Apologizing restores relationships.,Apologizing restores relationships.,2a17a506d2,1,1,0,1,1,1,0.9862320856992931,0.9445356862246913,0.9651587433385196
+Apples are a healthy snack.,Apples are a healthy snack.,4f7002eb76,0,1,0,1,0,0,0.9999999733609269,0.9999998710325256,0.999999922196725
+Apples grow on trees.,Apples grow on trees.,3a747a0c0e,0,1,0,0,0,0,0.9999999999999998,0.9999999309686868,0.9999999654843427
+Applying cold packs reduces swelling.,Applying cold packs reduces swelling.,7294a2744e,0,1,0,0,0,0,0.999998190810643,0.9999992578442582,0.9999987243273083
+Appreciate small joys.,Appreciate small joys.,8bfc506904,1,1,0,1,1,0,0.9999999856246663,0.9999999113620344,0.9999999484933496
+Appreciating beauty enhances life.,Appreciating beauty enhances life.,a0c4437950,1,1,0,1,1,0,0.9999987390922571,0.9999970647218138,0.999997901906685
+Arbor Day celebrates tree planting.,Arbor Day celebrates tree planting.,7f1eb60f93,0,1,0,0,1,0,0.9999992677846761,0.9999996027522505,0.9999994352684493
+Architectural design impacts habitat and aesthetics.,Architectural design impacts habitat and aesthetics.,869f9ce82e,0,1,0,0,0,0,0.9999998937798883,0.9999993450498932,0.9999996194148532
+Architecture shapes our built environment.,Architecture shapes our built environment.,1ae62a08b2,0,0,0,1,1,0,0.9999967397088855,0.9999998861865983,0.9999983129465043
+Argentina's Pampas are vast grasslands.,Argentina's Pampas are vast grasslands.,dc7684d5ee,0,1,0,0,0,0,0.9998582652532295,0.9999331954389351,0.9998957296441925
+Aristotle was a student of Plato.,Aristotle was a student of Plato.,08ee57b64a,1,1,0,1,1,0,0.9998918370236749,0.9999970647186897,0.9999444494869969
+"Aristotle’s ""golden mean"" suggests virtue in moderation.","Aristotle’s ""golden mean"" suggests virtue in moderation.",e2aed28316,1,0,0,1,1,0,0.9999184777997072,0.9999868450548932,0.9999526608430124
+Arithmetic sequences have a constant difference.,Arithmetic sequences have a constant difference.,9e3701687e,0,1,0,0,0,0,0.9859364720507797,0.9999996027522421,0.9929431405623017
+Art fosters emotional expression.,Art fosters emotional expression.,3c21242b3c,1,1,0,1,1,0,0.99999998880448,0.9999999309686881,0.9999999598865836
+Art reflects cultural values.,Art reflects cultural values.,d09c05a903,1,1,0,1,1,0,0.9999996224439813,0.9999999390800816,0.9999997807620189
+Art stimulates the mind.,Art stimulates the mind.,17b9fa2ee0,1,1,0,1,1,0,0.99999897567596,0.9999986134708335,0.9999987945733804
+Artificial intelligence personalizes user experiences.,Artificial intelligence personalizes user experiences.,f4777788f6,0,1,0,1,0,0,0.9999930529885442,0.9999962310285871,0.9999946420073031
+Artificial intelligence transforms industries.,Artificial intelligence transforms industries.,a508e25ec7,0,0,0,1,1,0,0.9999992944823713,0.9999951605466031,0.999997227512351
+As cool as a cucumber.,As cool as a cucumber.,3166c724b4,0,1,0,1,1,0,0.8832858660003388,0.6885712233454813,0.7798751370031142
+Asceticism involves self-discipline and abstention.,Asceticism involves self-discipline and abstention.,24605e7c1a,1,1,0,1,1,0,0.9992940566515278,0.9999850935148374,0.9996395153701655
+Assertive communication conveys confidence.,Assertive communication conveys confidence.,f8766b0314,1,1,0,1,1,1,0.9999999138804284,0.9999998344024876,0.9999998741414572
+Astronomy studies celestial objects and phenomena.,Astronomy studies celestial objects and phenomena.,195ecb5ac9,0,1,0,0,0,0,0.9999999951354486,0.9999998344024819,0.999999914768962
+Atheism rejects belief in deities.,Atheism rejects belief in deities.,a47e4ef4d0,1,1,0,1,1,0,0.9999999885751667,0.9999998995600231,0.9999999440675938
+Athena is a deity in Greek mythology.,Athena is a deity in Greek mythology.,435993e746,0,1,0,1,0,0,0.9999998918052573,0.9999992578442769,0.9999995748247168
+Atlas maps display geographical features.,Atlas maps display geographical features.,43043784b9,0,1,0,0,0,0,0.9999999897017323,0.9999996906231368,0.9999998401624234
+Atlases contain maps of the world.,Atlases contain maps of the world.,dc8ad1b980,0,1,0,0,0,0,0.999999902103508,0.9999996494300875,0.9999997757667898
+Atoms make up everything.,Atoms make up everything.,b05a26f9c4,0,1,0,0,0,0,0.9999703516013317,0.9999937860204484,0.9999820687422424
+Attending film festivals broadens cinematic appreciation.,Attending film festivals broadens cinematic appreciation.,1de875a651,1,1,0,1,1,0,0.9999970171550423,0.9999987763922794,0.999997896773274
+Automation requires ethical considerations.,Automation requires ethical considerations.,0fd6688082,1,0,0,1,0,0,0.9999990741304055,0.9999982196631217,0.9999986468966723
+Automobiles revolutionized transportation.,Automobiles revolutionized transportation.,75c47f3af1,0,1,0,0,0,0,0.9999999078821835,0.9999996027522399,0.9999997553172001
+Autonomous robots assist in manufacturing.,Autonomous robots assist in manufacturing.,334cf883e3,0,1,0,0,0,0,0.9999931784474411,0.9999957291962529,0.9999944538210337
+Autonomous vehicles require robust sensors.,Autonomous vehicles require robust sensors.,debcdddd4c,0,1,0,0,0,0,0.9999992022555148,0.9999989201698567,0.9999990612126758
+Bacteria can be killed by antibiotics.,Bacteria can be killed by antibiotics.,0421c60a62,0,1,0,0,0,0,0.9999988053650222,0.999999939080078,0.9999993722223894
+Baking fills the house with warmth.,Baking fills the house with warmth.,6a61b1025e,0,1,0,1,0,0,0.9995208364106015,0.9971633352932036,0.9983413899715107
+Baking is like therapy.,Baking is like therapy.,d467ed3737,0,1,0,1,1,0,0.9726145266818692,0.9923079168088453,0.9824118763684134
+Ballet requires both skill and grace.,Ballet requires both skill and grace.,8c0bd16101,1,1,0,1,1,0,0.9999999798344574,0.9999998995600289,0.9999999396972423
+Bayesian logic updates probabilities with new evidence.,Bayesian logic updates probabilities with new evidence.,5b92424f25,0,1,0,1,0,0,0.5926717811165385,0.9999783112527949,0.7698434430506649
+Beachcombing finds hidden treasures.,Beachcombing finds hidden treasures.,bc35bc8495,0,1,0,1,1,0,0.8527569742531601,0.9967862441995339,0.9219633515388592
+Beaches have waves.,Beaches have waves.,8a9ae94de6,0,1,0,0,0,0,0.9999997931522525,0.9999982196627598,0.9999990064071966
+Beat around the bush.,Beat around the bush.,0478cd1f0c,1,0,0,1,1,0,0.9995320331083496,0.9996607849823309,0.9995964069723731
+Beauty is skin deep.,Beauty is skin deep.,38a6db596d,0,1,0,1,1,0,0.9986346293241172,0.9932086885729009,0.9959179637673433
+"Bees pollinate plants, supporting ecosystems.","Bees pollinate plants, supporting ecosystems.",4e45961558,0,1,0,0,0,0,0.999999986675897,0.9999997590570245,0.9999998728664543
+Bees produce honey.,Bees produce honey.,0337e40834,0,1,0,0,0,0,0.9999999179460629,0.9999996027529757,0.9999997603495069
+Beethoven composed the Ninth Symphony.,Beethoven composed the Ninth Symphony.,37f3164495,0,1,0,1,0,0,0.9999997399730961,0.9999977140003037,0.9999987269861869
+Beethoven's compositions have enduring influence.,Beethoven's compositions have enduring influence.,1ed22e1c24,0,1,0,1,1,0,0.9999997714417937,0.9999989201699442,0.9999993458057784
+Beggars can't be choosers.,Beggars can't be choosers.,59ad9d58bb,1,1,0,1,1,1,0.9999990283719745,0.9999951605467807,0.9999970944575076
+Being efficient saves time.,Being efficient saves time.,928507acca,1,1,0,1,1,0,0.999999872797269,0.9999998538606976,0.9999998633289832
+Belgium is known for its chocolates and waffles.,Belgium is known for its chocolates and waffles.,07165f65b2,0,1,0,1,0,0,0.9999997868732518,0.9999998995600329,0.9999998432166407
+Berlin Wall falling symbolized new freedoms.,Berlin Wall falling symbolized new freedoms.,e2e099470a,0,0,0,1,1,0,0.9999998389065677,0.9999986134708158,0.999999226188504
+Biometrics offers secure identification methods.,Biometrics offers secure identification methods.,cd02475b19,0,1,0,0,0,0,0.9992473579683767,0.9997942417873232,0.9995207624746868
+Birds build nests in trees.,Birds build nests in trees.,3cbaaba4e3,0,1,0,0,0,0,0.9999992005438233,0.9999977140002451,0.999998457271758
+Birds migrate in winter.,Birds migrate in winter.,422213e390,0,1,0,0,0,0,0.9999975375163309,0.9999929586407343,0.9999952480759119
+Blockchain ensures secure transactions.,Blockchain ensures secure transactions.,0856d3a29e,0,1,0,1,0,0,0.9955740566595527,0.9203243130673466,0.9572100134259328
+Blockchain provides decentralized data security.,Blockchain provides decentralized data security.,17d38d922a,0,1,0,0,0,0,0.5319191950135996,0.9971633357800922,0.7282927425597638
+Blogging encourages self-expression.,Blogging encourages self-expression.,b7aefc2487,1,1,0,1,1,0,0.9999999682176054,0.9999998861866058,0.9999999272021048
+Blood cells transport oxygen and nutrients.,Blood cells transport oxygen and nutrients.,1a40c4f31f,0,1,0,0,0,0,0.9998277849269418,0.9990781875160691,0.9994529159460266
+Body language communicates feelings.,Body language communicates feelings.,df82b3f6a0,1,1,0,1,1,0,0.9999999987958317,0.9999999845970319,0.9999999916964317
+Body markings like henna have religious significance.,Body markings like henna have religious significance.,696e860cfd,0,1,0,1,0,0,0.9487794116934727,0.9912882018799216,0.9698009264783739
+Bone density decreases with age.,Bone density decreases with age.,e6e74b8e95,0,1,0,0,0,0,0.9999997344022176,0.9999977140020814,0.9999987242016393
+Boolean algebra manipulates logical variables.,Boolean algebra manipulates logical variables.,636c598641,0,1,0,0,0,0,0.7311673491436583,0.9995644602519964,0.8548970094114635
+Brainstorming sessions generate creative ideas.,Brainstorming sessions generate creative ideas.,18bac3d492,1,1,0,1,1,0,0.9999989756759419,0.9999986134708313,0.9999987945733703
+Brazil's Pantanal is a massive wetland.,Brazil's Pantanal is a massive wetland.,58992c8a72,0,1,0,0,0,0,0.9999514601195478,0.9999883907968844,0.9999699252877267
+Breaking the ice eases tensions.,Breaking the ice eases tensions.,f2d2d5d2e0,1,1,0,1,1,1,0.9999994384310987,0.9999989201698918,0.9999991793004617
+Bridges connect communities and ideas.,Bridges connect communities and ideas.,ecd5e6955b,0,0,0,1,1,0,0.9999614835654486,0.9997358091030499,0.9998486399671652
+Bright as a button.,Bright as a button.,0cebe0f506,0,1,0,1,1,0,0.9413118680231515,0.0916331900465609,0.29369271236387307
+Bright smiles spread joy.,Bright smiles spread joy.,6bd0723966,1,1,0,1,1,0,0.9999997053508899,0.9999974096233053,0.9999985574864388
+Buddhism teaches the Four Noble Truths.,Buddhism teaches the Four Noble Truths.,3a23080188,1,1,0,1,1,0,0.9999995278946615,0.999999871032523,0.9999996994635775
+Buddhist sutras contain the teachings of Buddha.,Buddhist sutras contain the teachings of Buddha.,993e8070f5,1,1,0,1,0,0,0.9999628386499932,0.9999883907962196,0.9999756146414904
+Building models encourages imaginative thinking.,Building models encourages imaginative thinking.,2d03881cd3,1,0,0,1,1,0,0.9999999999999568,0.9999982196613578,0.9999991098302611
+Bulgaria's mountains offer great hiking.,Bulgaria's mountains offer great hiking.,1b83cd9bff,0,1,0,1,0,0,0.9966462896684571,0.8988613125254767,0.9464918341195744
+Burning the midnight oil.,Burning the midnight oil.,a54c149e0a,0,0,0,1,1,0,0.9992427076854501,0.9923076458575615,0.9957691393609688
+Busy as a bee.,Busy as a bee.,b893fea770,0,1,0,1,1,0,0.9998615488905128,0.9994407899367982,0.9996511472761709
+Butterflies in the stomach mean nervousness.,Butterflies in the stomach mean nervousness.,b8fc1a0b29,0,1,0,1,0,0,0.9999997186530617,0.999998219662762,0.999998969157631
+CRISPR technology allows precise gene editing.,CRISPR technology allows precise gene editing.,310e758326,0,1,0,0,0,0,0.9993486217015133,0.9997668486518679,0.9995577133027935
+Calculations quantify abstract concepts.,Calculations quantify abstract concepts.,3d60ff2a58,0,1,0,0,0,0,0.9479216454152596,0.994706938666212,0.9710325627940863
+Calculus studies change and motion.,Calculus studies change and motion.,de51401f3d,0,1,0,0,0,0,0.9999964825235239,0.9999783112747487,0.9999873968578614
+California features diverse landscapes.,California features diverse landscapes.,26f1361ed8,0,1,0,0,0,0,0.9999999892061634,0.9999999894137046,0.999999989309934
+Calligraphy turns writing into art.,Calligraphy turns writing into art.,e4fc40e51e,0,1,0,1,1,0,0.9999990218295669,0.9999945161817797,0.9999967690031357
+Calm before the storm.,Calm before the storm.,45cb977ff4,0,1,0,1,1,0,0.9999311668717588,0.999564460253439,0.9997477967491407
+Canada has vast wilderness.,Canada has vast wilderness.,7663f8e65a,0,1,0,0,0,0,0.9999999548976428,0.9999996906231146,0.99999982276037
+Canada's provinces are culturally diverse.,Canada's provinces are culturally diverse.,e1613f4107,0,1,0,1,0,0,0.999827434683588,0.9999721512224091,0.9998997903348766
+Careful evaluation refines hypotheses.,Careful evaluation refines hypotheses.,0aba3743ae,1,0,0,1,1,0,0.9580084020057533,0.9996156275848332,0.9785909104434418
+Careful planning improves outcomes.,Careful planning improves outcomes.,fd8672d655,1,1,0,1,1,0,0.9999999193926892,0.9999994899242395,0.9999997046584412
+Careful research uncovers hidden truths.,Careful research uncovers hidden truths.,34383602ec,1,0,0,1,1,0,0.9999968448716627,0.9999957291968502,0.9999962870341008
+Carl Sagan popularized science through his works.,Carl Sagan popularized science through his works.,5aff6141c4,0,1,0,1,1,0,0.9999992946332064,0.9999998861865974,0.9999995904098581
+Carpe diem (Seize the day).,Carpe diem (Seize the day).,96107db65e,1,0,0,1,1,0,0.9993256865158986,0.99985858003935,0.9995920977662013
+Cartesian coordinates use x and y axes.,Cartesian coordinates use x and y axes.,aec375b8fa,0,1,0,0,0,0,0.9999994377402343,0.9999808597303604,0.9999901486921541
+Cartoons often blend humor and insight.,Cartoons often blend humor and insight.,cfc959bdbf,1,1,0,1,1,0,0.9999940940666934,0.9999990470531844,0.9999965705568724
+Cats purr when content.,Cats purr when content.,157d615ca3,1,1,0,1,0,0,0.9999988370467787,0.9999951605464077,0.9999969987949037
+Cats typically dislike getting wet.,Cats typically dislike getting wet.,d53db7c79a,0,1,0,1,0,1,0.999999861074953,0.9999996027530437,0.9999997319139899
+Celebrate small victories.,Celebrate small victories.,f001a88cf3,1,1,0,1,1,0,0.9999999045184559,0.9999997269758758,0.9999998157471619
+Celebrating diversity brings unity.,Celebrating diversity brings unity.,332dfce54d,1,0,0,1,1,0,0.9998277749551556,0.9998751965707493,0.9998514854818096
+Celebrating holidays unites communities.,Celebrating holidays unites communities.,80df078e4a,1,1,0,1,1,0,0.9999991179928434,0.9999962310319604,0.99999767451136
+Celebrating milestones brings joy.,Celebrating milestones brings joy.,8977b19ba1,1,1,0,1,1,0,0.9999997651583568,0.9999982196614609,0.9999989924096102
+Celebrating milestones builds morale.,Celebrating milestones builds morale.,dc0b9315d7,1,1,0,1,1,0,0.9999993538223498,0.9999996494300892,0.9999995016262085
+Celebrating milestones nurtures growth.,Celebrating milestones nurtures growth.,77bd30801f,1,0,0,1,1,1,0.9999925558303667,0.9999982196613818,0.9999953877418644
+Celebrating milestones strengthens bonds.,Celebrating milestones strengthens bonds.,c553a2c5e5,1,1,0,1,1,0,0.99999999290839,0.999999946238359,0.9999999695733742
+Celebrating togetherness deepens relationships.,Celebrating togetherness deepens relationships.,c78dc2e4bf,1,0,0,1,1,0,0.9999999752954961,0.9999998861866018,0.999999930741048
+Cellular respiration produces energy in living organisms.,Cellular respiration produces energy in living organisms.,6798302c3a,0,1,0,0,0,0,0.9999902816144646,0.9999479721590209,0.9999691266629746
+Ceramics blend function and beauty.,Ceramics blend function and beauty.,5c255614bb,0,1,0,1,1,0,0.9999971445765526,0.9999754234696204,0.9999862839641099
+Changing seasons affect daylight hours.,Changing seasons affect daylight hours.,87a57266c6,0,1,0,0,0,0,0.9999997752036615,0.9999999462383559,0.999999860721005
+Charity begins at home.,Charity begins at home.,8c987fb4a7,1,0,0,1,1,0,0.9999632250886005,0.9998397518001025,0.9999014865384571
+Chemical reactions often release energy.,Chemical reactions often release energy.,2a4234b2cd,0,1,0,0,0,0,0.9998002997358826,0.9999850935151572,0.9998926923564692
+Chemistry explores the properties of substances.,Chemistry explores the properties of substances.,88bc3715a9,0,1,0,0,0,0,0.9999991705356444,0.999995729200025,0.9999974498663543
+Cherish your loved ones.,Cherish your loved ones.,ce73515ce1,1,1,0,1,1,0,0.999999969068023,0.9999998344024903,0.9999999017352544
+Chile's Atacama Desert is otherworldly.,Chile's Atacama Desert is otherworldly.,fff6caab77,0,1,0,0,1,0,0.9997809721385867,0.9990781860358449,0.9994295173134385
+China's Yangtze River is mighty.,China's Yangtze River is mighty.,fd9f694bb6,0,1,0,0,1,0,0.9999564477411953,0.9997668486403611,0.9998616436966791
+Choreography guides dance movements.,Choreography guides dance movements.,292644abc3,0,1,0,1,0,0,0.9999995630671883,0.9999999673919164,0.9999997652295319
+Cicero's wisdom transcends centuries.,Cicero's wisdom transcends centuries.,e70f666f23,1,0,0,1,1,0,0.9969671322455517,0.9873495046227164,0.9921466646357159
+Cinema can influence popular culture.,Cinema can influence popular culture.,38366c57d8,1,1,0,1,1,0,0.9999999944945535,0.9999999673919182,0.9999999809432357
+Circles have a constant radius.,Circles have a constant radius.,d93ffd2dfa,0,1,0,0,0,0,0.9999418372036861,0.999735809245355,0.9998388179177252
+Civic participation strengthens democracy.,Civic participation strengthens democracy.,367ebf7ba3,1,0,0,1,1,0,0.9999999999999996,0.9999999113620353,0.9999999556810164
+Civil rights movements championed equality.,Civil rights movements championed equality.,fab1fc2d36,1,0,0,1,1,0,0.999999987638446,0.9999999712234657,0.9999999794309559
+Claude Monet pioneered the Impressionist movement.,Claude Monet pioneered the Impressionist movement.,748a46281f,0,1,0,1,1,0,0.9985135604946,0.9999410450003846,0.9992270478364891
+Clean hands prevent illness.,Clean hands prevent illness.,54201c70c4,0,1,0,0,0,0,0.9999998967022684,0.9999995498593228,0.9999997232807806
+Clean homes are inviting.,Clean homes are inviting.,e97764ec2c,0,1,0,1,1,0,0.9999997517118979,0.9999994220084787,0.9999995868601748
+"Clean space, clear mind.","Clean space, clear mind.",43bfd74bd7,0,1,0,1,1,0,0.9999972156000148,0.9999868450546592,0.9999920303138933
+Clean water supports life.,Clean water supports life.,dc12d451cc,0,1,0,0,0,0,0.9999999899363065,0.9999999712234631,0.9999999805798847
+Cleaning clutter clears the mind.,Cleaning clutter clears the mind.,18e77ca79e,0,1,0,1,1,0,0.9999999999984336,0.9999937860210182,0.9999968930048991
+Cleanliness is next to godliness.,Cleanliness is next to godliness.,ad8c886bef,1,1,0,1,1,0,0.9695740620576005,0.9102023612792403,0.9394192890929655
+Clear arguments gain agreement.,Clear arguments gain agreement.,17e8a0c644,1,1,0,1,1,1,0.9942923633504183,0.9764955093784338,0.9853537577037769
+Clear frameworks guide inquiry.,Clear frameworks guide inquiry.,4a8e237a5f,1,0,0,1,1,0,0.988278008322113,0.9971633390934082,0.9927107326563268
+Clear goals guide actions.,Clear goals guide actions.,34653e8cc2,1,0,0,1,1,1,0.9999998429143849,0.9999998861865979,0.9999998645504912
+Clear logic disentangles problems.,Clear logic disentangles problems.,60a620f5f5,1,0,0,1,1,0,0.9999984716343052,0.9999540854754805,0.9999762783086207
+Clear logic explains phenomena.,Clear logic explains phenomena.,e3ed000eb8,1,1,0,1,1,0,0.9926710991980138,0.9659843365729454,0.9792368116007127
+Clear structures elucidate concepts.,Clear structures elucidate concepts.,8a36764b27,0,1,0,1,1,0,0.9244771054872749,0.9986590501521313,0.9608524486378299
+Clergy often serve as community leaders.,Clergy often serve as community leaders.,c0d3b62ed2,1,1,0,1,1,0,0.9999993938052267,0.9999998344024872,0.9999996141038326
+Clichés often carry profound truths.,Clichés often carry profound truths.,de9d5d4169,1,0,0,1,1,0,0.9964194073804526,0.9999479721581105,0.9981821305899389
+Climbing stairs improves fitness.,Climbing stairs improves fitness.,aeb5249c82,0,1,0,0,0,0,0.999999915737849,0.999999422008512,0.9999996688731501
+Cloud computing enables collaboration.,Cloud computing enables collaboration.,abb4eeb75a,0,1,0,1,0,0,0.9999988368001408,0.9999966738909345,0.9999977553449528
+Clouds are formed from water vapor.,Clouds are formed from water vapor.,ae0a46634d,0,1,0,0,0,0,0.9999993277139827,0.9999989201698545,0.9999991239418978
+Clouds precipitate rain.,Clouds precipitate rain.,276c49b0e2,0,1,0,0,0,0,0.9994715223323309,0.9999028015459468,0.9996871386816427
+Coffee has a strong aroma.,Coffee has a strong aroma.,df96dfff02,0,1,0,0,0,0,0.9999999648090371,0.9999995498593051,0.9999997573341496
+Coherent presentations facilitate understanding.,Coherent presentations facilitate understanding.,a3b9b98cb8,0,1,0,1,0,0,0.9999999866759013,0.9999998123534412,0.9999998995146675
+Collaborating harmonizes diverse ideas.,Collaborating harmonizes diverse ideas.,76dd22f2cb,1,0,0,1,1,0,0.9999968322614099,0.9999721511945375,0.9999844916518281
+Collaboration boosts creativity.,Collaboration boosts creativity.,feea7df5cc,1,1,0,1,1,0,0.999999863610768,0.9999986134708211,0.9999992385405991
+Collaboration drives success.,Collaboration drives success.,d4c4ed329f,1,1,0,1,1,0,0.9999994055638352,0.9999974096256017,0.9999984075942204
+Collective action addresses global challenges.,Collective action addresses global challenges.,f613a9b88e,1,1,0,1,1,0,0.9999814676577519,0.9999984288566689,0.9999899482212498
+Collective wisdom drives crowdsourcing.,Collective wisdom drives crowdsourcing.,00d640ebc8,1,0,0,1,1,0,0.9048300921277028,0.9992820179444382,0.9508840309723487
+Colosseums symbolize ancient civilizations.,Colosseums symbolize ancient civilizations.,b42819b50b,0,1,0,0,0,0,0.9951152326640758,0.9792285317324707,0.9871399233068526
+Comforting words ease difficult emotions.,Comforting words ease difficult emotions.,dcea0c474f,1,1,0,1,1,1,0.999999932716798,0.9999997590570405,0.9999998458869155
+Comic books blend text and visuals.,Comic books blend text and visuals.,52b899bc63,0,1,0,1,0,0,0.9999999820140549,0.9999999581303878,0.9999999700722213
+Common courtesy smooths interactions.,Common courtesy smooths interactions.,1097f43f9e,1,1,0,1,1,1,0.9999999678286388,0.9999999825461493,0.999999975187394
+Communal worship strengthens faith.,Communal worship strengthens faith.,8d8140a6e5,1,1,0,1,1,0,0.9999958373812907,0.9999850935137601,0.9999904654330964
+Communication builds bridges.,Communication builds bridges.,198839b42a,0,1,0,1,1,0,0.9999998892821887,0.9999990470532026,0.999999468167607
+Communion is a central Christian sacrament.,Communion is a central Christian sacrament.,3efe48bd30,1,1,0,1,0,0,0.9999993628661823,0.999997064721352,0.9999982137931069
+Complaints should be addressed politely.,Complaints should be addressed politely.,11cf3c0138,1,1,0,1,1,0,0.9999999820841392,0.9999999712234644,0.9999999766538018
+Complex numbers include real and imaginary parts.,Complex numbers include real and imaginary parts.,09adc12fab,0,1,0,0,0,0,0.9989706725938385,0.9999883907969643,0.9994794021591809
+Compliments are like emotional hugs.,Compliments are like emotional hugs.,4bd35f4323,1,1,0,1,1,0,0.9999799226061415,0.99998310874936,0.9999815156764819
+Compliments boost self-esteem.,Compliments boost self-esteem.,ff40137b4e,1,1,0,1,1,1,0.9999998236986227,0.9999992578448271,0.999999540771685
+Compliments uplift spirits.,Compliments uplift spirits.,e5cb20ff49,1,1,0,1,1,1,0.999999986776602,0.9999999390801957,0.9999999629283985
+Composting kitchen waste enriches garden soil.,Composting kitchen waste enriches garden soil.,4e6602db8a,0,1,0,0,0,0,0.9999988370468692,0.9999998123534252,0.9999993247000283
+Composting reduces household waste.,Composting reduces household waste.,993f51a9cc,0,1,0,0,0,0,0.9999998611048867,0.9999994220084423,0.9999996415566403
+Computer simulations model complex systems.,Computer simulations model complex systems.,1b19cae761,0,1,0,0,0,0,0.9999822847167259,0.9999951605468727,0.9999887226110756
+Concrete weighs more than wood.,Concrete weighs more than wood.,570d616882,0,1,0,0,0,0,0.9999991106337115,0.9999909587292019,0.99999503467315
+Confucian texts guide moral behavior.,Confucian texts guide moral behavior.,b0e7e8910d,1,1,0,1,0,0,0.8822981662002202,0.9940042883014732,0.9364871386001757
+Confucianism values filial piety and respect.,Confucianism values filial piety and respect.,eae111dcc6,1,1,0,1,1,0,0.9999983075558565,0.9999951605462891,0.9999967340498349
+Confucius emphasized moral integrity.,Confucius emphasized moral integrity.,49b321d1d0,1,1,0,1,1,0,0.9947888241040549,0.9999642415694792,0.9973731759060924
+Consecutive integers differ by one.,Consecutive integers differ by one.,53973e3f33,0,1,0,0,0,0,0.9999999256389076,0.9999997873686002,0.9999998565037514
+Conservation efforts protect endangered species.,Conservation efforts protect endangered species.,1ab779de49,0,1,0,1,1,0,0.9999999957070489,0.9999998538607162,0.9999999247838801
+Consistency builds character.,Consistency builds character.,c32ad66520,1,1,0,1,1,0,0.9999614835647994,0.9997358091066763,0.999848639968654
+Consistency builds reliable habits.,Consistency builds reliable habits.,84f5dec4c3,1,1,0,1,1,0,0.9999997769540321,0.9999998123534269,0.9999997946537293
+Consistency ensures reliability.,Consistency ensures reliability.,2a83ec0cf9,0,1,0,1,0,0,0.9999940413691767,0.9999754234718435,0.9999847323771812
+Consistent practice brings mastery.,Consistent practice brings mastery.,6d6d39dd66,1,0,0,1,1,0,0.999999934516899,0.9999996906231372,0.9999998125700106
+Constructive criticism aids growth.,Constructive criticism aids growth.,2ccda6f1c1,1,0,0,1,1,1,0.9999999549942654,0.9999997873689888,0.9999998711816236
+Cooking at home saves money.,Cooking at home saves money.,dbbb87a240,0,1,0,1,0,0,0.9999998746966613,0.9999992578442645,0.9999995662704153
+Cooking teaches patience.,Cooking teaches patience.,9f832180c3,1,1,0,1,1,0,0.9999997978657665,0.9999994220085626,0.9999996099371469
+Counting numbers start from one.,Counting numbers start from one.,519a447ac0,0,1,0,0,0,0,0.9997742788672395,0.9990781876411136,0.9994261726515286
+Courtesy counts in daily interactions.,Courtesy counts in daily interactions.,4075feed07,1,1,0,1,1,1,0.9999999682787739,0.9999997269758167,0.999999847627288
+Cozy nooks invite reading.,Cozy nooks invite reading.,a880bca21b,0,1,0,1,1,1,0.9999981497700315,0.9999920211038948,0.9999950854322681
+Crafting homemade gifts shows thoughtfulness.,Crafting homemade gifts shows thoughtfulness.,4c5264c8b1,1,1,0,1,1,1,0.9999999786557501,0.99999972697641,0.9999998528160721
+Crafting projects encourage creativity.,Crafting projects encourage creativity.,a1197ad7bc,0,1,0,1,1,0,0.9999999764910997,0.9999998861865992,0.9999999313388485
+Creating art relieves stress.,Creating art relieves stress.,ed3200105e,1,1,0,1,1,0,0.9999955208085263,0.9999987763922692,0.9999971485990728
+Creative hobbies uplift mood.,Creative hobbies uplift mood.,438247470b,1,1,0,1,1,0,0.9999997714417939,0.9999989201699424,0.9999993458057775
+Creativity fuels innovation.,Creativity fuels innovation.,74584530f1,1,0,0,1,1,0,0.99999967062539,0.9999999309686859,0.9999998007970294
+Creativity fuels problem-solving.,Creativity fuels problem-solving.,2710ee2b2a,1,0,0,1,1,0,0.9999999758136293,0.9999997873685926,0.9999998815911065
+Crime doesn’t pay.,Crime doesn’t pay.,117260d452,1,0,0,1,1,0,0.9999669040921529,0.999858580077265,0.9999127406178194
+Crisp air characterizes fall.,Crisp air characterizes fall.,c7be49970b,0,1,0,0,0,0,0.9999991803230067,0.999993786021238,0.9999964831684851
+Critical analysis refines models.,Critical analysis refines models.,0841d0712c,0,1,0,1,0,0,0.9972205148132358,0.9999142220868432,0.9985664601409954
+Critical thinking identifies errors.,Critical thinking identifies errors.,16af8d535d,1,0,0,1,1,0,0.9999964171093222,0.9999897549110621,0.999993086004644
+Cultural dance preserves traditions.,Cultural dance preserves traditions.,9489253829,1,1,0,1,1,0,0.9999999966311404,0.9999999390800784,0.999999967855609
+Cultural narratives shape identity.,Cultural narratives shape identity.,8646df7706,1,0,0,1,1,0,0.9999976769578472,0.9999990470532555,0.9999983620053168
+Cultural sagas recount historical events.,Cultural sagas recount historical events.,092d217412,1,1,0,1,0,0,0.9996654136463952,0.9998184170001598,0.9997419123962688
+Cultural symbols carry deep meanings.,Cultural symbols carry deep meanings.,d3a5dd244e,1,1,0,1,1,0,0.9999999197066857,0.9999998710325141,0.9999998953695995
+Curiosity drives learning.,Curiosity drives learning.,4113d2ea8e,1,0,0,1,1,1,0.9999999727026249,0.999999963050198,0.9999999678764114
+Curiosity killed the cat.,Curiosity killed the cat.,c29057ce49,1,0,0,1,1,1,0.6823513570249102,0.128419990545117,0.2960195176294744
+Cut your coat according to your cloth.,Cut your coat according to your cloth.,5574d57eb4,0,1,0,1,0,0,0.9964106233308603,0.9999831087485695,0.9981952678251353
+Cyber hygiene protects against online threats.,Cyber hygiene protects against online threats.,f1c358cd83,0,1,0,1,0,1,0.9999989441590477,0.9999999525555144,0.9999994483571539
+Cyber laws shape digital governance.,Cyber laws shape digital governance.,568aeeaa89,0,1,0,1,0,0,0.9999766377782974,0.9998397519188061,0.9999081925061194
+Cyber threats require advanced security measures.,Cyber threats require advanced security measures.,0a5e48ed45,0,1,0,1,0,0,0.9999992022542085,0.9999994220084649,0.9999993121313306
+Cybersecurity protects sensitive information.,Cybersecurity protects sensitive information.,de2add79cb,0,1,0,1,0,0,0.9999999399136003,0.9999999309686863,0.9999999354411433
+Cycling keeps you young.,Cycling keeps you young.,757e0ecf17,0,1,0,1,1,0,0.8678591168872569,0.4954829033081024,0.6557509854340319
+Cycling tones leg muscles.,Cycling tones leg muscles.,3d26c32dad,0,1,0,0,0,0,0.9999998395709829,0.999999257844101,0.9999995487074996
+Cyprus blends many cultures.,Cyprus blends many cultures.,a8a4498b20,0,1,0,1,0,0,0.9972651229569144,0.9997358091023052,0.9984997018471466
+DNA carries genetic information.,DNA carries genetic information.,601305e07d,0,1,0,0,0,0,0.9999998248727251,0.9999989201699206,0.9999993725212205
+Daily routines provide structure.,Daily routines provide structure.,4365327889,1,1,0,1,0,0,0.999999983020856,0.9999998538606869,0.9999999184407694
+Dali's surrealism challenged perceptions of reality.,Dali's surrealism challenged perceptions of reality.,6c499bb969,1,0,0,1,1,0,0.9999914235452092,0.999954085471566,0.9999727543341164
+Dance expresses human emotion.,Dance expresses human emotion.,91c976dac7,1,1,0,1,1,0,0.9999998182101622,0.9999998861866041,0.9999998521983825
+Dance performances tell compelling stories.,Dance performances tell compelling stories.,4225dbdb31,1,1,0,1,1,0,0.9948110815579743,0.9998751962171774,0.9973399246855618
+Dancing releases endorphins.,Dancing releases endorphins.,329643aa02,0,1,0,0,0,0,0.9999879351147669,0.9999962310286911,0.9999920830631261
+Data analysis reveals trends.,Data analysis reveals trends.,89905f9fb8,0,1,0,1,0,0,0.9999991425409865,0.9999991590274121,0.9999991507841993
+Data encryption ensures privacy.,Data encryption ensures privacy.,e3ba9f7462,0,1,0,0,0,0,0.9839235501296195,0.8562655499971729,0.91787790027155
+Data visualization aids understanding.,Data visualization aids understanding.,96a1ce7657,0,1,0,1,0,0,0.999999972006881,0.99999915902723,0.9999995655169729
+Daylight follows dawn.,Daylight follows dawn.,881e206650,0,1,0,0,0,0,0.9999996824341065,0.9999982196613907,0.9999989510474812
+Decorating for holidays brings joyful spirit.,Decorating for holidays brings joyful spirit.,00a5bfb62b,1,1,0,1,1,0,0.9999983075557004,0.9999883907975128,0.9999933491643138
+Deforestation leads to loss of biodiversity.,Deforestation leads to loss of biodiversity.,6f3c37b95f,0,1,0,0,0,0,0.9999997522020747,0.9999999113620335,0.999999831782051
+"Deism believes in a distant, non-interventionist God.","Deism believes in a distant, non-interventionist God.",ca307f9ed9,1,0,0,1,1,0,0.9993256870520097,0.9998585801732086,0.9995920981012398
+Democratic values underpin good governance.,Democratic values underpin good governance.,2c183d3dd6,1,0,0,1,1,0,0.9999946654022823,0.9999754234892942,0.9999850443995062
+Denmark boasts high quality of life.,Denmark boasts high quality of life.,bdbc79f17f,1,1,0,1,1,0,0.9999985767724421,0.9999977140003068,0.9999981453862814
+Denmark's design is top-notch.,Denmark's design is top-notch.,2693695b7a,1,1,0,1,1,0,0.5953496127647866,3.68594044175552e-14,1.4813585705943094e-07
+Dental floss removes plaque and food particles.,Dental floss removes plaque and food particles.,b8d96ab999,0,1,0,0,0,0,0.9999999589590891,0.9999994220084036,0.9999996904837104
+Derivatives measure rates of change.,Derivatives measure rates of change.,f96312cfe9,0,1,0,1,0,0,0.7058163875340201,0.9998751962198831,0.8400763649697492
+"Descartes' ""Cogito, ergo sum"" emphasizes self-awareness.","Descartes' ""Cogito, ergo sum"" emphasizes self-awareness.",bd9b7a2302,1,0,0,1,1,0,0.9964253272005285,0.9999243009047394,0.9981732809010491
+Desert sand is very hot.,Desert sand is very hot.,20bc4f8242,0,1,0,0,0,0,0.9999843662796856,0.9999331954265765,0.9999587805258106
+Deserts are arid.,Deserts are arid.,44f66d0f5c,0,1,0,0,0,0,0.9999999640999754,0.9999997873685971,0.9999998757342823
+Detecting patterns aids in predictions.,Detecting patterns aids in predictions.,5d497a12d7,0,0,0,1,0,1,0.9999999138802392,0.9999998344028078,0.9999998741415227
+Dictionaries are useful for word meanings.,Dictionaries are useful for word meanings.,98d71c9751,0,1,0,1,0,0,0.9999999905062182,0.9999999961055197,0.999999993305869
+Dietary fiber aids digestion.,Dietary fiber aids digestion.,2b060949b6,0,1,0,0,0,0,0.9999999296154995,0.9999996494307087,0.9999997895230943
+Digital currencies enable decentralized transactions.,Digital currencies enable decentralized transactions.,281123b2a2,0,1,0,1,0,0,0.997201072526248,0.9999920211037074,0.9985955717718297
+Digital entertainment often uses virtual reality.,Digital entertainment often uses virtual reality.,6f4e1240ba,0,1,0,1,0,0,0.883990478286077,0.30758110478415734,0.5214391315675371
+Digital innovations transform businesses.,Digital innovations transform businesses.,dfaa32fe98,0,1,0,1,1,0,0.9999999269962225,0.9999992578442822,0.9999995924201964
+Digital tools simplify tasks.,Digital tools simplify tasks.,02e13875df,0,1,0,1,0,0,0.9999997931519015,0.9999990470532546,0.9999994201025084
+Digital transformation enhances business agility.,Digital transformation enhances business agility.,f11dd6e9b5,0,1,0,1,1,0,0.9999974609215291,0.9999642415822083,0.9999808511139255
+Digital transformation reshapes industries.,Digital transformation reshapes industries.,1e0c8ee395,0,0,0,1,1,0,0.9994602292845686,0.9999479722057116,0.9997040709996934
+Diverse backgrounds enrich discussions.,Diverse backgrounds enrich discussions.,05c52664ca,1,0,0,1,1,0,0.999999972644042,0.9999999217772719,0.9999999472106565
+Diverse teams generate creativity.,Diverse teams generate creativity.,3529711b2a,1,0,0,1,1,0,0.9999997338895658,0.9999990470532959,0.9999993904713719
+Diversification reduces investment risks.,Diversification reduces investment risks.,a99741198a,0,1,0,0,0,0,0.9999996824346257,0.9999994899237985,0.9999995861792075
+Diving meetings usually require an agenda and structure.,Diving meetings usually require an agenda and structure.,9aa52bead0,1,1,0,1,0,0,0.9990339186613534,0.9953274386999963,0.9971789565748093
+Dogs are loyal animals.,Dogs are loyal animals.,1f53870e29,1,1,0,1,1,0,0.9999999683183382,0.999999812353434,0.9999998903358831
+Don't cry over spilled milk.,Don't cry over spilled milk.,1b0431be20,0,1,0,1,1,0,0.9999999487974578,0.9999993450492217,0.9999996469232942
+Don’t cut corners.,Don’t cut corners.,0ebab5b676,1,1,0,1,1,0,0.9999990218294896,0.9999984288567115,0.9999987253430567
+Double-checking work prevents errors.,Double-checking work prevents errors.,affde2afaa,0,1,0,1,0,0,0.9999999919185226,0.9999998861866072,0.9999999390525635
+Drawing improves fine motor skills.,Drawing improves fine motor skills.,0042754592,0,1,0,1,0,0,0.9999995560193011,0.9999994899242852,0.9999995229717926
+Dress warmly in cold weather.,Dress warmly in cold weather.,7e23641c8e,0,1,0,1,0,0,0.9999999941835718,0.9999999673919142,0.9999999807877429
+Driftwood often decorates coastlines.,Driftwood often decorates coastlines.,605da92c80,0,1,0,0,0,0,0.9999996323240008,0.9999984288566485,0.9999990305901436
+Drink water for clear skin.,Drink water for clear skin.,d8a7a2b731,0,1,0,0,0,0,0.9995841824291849,0.9982785153692105,0.9989311355753973
+Drinking tea can be calming.,Drinking tea can be calming.,20c1865629,0,1,0,1,0,0,0.9999999157378447,0.9999994220085053,0.9999996688731446
+Drones are used for aerial photography.,Drones are used for aerial photography.,d4dca2a3f7,0,1,0,0,0,0,0.9999998429143534,0.999999886186597,0.999999864550475
+Drones offer efficient delivery solutions.,Drones offer efficient delivery solutions.,033a65a654,0,1,0,0,0,0,0.9998869618439806,0.9998184168471459,0.9998526887581747
+E=mc^2 is Einstein's theory of relativity.,E=mc^2 is Einstein's theory of relativity.,c0ee2f7160,0,1,0,0,0,0,0.912227572321272,0.9699207614866742,0.9406319479982531
+E=mc^2 represents the equivalence of energy and mass.,E=mc^2 represents the equivalence of energy and mass.,bfaec10cd5,0,1,0,0,0,0,0.9991972860653181,0.99999451618134,0.9995958216442263
+Early birds catch the worm.,Early birds catch the worm.,3d0286409a,0,1,0,1,0,1,0.9999991990619017,0.9999897549018474,0.9999944769707254
+Early mornings are productive.,Early mornings are productive.,26f6f1a379,0,1,0,1,1,0,0.9970307471815234,0.9873495455450695,0.9921783383667163
+Early risers get a head start.,Early risers get a head start.,9f84d4dbf9,0,1,0,1,1,1,0.9999994377409624,0.9999808597343158,0.999990148694496
+"Early to bed, early to rise.","Early to bed, early to rise.",19b04335fa,0,1,0,1,0,0,0.9628526508271408,0.9992820173091712,0.9808982308527364
+Earth has varied climates.,Earth has varied climates.,e423a8f082,0,1,0,0,0,0,0.9999999841274564,0.9999999630501998,0.999999973588828
+Earth’s crust is diverse.,Earth’s crust is diverse.,754248ef2a,0,1,0,0,0,0,0.9999875213566295,0.9999909587293679,0.9999892400415218
+Eat like a horse.,Eat like a horse.,c11a43c79a,0,1,0,1,1,0,0.9998658640797065,0.9999028014565546,0.9998843325975646
+Eating slowly aids digestion.,Eating slowly aids digestion.,37ddade6ca,0,1,0,0,0,0,0.9999999999887772,0.9999540854719234,0.9999770424668264
+Ecosystems rely on balanced interactions.,Ecosystems rely on balanced interactions.,c2801839aa,0,1,0,0,0,0,0.9999994743747668,0.999998776393021,0.999999125383833
+Ecuador's Galápagos Islands are unique.,Ecuador's Galápagos Islands are unique.,9a7a96d11e,0,1,0,0,0,0,0.9999980134221389,0.999992021096385,0.9999950172547735
+Educated guesses help make predictions.,Educated guesses help make predictions.,f4ef925dc0,1,0,0,1,1,1,0.9999998763317997,0.9999999845970323,0.9999999304644145
+Education broadens horizons.,Education broadens horizons.,fadd77452f,1,0,0,1,1,0,0.9999999829881089,0.9999999390800762,0.9999999610340923
+Effective planning guides success.,Effective planning guides success.,18521b4494,1,0,0,1,1,0,0.9999999021035365,0.9999992578443262,0.9999995799738794
+Efficient algorithms optimize performance.,Efficient algorithms optimize performance.,cec75ba053,0,1,0,1,0,0,0.9964142914204386,0.9999684432265036,0.9981897854618307
+Efficient workflows increase output.,Efficient workflows increase output.,368decfdb1,0,1,0,1,0,0,0.9999986973009732,0.9999997269758745,0.9999992121382913
+Egypt is known for its pyramids.,Egypt is known for its pyramids.,8c22f19cec,0,1,0,0,0,0,0.9999999957970392,0.999999963050198,0.9999999794236185
+Egypt's Nile Valley is historically rich.,Egypt's Nile Valley is historically rich.,2aa2faa08a,0,1,0,0,0,0,0.9999997978654015,0.9999994220085253,0.9999996099369457
+Electric cars reduce carbon emissions.,Electric cars reduce carbon emissions.,b025f703f6,0,1,0,0,0,0,0.9999898951899902,0.9999883907954331,0.9999891429924287
+Electricity powers modern technology.,Electricity powers modern technology.,e53dfe61d7,0,1,0,1,0,0,0.9999999956742996,0.9999999217772737,0.999999958725786
+Electricity powers our daily lives.,Electricity powers our daily lives.,0cc8ac9286,0,1,0,1,0,0,0.9999999635558496,0.9999998123537955,0.9999998879548198
+Electrons orbit the nucleus of an atom.,Electrons orbit the nucleus of an atom.,9d27660aa9,0,1,0,0,0,0,0.5340099888010039,0.0038960233799986144,0.045612667116948
+Empathy bridges differences.,Empathy bridges differences.,cc908212c7,1,1,0,1,1,1,0.9999999909118202,0.9999996906231412,0.9999998407674694
+Empathy fosters connection.,Empathy fosters connection.,cebee87ebf,1,1,0,1,1,1,0.9999999921478344,0.9999999309686859,0.9999999615582597
+Empathy strengthens bonds.,Empathy strengthens bonds.,164e0fb435,1,1,0,1,1,1,0.9999999976846192,0.9999999673919147,0.9999999825382668
+Encourage others often.,Encourage others often.,5ddd6c8e86,1,1,0,1,1,0,0.9999986320418143,0.9999992578442578,0.999998944942987
+Encouragement builds confidence.,Encouragement builds confidence.,7b0124de05,1,1,0,1,1,1,0.9999999986628854,0.9999999917553852,0.9999999952091353
+Encouragement fuels motivation.,Encouragement fuels motivation.,44a7d8164b,1,1,0,1,1,1,0.9999999157377321,0.9999997590575002,0.999999837397613
+Encouragement inspires action.,Encouragement inspires action.,a56dfe8ee6,1,0,0,1,1,1,0.99999993722287,0.9999998538607051,0.9999998955417867
+Encouragement is a powerful motivator.,Encouragement is a powerful motivator.,2749b92f1b,1,1,0,1,1,0,0.9999999727026283,0.9999999630501958,0.999999967876412
+Encyclopedias contain authoritative information.,Encyclopedias contain authoritative information.,9f680fe170,0,1,0,0,0,0,0.9999980786605788,0.9999754234692536,0.9999867510007582
+Engaging in rituals promotes continuity.,Engaging in rituals promotes continuity.,cdf971cb18,1,0,0,1,1,0,0.9978626850590875,0.9998184170018046,0.9988400723644137
+Engaging stories captivate the mind.,Engaging stories captivate the mind.,17a36ca31a,1,1,0,1,1,0,0.9999997113557324,0.9999999309686814,0.9999998211622009
+Environmental conservation is vital.,Environmental conservation is vital.,6deda9230f,0,1,0,1,1,0,0.9999999719521406,0.9999997873686046,0.9999998796603684
+Epic narrations recount legendary deeds.,Epic narrations recount legendary deeds.,0d293ac538,1,1,0,1,1,0,0.9999939626215414,0.9999883907973329,0.9999911767055565
+Epic poems narrate grand tales.,Epic poems narrate grand tales.,977e39c271,1,1,0,1,1,0,0.9999991829212149,0.9999984288566351,0.9999988058888539
+Equations balance two expressions.,Equations balance two expressions.,6554ad8d8e,0,1,0,0,0,0,0.9997000072218868,0.9998585801707223,0.9997792905524381
+Ergonomic setups reduce workplace injuries.,Ergonomic setups reduce workplace injuries.,277617398d,0,1,0,1,0,0,0.9999997709515155,0.9999993450497733,0.9999995580006217
+Ethical dilemmas challenge moral clarity.,Ethical dilemmas challenge moral clarity.,24163d233e,1,0,0,1,1,0,0.9999155357524635,0.9999986134708047,0.9999570737488586
+Ethical hacking safeguards systems.,Ethical hacking safeguards systems.,9def5f8fa6,0,1,0,1,1,0,0.9999848014874413,0.9999850935157114,0.9999849475015657
+Ethics matter in genetic engineering.,Ethics matter in genetic engineering.,780cedd868,1,1,0,1,1,0,0.9999995410354411,0.9999995498593046,0.9999995454473728
+Euclidean geometry underpins many mathematical principles.,Euclidean geometry underpins many mathematical principles.,f4599fb9e3,0,0,0,0,0,0,0.9150804366678348,0.9992820178835204,0.9562548955582748
+Evaluating actions predicts results.,Evaluating actions predicts results.,12aa5da8b3,1,0,0,1,1,1,0.9120396241373373,0.7740946204677764,0.8402410170291412
+Evaluating arguments refines ideas.,Evaluating arguments refines ideas.,3d3e00ebdc,1,0,0,1,1,0,0.9999931253928194,0.9999996494300728,0.9999963874061257
+Evaluating evidence strengthens cases.,Evaluating evidence strengthens cases.,187bfbac42,1,0,0,1,1,1,0.9999955615429792,0.9999986134707722,0.9999970875057115
+Evaluating pros and cons aids decisions.,Evaluating pros and cons aids decisions.,896884b00c,1,0,0,1,1,1,0.9999999648742458,0.9999998995600178,0.9999999322171312
+Evaluations appraise performance.,Evaluations appraise performance.,c6583bb88f,1,1,0,1,1,0,0.9999852933230987,0.9999920211095175,0.9999886572106501
+Evaluations assess impacts.,Evaluations assess impacts.,126ecfdef7,0,1,0,0,0,0,0.5316397539623753,0.9982785168626402,0.7285084385858402
+Evening walks help to unwind.,Evening walks help to unwind.,a99f489e44,0,1,0,1,1,0,0.999999915581373,0.9999989201698549,0.9999994178754901
+Every rose has its thorn.,Every rose has its thorn.,a1626d679c,0,0,0,1,1,0,0.9999562803589763,0.9994407899190765,0.9996985019127101
+Evolutionary biology explores species' adaptive changes.,Evolutionary biology explores species' adaptive changes.,e0ffd5ac36,0,1,0,0,0,0,0.9999996401505915,0.9999994220085573,0.9999995310795684
+Exercise enhances mood.,Exercise enhances mood.,dff1fca7cd,0,1,0,1,0,0,0.9999999999995142,0.9999977140023483,0.999998857000278
+Exercising daily revitalizes you.,Exercising daily revitalizes you.,569b9cf993,0,1,0,0,0,0,0.9999887208070586,0.9999331955004923,0.9999609577683779
+Exercising promotes health.,Exercising promotes health.,47d3950e90,0,1,0,0,0,0,0.9999999977021232,0.9999999802221972,0.9999999889621601
+Existence precedes essence in existentialist philosophy.,Existence precedes essence in existentialist philosophy.,06e4ea94d3,1,0,0,1,1,0,0.9990978894105006,0.999964241568476,0.9995309716247097
+Exorcisms expel evil spirits.,Exorcisms expel evil spirits.,9c130c98a8,0,1,0,1,0,0,0.9999760934886757,0.9998898603134119,0.9999329759714614
+Exploring nature sparks curiosity.,Exploring nature sparks curiosity.,e456ff2c89,0,1,0,1,1,1,0.9999998738976374,0.9999994899241791,0.9999996819108898
+Exponents describe repeated multiplication.,Exponents describe repeated multiplication.,da1aa2e8c4,0,1,0,0,0,0,0.9999988145834287,0.9999945161853613,0.9999966653820854
+Eye contact shows attentiveness.,Eye contact shows attentiveness.,725b2328e7,1,1,0,1,1,1,0.999999988330537,0.9999996494301003,0.9999998188803043
+Face challenges head-on.,Face challenges head-on.,bd7544b4f7,1,1,0,1,1,0,0.9999988392887362,0.9999984288566156,0.9999986340726549
+Fact-checking ensures accuracy.,Fact-checking ensures accuracy.,358d000232,0,1,0,1,0,0,0.9991036888209117,0.9963591194632754,0.9977304604181001
+Factorization breaks numbers into prime components.,Factorization breaks numbers into prime components.,b3561f038f,0,1,0,0,0,0,0.9995522070174292,0.9998397517619442,0.9996959690512961
+Facts are foundational in learning.,Facts are foundational in learning.,ec1200268d,1,0,0,1,0,0,0.9999997058960083,0.9999979826122846,0.9999988442537752
+Facts don't lie.,Facts don't lie.,956f074c89,1,1,0,1,1,0,0.9984436190866747,0.9912881999805834,0.9948594764822462
+Facts help understand realities.,Facts help understand realities.,26ce3d7670,1,0,0,1,1,0,0.9999998827169468,0.9999997269763576,0.9999998048466492
+Facts prove the argument.,Facts prove the argument.,d5f544a162,1,1,0,1,1,0,0.9975759126827859,0.985677268967528,0.9916087440119503
+Facts validate opinions.,Facts validate opinions.,c259d4baae,1,0,0,1,1,0,0.9858565473239069,0.7480626915633019,0.8587680142427438
+Facts will eventually surface.,Facts will eventually surface.,78c2a4ac03,1,1,0,1,1,0,0.9999186388582758,0.9998898604218325,0.9999042495365195
+Fair weather friends are unreliable.,Fair weather friends are unreliable.,0397b0a48c,0,1,0,1,1,0,0.9999998946405533,0.9999999113620357,0.9999999030012945
+Faith can move mountains.,Faith can move mountains.,11b107fde3,1,0,0,1,1,0,0.9962810605423398,0.9792285157527175,0.9877179881866173
+Faith guides our moral compass.,Faith guides our moral compass.,f7a42dcde8,1,0,0,1,1,0,0.7064113577823696,0.16938990389043318,0.3459175508728431
+Faith in times of uncertainty.,Faith in times of uncertainty.,9d32b946d5,1,0,0,1,1,0,0.9998447606156333,0.9999028014152297,0.9998737805942866
+Familiarity breeds contempt.,Familiarity breeds contempt.,335a528fcb,1,0,0,1,1,1,0.9862717400629972,0.9986590504907321,0.9924460687902165
+Farmers markets often have fresher produce.,Farmers markets often have fresher produce.,a27dec9937,0,1,0,1,0,0,0.9999999829881102,0.9999999390800749,0.9999999610340923
+"Feed a cold, starve a fever.","Feed a cold, starve a fever.",b83ae7e77f,0,1,0,1,1,1,0.5409177637411858,0.9615430903904997,0.7211905006271353
+Fertile soil is a farmer's gold.,Fertile soil is a farmer's gold.,f0db52a621,0,0,0,0,0,0,0.9999958505583385,0.9999754234729298,0.9999856369634752
+Festivals unite communities.,Festivals unite communities.,b163708eaa,1,1,0,1,1,0,0.9999999419799768,0.9999992578443075,0.9999995999120836
+Fields of lavender smell calming.,Fields of lavender smell calming.,e2d04b5e41,0,1,0,0,0,0,0.9999994334512359,0.9999920210961665,0.9999957272668333
+Figurative art represents human forms.,Figurative art represents human forms.,cf5d4c81b1,0,1,0,1,0,0,0.9747263712770878,0.16938988858080328,0.40633581115549805
+"Finders keepers, losers weepers.","Finders keepers, losers weepers.",7617c41132,1,0,0,1,1,1,0.9977578842022843,0.9990781859985595,0.9984178168555381
+Fire is hot and burns.,Fire is hot and burns.,ad2af4189d,0,1,0,0,0,0,0.9999999946132925,0.9999999845970305,0.9999999896051616
+Firm handshakes show confidence.,Firm handshakes show confidence.,8a8b67b2cb,1,1,0,1,1,1,0.9999998389065299,0.9999986134707385,0.9999992261884465
+First impressions are lasting.,First impressions are lasting.,77409080a3,1,0,0,1,1,0,0.9999985590380823,0.9999937860212282,0.9999961725268075
+First things first.,First things first.,7528aca18b,1,1,0,1,1,0,0.9999999999993471,0.9999974096232671,0.9999987048104684
+Fish oils benefit brain health.,Fish oils benefit brain health.,41e7bef903,0,1,0,0,0,0,0.9999621889238125,0.9996156279061783,0.9997888933987581
+Fish swim in water.,Fish swim in water.,d2f96a7bbf,0,1,0,0,0,0,0.9999999946132924,0.9999999630502016,0.9999999788317468
+Fitness boosts mental health.,Fitness boosts mental health.,c4d05b86b9,0,1,0,1,0,0,0.999999978032276,0.9999996906231372,0.9999998343276962
+Fitness trackers monitor physical activity.,Fitness trackers monitor physical activity.,b12d58bb3e,0,1,0,0,0,0,0.9999998859215501,0.9999994899246227,0.9999996879230668
+Flexibility prevents injuries.,Flexibility prevents injuries.,f8976a70ab,0,1,0,0,0,0,0.9999735831959782,0.9998751963225194,0.9999243885491602
+Flowers are a thoughtful gift.,Flowers are a thoughtful gift.,18f08c3c77,1,1,0,1,1,0,0.9999998727599346,0.9999994220085049,0.9999996473841943
+Flowers beautify spaces.,Flowers beautify spaces.,ea9017f084,0,1,0,0,1,0,0.9999999288641984,0.9999995498593175,0.99999973936174
+Flowers bloom in spring.,Flowers bloom in spring.,1f4ec342e7,0,1,0,0,0,0,0.9999973079357689,0.9999883908039308,0.9999928493599104
+Flowers brighten a room.,Flowers brighten a room.,e314cf0020,0,1,0,1,0,0,0.9999996206544125,0.9999984288566209,0.9999990247553392
+Flu vaccines prevent the flu.,Flu vaccines prevent the flu.,018b802687,0,1,0,0,0,0,0.5985780572434822,0.03434868972166949,0.14338888367811534
+Folktales reflect indigenous knowledge.,Folktales reflect indigenous knowledge.,3315fac7d2,1,1,0,1,1,0,0.9999938710882738,0.9999929586408378,0.9999934148644517
+Follow the recipe for accurate cooking results.,Follow the recipe for accurate cooking results.,beeea9dd4e,0,1,0,0,0,0,0.9999999637813616,0.9999993450497373,0.9999996544155016
+Food for thought.,Food for thought.,b3e0c7d264,1,1,0,1,1,0,0.8048836826662155,0.05998414823888454,0.21972769997455846
+Forests have dense trees.,Forests have dense trees.,8c99c1461c,0,1,0,0,0,0,0.9999995560191017,0.9999977140018473,0.9999986350100504
+Fortune favors the bold.,Fortune favors the bold.,6dfb7a73b0,1,0,0,1,1,1,0.9998048495901861,0.999078185967163,0.9994414517367866
+France's Riviera is glamorous.,France's Riviera is glamorous.,e957631b34,0,1,0,1,1,0,0.9999998015548401,0.9999987763922905,0.9999992889734339
+Freedom correlates with responsibility.,Freedom correlates with responsibility.,e8faadb39c,1,0,0,1,1,0,0.9999986847435074,0.999992958646992,0.9999958216911511
+Fresh air boosts mood.,Fresh air boosts mood.,57c73d6cf1,0,1,0,1,0,0,0.9999996387435479,0.9999977140026396,0.9999986763726306
+Fresh fruits boost immunity.,Fresh fruits boost immunity.,aa5fc65255,0,1,0,0,0,0,0.9999770707534885,0.9999028015503346,0.9999399354623808
+Fresh ideas drive innovation.,Fresh ideas drive innovation.,3622b2d39b,1,0,0,1,1,0,0.9999998317188675,0.9999992578442893,0.9999995447815373
+Fresh linens feel wonderful.,Fresh linens feel wonderful.,96e3f7597a,0,1,0,1,0,0,0.999998367176215,0.9999929586409844,0.9999956629049431
+Fresh produce tastes best.,Fresh produce tastes best.,ef64114253,0,1,0,0,0,0,0.9999898921823566,0.9999540854305082,0.9999719886461624
+Fresh recipes bring culinary joy.,Fresh recipes bring culinary joy.,b74d2b790c,0,1,0,1,1,0,0.9999932940402552,0.9999142220847086,0.999953757280899
+Fresh sheets promise restful sleep.,Fresh sheets promise restful sleep.,3ffb0e5456,0,1,0,1,1,0,0.9990959114821759,0.9963591169857186,0.9977265758455182
+Freshly baked pies are delicious.,Freshly baked pies are delicious.,b6ee86d152,0,1,0,1,0,0,0.9999988990009836,0.9999989201698767,0.9999989095854301
+Freshly brewed coffee sparks joy.,Freshly brewed coffee sparks joy.,f0b18a0931,0,1,0,1,1,0,0.9991628366482104,0.9980495240326506,0.9986060251910457
+Freshly laundered clothes feel soft.,Freshly laundered clothes feel soft.,4e0ec80946,0,1,0,1,0,0,0.9999988006197891,0.9999831087469211,0.9999909546525755
+Freshly mowed lawn smells wonderful.,Freshly mowed lawn smells wonderful.,1fe176479d,0,1,0,0,0,0,0.9877081793027377,0.9508916125114942,0.9691250813532649
+Function charts map inputs to outputs.,Function charts map inputs to outputs.,8027ab2155,0,1,0,0,0,0,0.8817081927802357,0.9963591157851478,0.9372822388902056
+GPS technology allows precise navigation.,GPS technology allows precise navigation.,3e657a85c9,0,1,0,0,0,0,0.999999934376464,0.9999998123534327,0.9999998733649464
+Galileo improved the telescope.,Galileo improved the telescope.,5f120bc9ed,0,1,0,0,0,0,0.9999988580323022,0.9999883907971655,0.9999936244010383
+Galileo's telescope brought cosmic revelations.,Galileo's telescope brought cosmic revelations.,64efb1e1e1,0,1,0,0,1,0,0.999978261051641,0.9999897549106496,0.9999840079646315
+Gamification enhances learning experiences.,Gamification enhances learning experiences.,2c7136a596,0,1,0,1,1,0,0.9990968397189766,0.9999684432292965,0.9995325464681453
+Gandhi led India to independence.,Gandhi led India to independence.,3e8f442f21,1,1,0,1,1,0,0.999999816066153,0.9999966738909682,0.9999982449773264
+Gardening is a rewarding hobby.,Gardening is a rewarding hobby.,0ca2c439bf,0,1,0,1,1,0,0.999980549813164,0.9999920210961891,0.9999862854382275
+Gardens can be therapeutic.,Gardens can be therapeutic.,be03393857,0,1,0,1,1,0,0.999999904722919,0.9999994899242572,0.9999996973235666
+Gathering spaces fortify community.,Gathering spaces fortify community.,e2fdc2b517,1,1,0,1,1,0,0.9999998015548345,0.9999987763921382,0.999999288973355
+Gelato is a traditional Italian frozen dessert.,Gelato is a traditional Italian frozen dessert.,9496b288b4,0,1,0,0,0,0,0.9999999288641914,0.9999995498592966,0.999999739361726
+General relativity explains gravitation.,General relativity explains gravitation.,9c67f165eb,0,1,0,0,0,0,0.8355003305701199,0.9999331954978731,0.9140265397604761
+Genetic edits can prevent hereditary diseases.,Genetic edits can prevent hereditary diseases.,dde55dc0f8,0,1,0,0,0,0,0.9985089512518041,0.9999594804776611,0.9992339526587596
+Genetic research advances medical treatments.,Genetic research advances medical treatments.,f4228e9c4b,0,1,0,1,0,0,0.9999989756750158,0.9999992578442503,0.999999116759623
+Genetics explores inheritance and variation.,Genetics explores inheritance and variation.,f4253c7623,0,1,0,0,0,0,0.9999993773823873,0.9999982196629725,0.9999987985225124
+Genome editing offers medical breakthroughs.,Genome editing offers medical breakthroughs.,ab50be1759,0,1,0,1,0,0,0.9999987390910278,0.9999970647187727,0.9999979019045498
+Gentle waves kissed the shore.,Gentle waves kissed the shore.,67ba2e9b18,0,1,0,0,1,0,0.9921318492580719,0.9659830348187528,0.9789701398340267
+Geometry studies shapes and their properties.,Geometry studies shapes and their properties.,b9d1e654fe,0,1,0,0,0,0,0.9999999867766317,0.9999999390800762,0.9999999629283537
+Glaciers are melting.,Glaciers are melting.,24a34ed60d,0,1,0,0,0,0,0.9999998877438313,0.9999998710325327,0.9999998793881819
+Glass is brittle and can shatter.,Glass is brittle and can shatter.,a5940c307e,0,1,0,0,0,0,0.9999999971113499,0.9999999630501976,0.9999999800807736
+Gnosticism emphasizes mystical knowledge.,Gnosticism emphasizes mystical knowledge.,7dadd6443e,1,1,0,1,1,0,0.8354888452520168,0.9999783112521172,0.9140408768458298
+Good deeds spread goodwill.,Good deeds spread goodwill.,f8358908a4,1,0,0,1,1,1,0.9999998920367399,0.9999994899243003,0.9999996909804999
+Good manners open doors.,Good manners open doors.,9431c28920,1,0,0,1,1,1,0.9999999422114533,0.9999996906231119,0.9999998164172746
+Good posture supports spinal health.,Good posture supports spinal health.,acb6b0cfa9,0,1,0,0,0,0,0.9999999758136255,0.9999997873685886,0.9999998815911026
+Good reasoning avoids bias.,Good reasoning avoids bias.,6147ce9fe5,1,1,0,1,1,0,0.9999394893152092,0.9996607852190428,0.9998001275556884
+Google is a popular search engine.,Google is a popular search engine.,f6d95b3755,0,1,0,1,0,0,0.9999999907625498,0.9999999630501989,0.9999999769063742
+Gothic architecture is characterized by pointed arches.,Gothic architecture is characterized by pointed arches.,57e1b75764,0,1,0,0,0,0,0.9996669106919687,0.9999909587295425,0.9998289215826184
+Gothic cathedrals were architecturally innovative.,Gothic cathedrals were architecturally innovative.,c44236fc04,0,1,0,1,0,0,0.9999716060147131,0.9998585800617776,0.9999150914412516
+Grammar rules structure languages.,Grammar rules structure languages.,67fd819b20,0,1,0,1,0,0,0.9999839772835835,0.9999783112907086,0.999981144283133
+Grand Canyon receives millions of visitors.,Grand Canyon receives millions of visitors.,fe4cfac7f1,0,1,0,0,0,0,0.9999959046918544,0.9999831087629828,0.9999895067069514
+Graph theory studies networks and connections.,Graph theory studies networks and connections.,ca46854515,0,1,0,0,0,0,0.9999797596939282,0.9998751963359913,0.9999274766481736
+Graphic novels tell extended stories.,Graphic novels tell extended stories.,5ff2d30825,0,1,0,1,0,0,0.9999947773592662,0.9999331954924678,0.9999639859518091
+Graphs visually represent data.,Graphs visually represent data.,0f6c7d1cff,0,1,0,0,0,0,0.9999999374674934,0.9999996494300359,0.9999997934487542
+Grasping at straws means making a desperate attempt.,Grasping at straws means making a desperate attempt.,31376a2dc8,1,0,0,1,1,1,0.9999995410354174,0.999999549859313,0.9999995454473652
+Grass feels soft underfoot.,Grass feels soft underfoot.,e67c0d7e89,0,1,0,0,0,0,0.9999991705349963,0.9999990470523078,0.9999991087936502
+Grass grows in fields.,Grass grows in fields.,62645c94de,0,1,0,0,0,0,0.9999996899023419,0.9999998538609804,0.9999997718816578
+Grass is green due to chlorophyll.,Grass is green due to chlorophyll.,ab43e811d5,0,1,0,0,0,0,0.9999827778925486,0.9999831087473945,0.9999829433199579
+Gratitude boosts well-being.,Gratitude boosts well-being.,0c99ff0efb,1,1,0,1,1,1,0.9999999830208565,0.9999999217772719,0.9999999523990637
+Gratitude fosters joy.,Gratitude fosters joy.,01b9fbfeb5,1,0,0,1,1,1,0.99999999999996,0.9999989201699833,0.9999994600848259
+Gravity keeps us grounded.,Gravity keeps us grounded.,080559349b,0,0,0,0,0,0,0.99999990451848,0.999999726975862,0.9999998157471671
+Gravity pulls objects toward Earth.,Gravity pulls objects toward Earth.,fe9f63e0d5,0,1,0,0,0,0,0.9999995721729025,0.9999982196610887,0.9999988959167669
+Great minds think alike.,Great minds think alike.,90bb745ab7,1,0,0,1,1,0,0.8176329598795933,0.4034146806654849,0.5743214599955336
+Greece’s Acropolis is historically significant.,Greece’s Acropolis is historically significant.,9c31d89560,0,1,0,0,0,0,0.9999999758584469,0.9999998344024748,0.9999999051304583
+Green technology combats climate change.,Green technology combats climate change.,ed9de0c7a5,0,1,0,0,0,0,0.9999976534966282,0.9999962310289291,0.9999969422625257
+Greeting warmly fosters connections.,Greeting warmly fosters connections.,63b338d743,1,1,0,1,1,1,0.9999999903728165,0.9999999390800789,0.9999999647264474
+Greetings establish rapport in conversations.,Greetings establish rapport in conversations.,7037f7ae85,1,1,0,1,1,1,0.9999980375156244,0.9999998710325287,0.9999989542736564
+Greta Thunberg is a prominent climate activist.,Greta Thunberg is a prominent climate activist.,62b2ba77ec,0,1,0,1,1,0,0.9999999807601094,0.9999998344024805,0.9999999075812923
+Guardian angels are believed to provide protection.,Guardian angels are believed to provide protection.,0ceb66f976,0,0,0,1,0,0,0.9999899584187314,0.9998184169852851,0.9999041840233478
+Handheld devices facilitate communication.,Handheld devices facilitate communication.,a2b05ea2e7,0,1,0,1,0,0,0.9999999837106129,0.9999998995600253,0.9999999416353182
+Handshakes are common social gestures.,Handshakes are common social gestures.,51e8ce6fbc,1,1,0,1,0,0,0.9999996674500541,0.9999995498601595,0.9999996086551051
+Handwriting improves memory.,Handwriting improves memory.,1dd22eff6e,0,1,0,1,0,0,0.9955488681429712,0.9993663557636663,0.9974557856570304
+Handwritten letters feel personal.,Handwritten letters feel personal.,9b62166734,0,1,0,1,1,0,0.9999997002792418,0.9999986134708704,0.9999991568749085
+Handwritten notes show thoughtfulness.,Handwritten notes show thoughtfulness.,7d06500b82,1,1,0,1,1,0,0.9999983980596006,0.9999984288566973,0.9999984134581488
+Happiness depends on ourselves.,Happiness depends on ourselves.,3263e89251,1,1,0,1,1,0,0.9938851310862374,0.985677260675906,0.9897726877599706
+Happy hearts attract happiness.,Happy hearts attract happiness.,a477c95f65,1,1,0,1,1,0,0.998333830187655,0.9699207132207072,0.9840247256080361
+Haste makes waste.,Haste makes waste.,e4698b7534,0,1,0,0,0,0,0.9999999682791669,0.9999990470532062,0.9999995076660805
+Hawaii consists of volcanic islands.,Hawaii consists of volcanic islands.,bf3f6bef94,0,1,0,0,0,0,0.9999999786556053,0.9999998123534394,0.9999998955045188
+He who hesitates is lost.,He who hesitates is lost.,83f2ec9cc1,1,0,0,1,1,1,0.8616056272193405,0.25992665721743236,0.4732380696043508
+He's as cold as ice.,He's as cold as ice.,8bf4f53b09,0,1,0,1,1,0,0.7469650215523447,0.21355234121855715,0.39939470347123185
+Health is wealth.,Health is wealth.,ebd4a0a70b,1,1,0,1,1,0,0.9999995000207733,0.9999909587386068,0.9999952293705708
+Healthy diets sustain energy.,Healthy diets sustain energy.,d9225c9170,0,1,0,0,0,0,0.9999999498251225,0.9999994899242612,0.9999997198746655
+Healthy minds reside in fit bodies.,Healthy minds reside in fit bodies.,e777b3631c,0,1,0,1,1,0,0.9645997901149684,0.8562654339145105,0.9088198159352816
+Heating food kills harmful bacteria.,Heating food kills harmful bacteria.,ea7a24ffeb,0,1,0,0,0,0,0.9999999015474954,0.9999982196610252,0.9999990606039068
+Helping others brings joy.,Helping others brings joy.,3ea05db079,1,1,0,1,1,0,0.9999999473022219,0.9999992578443195,0.9999996025732113
+High-definition displays enhance viewing experiences.,High-definition displays enhance viewing experiences.,c4a07e6352,0,1,0,1,0,0,0.9999999239062748,0.9999977140001092,0.9999988189525816
+Hiking reconnects us with nature.,Hiking reconnects us with nature.,875110aadb,0,1,0,1,1,0,0.9999999690016329,0.9999997873685766,0.9999998781851006
+Hiking up hills builds endurance.,Hiking up hills builds endurance.,e4aa18630c,0,1,0,0,0,0,0.9999998975910415,0.9999998995600329,0.9999998985755372
+Hindsight is 20/20.,Hindsight is 20/20.,1cba100048,1,0,0,1,1,0,0.9999998389065676,0.9999986134708917,0.999999226188542
+Hinduism embraces a pantheon of gods.,Hinduism embraces a pantheon of gods.,2da5a11574,1,1,0,1,1,0,0.9999963486739687,0.9999977140001922,0.9999970313368474
+His energy was contagious.,His energy was contagious.,64bb968913,1,1,0,1,1,0,0.999969865813811,0.9998751963415767,0.9999225299573185
+His heart raced faster than a speeding train.,His heart raced faster than a speeding train.,e2e5d5b2d3,0,1,0,1,1,0,0.7570160067091571,0.8988656662889397,0.8248973858984031
+Historical records maintain collective memory.,Historical records maintain collective memory.,67c7ba28f3,1,0,0,1,1,0,0.9999904387541535,0.9999410449524453,0.9999657415483205
+History repeats itself.,History repeats itself.,a00d339321,1,1,0,1,1,0,0.9999488278176968,0.9997942420256202,0.9998715319341788
+Hobbies enrich life.,Hobbies enrich life.,80b6dfec6f,1,1,0,1,1,0,0.9999999830208588,0.9999999217772679,0.9999999523990629
+Holding hands shows affection.,Holding hands shows affection.,2935b9af57,1,1,0,1,1,0,0.9999999911023325,0.9999999217772773,0.9999999564398042
+Homemade meals boost nutritional intake.,Homemade meals boost nutritional intake.,cd916c1d83,0,1,0,0,0,0,0.9999992151370131,0.9999920211044562,0.9999956181142653
+Honest feedback fosters improvement.,Honest feedback fosters improvement.,4e2c802f5e,1,1,0,1,1,1,0.9999999716171977,0.9999999673919147,0.9999999695045562
+Honesty breeds trust.,Honesty breeds trust.,fe8892fbb7,1,1,0,1,1,1,0.9999999973961912,0.9999999217772755,0.9999999595867326
+Honesty is the best policy.,Honesty is the best policy.,9420c84b80,1,0,0,1,1,0,0.999999765610383,0.9999979826121616,0.9999988741108748
+Hope springs eternal.,Hope springs eternal.,b6d2547122,1,0,0,1,1,0,0.9779336690991155,0.9963591158790801,0.987103401843991
+Hosting dinner parties fosters relationships.,Hosting dinner parties fosters relationships.,5519f0383a,1,1,0,1,1,1,0.999999988575168,0.9999998995600342,0.9999999440676001
+Household chores teach responsibility.,Household chores teach responsibility.,bfe36c1ce2,1,1,0,1,1,0,0.9999999753262917,0.9999999525555171,0.9999999639409044
+Hugs provide comfort.,Hugs provide comfort.,b51d205430,1,1,0,1,1,0,0.999999895617035,0.9999995498601035,0.9999997227385543
+Human activities impact climate change.,Human activities impact climate change.,5e879bab49,0,1,0,0,0,0,0.9999996967445034,0.999999989413705,0.9999998430790935
+Humans breathe oxygen.,Humans breathe oxygen.,47e919fe89,0,1,0,0,0,0,0.9999999991546672,0.9999999712234653,0.9999999851890662
+Humility cultivates respect.,Humility cultivates respect.,8777ada344,1,0,0,1,1,1,0.999997676958077,0.9999897549115981,0.9999937159269926
+Humility precedes honor.,Humility precedes honor.,7a42aeb6bc,1,0,0,1,1,1,0.9860024230419222,0.9997358089787892,0.9928453706669848
+Hungary is famous for its thermal baths.,Hungary is famous for its thermal baths.,6cb896ca64,0,1,0,0,0,0,0.9671751855320798,0.9989555123274014,0.9829369170875354
+Hydrating fruits aid hydration.,Hydrating fruits aid hydration.,92327a7c63,0,1,0,0,0,0,0.9999913894942175,0.9998898604859813,0.9999406237015055
+Hydration prevents dry skin.,Hydration prevents dry skin.,93940b4eac,0,1,0,0,0,0,0.9957589749188398,0.8562653219051242,0.923381762435666
+Hydration supports bodily functions.,Hydration supports bodily functions.,e1096c5d39,0,1,0,0,0,0,0.9999999915040393,0.9999999802221967,0.999999985863118
+Hydrochloric acid helps digestion in the stomach.,Hydrochloric acid helps digestion in the stomach.,ba5218722d,0,1,0,0,0,0,0.9997976409797232,0.9999957291963968,0.9998966801826855
+Hydrogen bonds are weak attractions between molecules.,Hydrogen bonds are weak attractions between molecules.,43e7d8ceed,0,1,0,0,0,0,0.7059086332313791,0.9995064833125761,0.8399763422508296
+Hydrogen is the lightest element.,Hydrogen is the lightest element.,16870dc2de,0,1,0,0,0,0,0.9996248010446865,0.9999808597349917,0.9998028145394899
+Hypotheses must be testable.,Hypotheses must be testable.,14d3c81613,1,0,0,1,1,0,0.9999376745482634,0.9999850935165654,0.9999613837513337
+"I think, therefore I am.","I think, therefore I am.",e36c53d07f,1,0,0,1,1,0,0.9895658320177464,0.9977901095475915,0.9936694621117933
+Ice is solid water.,Ice is solid water.,336e0894f6,0,1,0,0,0,0,0.9999999929221004,0.9999997590569881,0.9999998759895374
+Ice melts in warm temperatures.,Ice melts in warm temperatures.,15f3350987,0,1,0,0,0,0,0.9999999994145798,0.9999999894137042,0.999999994414142
+Iceland boasts stunning landscapes.,Iceland boasts stunning landscapes.,7876eb273e,0,1,0,0,0,0,0.999997185333104,0.9999883907961641,0.999992788054966
+Iceland is known for geysers.,Iceland is known for geysers.,3e88dc3af8,0,1,0,0,0,0,0.9999999155813566,0.9999989201699082,0.9999994178755085
+Icons and statues are used in worship.,Icons and statues are used in worship.,9daa79dd50,1,1,0,1,0,0,0.9985736659924537,0.9997006377823636,0.9991369929921167
+"If A=B and B=C, then A=C.","If A=B and B=C, then A=C.",00bd676f08,0,1,0,1,0,1,0.9999989475156726,0.9999962310285077,0.9999975892711678
+"If X is greater than Y, and Y is greater than Z, then X is greater than Z.","If X is greater than Y, and Y is greater than Z, then X is greater than Z.",afcdc3f041,0,1,0,0,0,1,0.999995409311683,0.9999966738912245,0.9999960416012538
+If p then q; p is therefore q.,If p then q; p is therefore q.,6f89ca4487,1,1,0,1,0,1,0.9972138136709164,0.9999410449441379,0.9985764982588089
+Ignorance is bliss.,Ignorance is bliss.,2ad5f6923a,1,0,0,1,1,1,0.9421280239107824,0.7195850807428381,0.8233718905548882
+Imams lead prayers in Islam.,Imams lead prayers in Islam.,90a6a82fb4,1,1,0,1,0,0,0.9999997543336779,0.9999997590570494,0.9999997566953637
+Immediate feedback offers guidance.,Immediate feedback offers guidance.,1619077ec7,1,1,0,1,1,1,0.9999997053509991,0.9999962310290246,0.999997968188503
+Impressionism captures light and movement.,Impressionism captures light and movement.,cd75d44a36,0,1,0,1,1,0,0.9999729434592174,0.9999479722065749,0.9999604577549477
+"In right-angled triangles, a^2 + b^2 = c^2.","In right-angled triangles, a^2 + b^2 = c^2.",16f298d1a6,0,1,0,0,0,0,0.9986754831003406,0.9999979826123347,0.9993365140855903
+Inclusive designs accommodate diverse needs.,Inclusive designs accommodate diverse needs.,67ef93ac23,1,1,0,1,0,0,0.9999996729235956,0.9999999217772684,0.9999997973504242
+India's Himalayas are a trekker's dream.,India's Himalayas are a trekker's dream.,72a9da31e7,0,1,0,0,1,0,0.9999952267864484,0.9999945161820413,0.9999948714841816
+Indonesia comprises thousands of islands.,Indonesia comprises thousands of islands.,64d5e39361,0,1,0,0,0,0,0.9998209764240132,0.9999979826121607,0.9999094756013336
+Indoor plants purify air.,Indoor plants purify air.,f4b39ee07c,0,1,0,0,0,0,0.9918530910629878,0.9659844302202831,0.9788333070715907
+Inductive reasoning derives general principles.,Inductive reasoning derives general principles.,bf515f7d31,1,1,0,1,0,0,0.5928062404541028,0.9994407903479231,0.7697238059736944
+Inequalities compare the relative size of values.,Inequalities compare the relative size of values.,e9176ee7ad,0,1,0,0,0,0,0.999938733003619,0.9999808597345481,0.999959796147242
+Inferences draw conclusions from observations.,Inferences draw conclusions from observations.,9a9b35563b,0,1,0,0,0,0,0.9999947980984496,0.9999929586467842,0.999993878372194
+Innovation stems from questioning the status quo.,Innovation stems from questioning the status quo.,7dbc949f19,1,0,0,1,1,0,0.9999985458175175,0.999999602752223,0.9999990742847306
+Innovative technologies revolutionize industries.,Innovative technologies revolutionize industries.,4aa9efa302,1,0,0,1,1,0,0.9999985096207634,0.9999979826121651,0.9999982461164295
+Input equals output in systems thinking.,Input equals output in systems thinking.,14d87d8c2e,1,0,0,1,1,0,0.9887066229564678,0.9293491380948832,0.9585685410409086
+Integrals calculate areas under curves.,Integrals calculate areas under curves.,5dcb9fcbc6,0,1,0,0,0,0,0.9997207448485217,0.9999331954391274,0.9998269645009414
+Integrity reflects true character.,Integrity reflects true character.,4336267851,1,1,0,1,1,0,0.999999765158336,0.999998219661424,0.9999989924095815
+Intellectual property rights incentivize innovation.,Intellectual property rights incentivize innovation.,eae02e9206,1,0,0,1,1,0,0.9998241089126407,0.9998898605786141,0.9998569842051399
+Intrusion detection systems protect networks.,Intrusion detection systems protect networks.,de4fd88b53,0,1,0,0,0,0,0.9999568624780798,0.9998184168647885,0.9998876372752664
+Investigative journalism uncovers truths.,Investigative journalism uncovers truths.,f0752b54e2,1,0,0,1,1,0,0.9999997410095444,0.9999998123534225,0.9999997766814828
+Iron clothes for a polished appearance.,Iron clothes for a polished appearance.,f8bf3c6d26,0,1,0,1,0,0,0.9999912705561289,0.9999991590273863,0.9999952147839791
+It takes two to tango.,It takes two to tango.,27a03872d8,1,0,0,1,1,0,0.9999988872534754,0.9999929586478753,0.9999959229462818
+Italy's Tuscany region is charming.,Italy's Tuscany region is charming.,c5fe4b79a9,0,1,0,1,1,0,0.9999995587692971,0.9999920211043949,0.9999957899297439
+Jain monks often practice strict asceticism.,Jain monks often practice strict asceticism.,7f682302d3,1,1,0,1,1,0,0.5622724140971617,0.9996156275796282,0.7497041363687724
+Jainism advocates for non-violence and truth.,Jainism advocates for non-violence and truth.,e5ffbb2489,1,0,0,1,1,0,0.9997969612691453,0.99999842885664,0.999897689988725
+Japan is located in East Asia.,Japan is located in East Asia.,cca873e2f5,0,1,0,0,0,0,0.9999999829881125,0.9999998710325296,0.9999999270103196
+Japan's cherry blossoms are spectacular.,Japan's cherry blossoms are spectacular.,3361df479e,0,1,0,0,1,0,0.9999961571501651,0.9999808597174757,0.9999885084045687
+Jazz originated in the African American communities.,Jazz originated in the African American communities.,896e18175a,1,0,0,1,0,0,0.9999999329299191,0.999999871032531,0.9999999019812246
+Jordan's Petra is an archeological marvel.,Jordan's Petra is an archeological marvel.,53b7ab986f,0,1,0,0,1,0,0.999996014181812,0.999975423470502,0.999985718773159
+Journaling clears the mind.,Journaling clears the mind.,63da3860d6,0,1,0,1,1,0,0.9998626252122077,0.9997358090865417,0.9997992151386798
+Journaling fosters self-reflection.,Journaling fosters self-reflection.,91e825234e,1,0,0,1,1,0,0.9999995425644786,0.9999998123534283,0.9999996774589444
+Judaism observes the Sabbath weekly.,Judaism observes the Sabbath weekly.,92e164d588,1,1,0,1,0,0,0.9999963610071291,0.9999996494300866,0.9999980052172561
+Justice is blind.,Justice is blind.,9e7d2320d0,1,0,0,1,1,0,0.6623417015529653,0.956535118476707,0.7959604876920898
+Keep a regular sleep schedule.,Keep a regular sleep schedule.,4002800f46,0,1,0,1,0,0,0.9999999689440925,0.9999996027522638,0.9999997858481614
+Keep calm and carry on.,Keep calm and carry on.,af3638ecd2,1,1,0,1,1,0,0.9999968958393687,0.9999808597151891,0.9999888777451339
+Keep your chin up.,Keep your chin up.,9a1eef6d60,0,1,0,1,1,0,0.9999426510591508,0.9999962310251108,0.9999694406832683
+Keeping your pantry stocked saves time.,Keeping your pantry stocked saves time.,1bd4dfec04,0,1,0,1,0,0,0.9999993719615742,0.999999921777267,0.9999996468693828
+Kenya's savannas teem with wildlife.,Kenya's savannas teem with wildlife.,6e0caf328b,0,1,0,0,1,0,0.9999973359249759,0.999988390786578,0.9999928633457749
+"Kierkegaard's ""leap of faith"" involves belief beyond reasoned evidence.","Kierkegaard's ""leap of faith"" involves belief beyond reasoned evidence.",ea8e9b3cc3,1,0,0,1,1,0,0.9527325790020457,0.9993663557794075,0.9757709185611092
+Kind deeds encourage reciprocity.,Kind deeds encourage reciprocity.,6a5f3f0a12,1,1,0,1,1,1,0.9999999022919778,0.9999991590273593,0.9999995306595995
+Kind gestures build strong bonds.,Kind gestures build strong bonds.,4536d3d977,1,1,0,1,1,1,0.9999999977021468,0.999999921777271,0.9999999597397082
+Kind gestures create goodwill.,Kind gestures create goodwill.,375a46ec6c,1,1,0,1,1,1,0.9999999111556245,0.9999999581303918,0.9999999346430078
+Kindness begets kindness.,Kindness begets kindness.,4b8f1f1f78,1,1,0,1,1,1,0.9999996845584651,0.9999984288581881,0.9999990567081295
+Kindness costs nothing.,Kindness costs nothing.,70f62bddb1,1,1,0,1,1,1,0.9997988335998216,0.9991864586378064,0.9994925992196316
+Kindness spreads like wildfire.,Kindness spreads like wildfire.,d4020847ea,1,0,0,1,1,1,0.9998349122930225,0.9989555123215704,0.999395115580754
+Kinetic energy is energy in motion.,Kinetic energy is energy in motion.,7400bc300e,0,1,0,0,0,0,0.9999230783040641,0.9999684432275432,0.9999457605085427
+Knitting or crocheting relaxes and creates.,Knitting or crocheting relaxes and creates.,54d5e93da8,0,1,0,1,0,0,0.9820352390706649,0.9999142220875138,0.9909344085951751
+Knowledge builds wisdom.,Knowledge builds wisdom.,1ec6bfb07d,1,0,0,1,1,0,0.9999923209964301,0.9999684432619405,0.9999803820579156
+Knowledge dispels ignorance.,Knowledge dispels ignorance.,ecf5f455af,1,0,0,1,1,1,0.9999991109149807,0.9999962310320586,0.9999976709724829
+Knowledge enriches life.,Knowledge enriches life.,988d06f4bd,1,0,0,1,1,0,0.9999998937799652,0.9999993450498155,0.9999996194148527
+Kosovo's mountains are striking.,Kosovo's mountains are striking.,b9dcb7b4d0,0,1,0,0,0,0,0.9547569329319847,0.9912878065656213,0.9728509165588873
+Laughing lightens the load.,Laughing lightens the load.,b07e56f6d2,1,1,0,1,1,1,0.9999994764223568,0.9999991590274343,0.9999993177248829
+Laughter improves social bonds.,Laughter improves social bonds.,447a89f276,1,1,0,1,1,0,0.9999999704617432,0.9999998344024961,0.9999999024321173
+Laws of thermodynamics dictate energy transformation.,Laws of thermodynamics dictate energy transformation.,fcb5f07950,0,1,0,0,0,0,0.5621833412731512,0.9999721511935463,0.7497784240281181
+Laws reflect societal values.,Laws reflect societal values.,d0d8370d3e,1,1,0,1,1,0,0.9999981653978851,0.999988390816752,0.9999932780953756
+Lead by example.,Lead by example.,90268de2ab,1,1,0,1,1,0,0.9999999781985927,0.9999993450498439,0.9999996616241682
+Leading by example fosters trust.,Leading by example fosters trust.,8e1fa9a2a4,1,0,0,1,1,1,0.9999999879761982,0.9999999943335647,0.9999999911548815
+Leaves change color in autumn.,Leaves change color in autumn.,cabb625f8a,0,1,0,0,0,0,0.9999999883305317,0.9999996494300777,0.9999998188802903
+Lebanon's cedars are ancient.,Lebanon's cedars are ancient.,670c3b69fb,0,1,0,0,0,0,0.9999299280354208,0.9999410449529031,0.9999354864787128
+Legal systems uphold social order.,Legal systems uphold social order.,fef5ec39f5,1,0,0,1,1,0,0.9999999477011131,0.9999982196613245,0.9999990836808456
+Lend a helping hand.,Lend a helping hand.,9f05df304d,1,1,0,1,1,0,0.9999993654918121,0.999999602752235,0.9999994841220164
+Lending an ear shows empathy.,Lending an ear shows empathy.,8f67715fa7,1,1,0,1,1,1,0.9999991351003698,0.9999996906237243,0.9999994128620084
+Leonardo da Vinci exemplified Renaissance humanism.,Leonardo da Vinci exemplified Renaissance humanism.,1cceb60e67,1,0,0,1,1,0,0.9999885463794663,0.9999937860211603,0.9999911661968816
+Leonardo da Vinci painted the Mona Lisa.,Leonardo da Vinci painted the Mona Lisa.,5f6997107b,0,1,0,1,1,0,0.9999998429144602,0.9999997873686006,0.99999981514153
+Leonardo da Vinci was a Renaissance man.,Leonardo da Vinci was a Renaissance man.,c455d13f53,0,1,0,1,1,0,0.9999991829221229,0.9999951605500994,0.9999971717340886
+Let bygones be bygones.,Let bygones be bygones.,db173ddf33,1,0,0,1,1,1,0.9999967217203346,0.9999999581303909,0.9999983399240534
+Let sleeping dogs lie.,Let sleeping dogs lie.,e3eaad7cbe,0,0,0,1,1,0,0.9999987927812564,0.9999993450492479,0.9999990689152141
+Libraries house vast collections of books.,Libraries house vast collections of books.,dcdaa66f5a,0,1,0,1,0,0,0.9999999531909408,0.9999997873685731,0.9999998702797536
+Libraries support lifelong learning.,Libraries support lifelong learning.,9eeb21f0c6,0,1,0,1,1,0,0.9999999830208567,0.9999998538606985,0.9999999184407755
+Lift others up.,Lift others up.,ae3c65d797,1,1,0,1,1,0,0.9999994969041028,0.9999974096259165,0.9999984532644651
+Lifting weights builds muscle.,Lifting weights builds muscle.,2407126fc2,0,1,0,0,0,0,0.9999999870807286,0.9999999462383501,0.999999966659539
+Light travels faster than sound.,Light travels faster than sound.,d5fc49d41d,0,1,0,0,0,0,0.9999975380327434,0.999999602752255,0.9999985703919663
+"Light waves can be absorbed, reflected, or transmitted.","Light waves can be absorbed, reflected, or transmitted.",2b682b055e,0,1,0,0,0,0,0.9841050865118163,0.9999540854748747,0.9919979343698735
+Lighting a candle helps remove bad odors.,Lighting a candle helps remove bad odors.,6b377bc1a2,0,1,0,1,0,0,0.9983051461883452,0.9912882160558336,0.9947904942471067
+Lightning precedes thunder.,Lightning precedes thunder.,009be1d577,0,1,0,0,0,0,0.9999995028411661,0.9999962310287519,0.9999978669336209
+"Like father, like son.","Like father, like son.",128da70321,1,0,0,1,1,0,0.9526489895238938,0.8192934207437466,0.8834585725403905
+Linear equations graph as straight lines.,Linear equations graph as straight lines.,4f1ec4330a,0,1,0,0,0,0,0.999996764385543,0.9999721511951588,0.9999844577146236
+Listen actively in conversations.,Listen actively in conversations.,d148a5fb92,1,1,0,1,1,0,0.9999999753262948,0.999999853860698,0.9999999145934946
+Literature captures human stories.,Literature captures human stories.,c5ed98dc61,1,0,0,1,1,0,0.9999999909117205,0.9999999217772746,0.9999999563444969
+Lithuania's dunes are majestic.,Lithuania's dunes are majestic.,1bb6ebceea,0,1,0,0,1,0,0.7058027550820394,0.16940437781797935,0.34578327979659246
+Locke's tabula rasa suggests we are born as blank slates.,Locke's tabula rasa suggests we are born as blank slates.,286683eea3,0,0,0,0,1,0,0.9626920509500893,0.9999243009125285,0.981131579371654
+Logical connectives link propositions.,Logical connectives link propositions.,73f24db086,0,1,0,1,0,0,0.9918139768669982,0.9888276820138736,0.9903197037999171
+Logical deductions provide answers.,Logical deductions provide answers.,d0a52e7ad6,1,1,0,1,1,0,0.9983344578448243,0.998955513073556,0.9986449371800705
+Logical fallacies weaken arguments.,Logical fallacies weaken arguments.,ebaaa8f5d0,1,0,0,1,1,0,0.9999994799243738,0.9999994899243065,0.9999994849243401
+Logical formulas generate solutions.,Logical formulas generate solutions.,add5589be2,0,1,0,1,0,0,0.9842283944332139,0.7740949523823658,0.872860946613005
+Logical implications follow rules.,Logical implications follow rules.,4eea0b91e0,1,1,0,1,1,0,0.9999274141706591,0.9999909587296903,0.9999591859454153
+Logical notation formalizes reasoning.,Logical notation formalizes reasoning.,87fe97aafa,1,1,0,1,0,0,0.9580357027541991,0.9995064828405197,0.978551427210392
+Logical operations underpin computer algorithms.,Logical operations underpin computer algorithms.,6e9fd965b3,0,1,0,1,0,0,0.9985049641281997,0.9999754234680888,0.9992399233112562
+Logical proofs validate theorems.,Logical proofs validate theorems.,5674b20282,0,1,0,1,0,0,0.999113250035872,0.9999028014559693,0.9995079477836315
+Logical reasoning clarifies facts.,Logical reasoning clarifies facts.,f16cd319e9,1,1,0,1,1,0,0.9999939626216771,0.9999883907978765,0.9999911767058961
+Logical rigor underlies scientific inquiry.,Logical rigor underlies scientific inquiry.,dc58591fa6,1,0,0,1,1,0,0.9998246950627739,0.9999831087656642,0.999903898777055
+Logical sequences simplify explanations.,Logical sequences simplify explanations.,cba35133d5,0,1,0,1,0,0,0.9999999999999785,0.9999721511969014,0.9999860755014941
+Logical statements can be true or false.,Logical statements can be true or false.,dc297e2315,1,1,0,1,0,0,0.9999990730013233,0.9999684432567376,0.9999837580117559
+Logical steps enhance procedures.,Logical steps enhance procedures.,7b3f445eeb,1,1,0,1,0,0,0.9999986819210505,0.99999623102864,0.9999974564740943
+Love and kindness transcend boundaries.,Love and kindness transcend boundaries.,53faf70d89,1,0,0,1,1,0,0.9999996081880168,0.9999995498593135,0.9999995790236648
+Love conquers all.,Love conquers all.,1f2f88eb54,1,0,0,1,1,0,0.9327886248428889,0.9986590510396515,0.9651620604365782
+Luxembourg is small but beautiful.,Luxembourg is small but beautiful.,537c7fddc4,0,1,0,1,1,0,0.9999782610560002,0.9999897549013531,0.9999840079621628
+Machine learning algorithms predict outcomes.,Machine learning algorithms predict outcomes.,4dd8226f5d,0,1,0,1,0,0,0.9994505110710334,0.9999868450543012,0.9997186420957808
+Machine vision interprets visual data.,Machine vision interprets visual data.,abc1dfd1b4,0,1,0,0,0,0,0.9980811577998786,0.999968443229896,0.9990243548493885
+Malta's waters are crystal clear.,Malta's waters are crystal clear.,7f6a4246b5,0,1,0,0,0,0,0.999010109944945,0.9912878481983056,0.9951414885410402
+Manners maketh man.,Manners maketh man.,b0e08e3fdf,1,0,0,1,1,1,0.8176199046217756,0.9998184170299307,0.9041412714676322
+Manners matter in group settings.,Manners matter in group settings.,372a7a2413,1,1,0,1,1,0,0.9999999966311183,0.9999999525556028,0.9999999745933603
+Manners matter.,Manners matter.,977788c101,1,1,0,1,1,0,0.9999998073865533,0.9999989201696062,0.9999993637779814
+Manuscripts preserve historical texts.,Manuscripts preserve historical texts.,76f0f8bcb5,0,1,0,1,0,0,0.9999988580325667,0.9999929586455119,0.9999959083346889
+Many cultures practice ancestor worship.,Many cultures practice ancestor worship.,9870ad2d01,1,1,0,1,1,0,0.9999986528660716,0.9999974096253774,0.9999980312455313
+Many cultures use chopsticks for eating.,Many cultures use chopsticks for eating.,20f9cdbd1e,0,1,0,1,0,0,0.9999996135577169,0.9999966738941408,0.9999981437248486
+Many faiths include anointing rituals.,Many faiths include anointing rituals.,a887b06a2c,0,1,0,1,0,0,0.9999990711850812,0.9999966738972961,0.9999978725404702
+Maps are essential for navigation.,Maps are essential for navigation.,e32539f53c,0,1,0,0,0,0,0.9999994400478213,0.9999974096230118,0.9999984248349012
+Marie Curie made groundbreaking work in radioactivity.,Marie Curie made groundbreaking work in radioactivity.,11bbb9003d,0,1,0,0,0,0,0.9999998467028908,0.9999998710325274,0.999999858867709
+Martin Luther King Jr.'s speech inspired many.,Martin Luther King Jr.'s speech inspired many.,805f5d3223,1,0,0,1,1,0,0.9999999769955789,0.9999999630501989,0.9999999700228889
+Mathematical constants like π are universally applicable.,Mathematical constants like π are universally applicable.,34bd473a73,0,1,0,0,0,0,0.9999924011793444,0.999933195491152,0.9999627978970678
+"Mathematical fields include algebra, geometry, and calculus.","Mathematical fields include algebra, geometry, and calculus.",489d09e23e,0,1,0,0,0,0,0.999999908659933,0.9999997873685917,0.9999998480142606
+Mathematical notation conveys complex ideas succinctly.,Mathematical notation conveys complex ideas succinctly.,6d1a037fcc,0,0,0,1,0,0,0.9999814676545355,0.9999984288567426,0.9999899482196785
+Mathematics involves numbers and symbols.,Mathematics involves numbers and symbols.,4967e74f7a,0,1,0,1,0,0,0.9999998743000161,0.9999999927241525,0.9999999335120826
+Mathematics reveals the universe's secrets.,Mathematics reveals the universe's secrets.,83ab3bf356,0,1,0,0,0,0,0.6597860473391115,0.8562656649208947,0.7516329812683537
+Mathematics reveals universal truths.,Mathematics reveals universal truths.,e3f60fc2ad,0,0,0,1,1,0,0.9994587006898799,0.9999540854728733,0.9997063623966065
+Matrices represent data arrays.,Matrices represent data arrays.,89dd71d47f,0,1,0,0,0,0,0.8355137863881938,0.85626572933477,0.845826117869945
+Measuring twice saves cutting once.,Measuring twice saves cutting once.,abead70112,0,0,0,1,0,0,0.9999975427811857,0.9999966738909256,0.9999971083359613
+Memorizing multiplication tables aids quick calculations.,Memorizing multiplication tables aids quick calculations.,292147411a,0,1,0,1,0,0,0.999999899325942,0.9999999525555175,0.9999999259407294
+Metaphors bridge abstract ideas and reality.,Metaphors bridge abstract ideas and reality.,de03fc31af,1,0,0,1,1,0,0.9859442677407031,0.9999684432317877,0.9929315960961136
+Metaphors create vivid imagery in language.,Metaphors create vivid imagery in language.,8d9fc3fc4e,0,0,0,1,1,0,0.9999993636574678,0.9999962310252516,0.9999977973401329
+Metaphors enrich our conversations.,Metaphors enrich our conversations.,acf2abdd58,1,0,0,1,1,0,0.999999361635272,0.9999951605459654,0.9999972610884126
+Meteorology studies atmospheric phenomena like weather.,Meteorology studies atmospheric phenomena like weather.,567c4d409a,0,1,0,0,0,0,0.9999998776615996,0.9999999113620326,0.9999998945118159
+Methodologies standardize procedures.,Methodologies standardize procedures.,c13c52e10c,1,1,0,1,0,0,0.9820268032094674,0.9999479721558404,0.9909468757062557
+Mexico borders the United States.,Mexico borders the United States.,b1b1c4756a,0,1,0,0,0,0,0.9999999976846191,0.9999999581303891,0.999999977907504
+Michelangelo painted the Sistine Chapel ceiling.,Michelangelo painted the Sistine Chapel ceiling.,8dac608237,0,1,0,1,0,0,0.999999698457328,0.9999989201698407,0.9999993093135087
+Michelangelo sculpted the Statue of David.,Michelangelo sculpted the Statue of David.,0054147bb4,0,1,0,1,0,0,0.9999936853499514,0.9999974096250963,0.9999955474857901
+Michelangelo's works exemplify artistic mastery.,Michelangelo's works exemplify artistic mastery.,b7b82ae8e8,1,1,0,1,1,0,0.999999135100449,0.9999962310284544,0.9999976830633975
+Microchips power modern electronic devices.,Microchips power modern electronic devices.,119c57f52a,0,1,0,0,0,0,0.999999958958919,0.9999994220085595,0.9999996904837033
+Milk builds strong bones.,Milk builds strong bones.,fff8cf01e9,0,1,0,0,0,0,0.9999664041046136,0.9998585800471681,0.9999124906225102
+Mind over matter.,Mind over matter.,b53f95b9ff,0,1,0,1,1,0,0.9092158396948797,0.9373863840733916,0.9231936678258987
+Mindful eating prevents overeating.,Mindful eating prevents overeating.,ce5d082f0a,0,1,0,1,0,0,0.9999850589220465,0.9999331954393139,0.9999591268444389
+Mindfulness eases anxiety.,Mindfulness eases anxiety.,88086d2279,1,1,0,1,0,0,0.9999998884388069,0.9999979826122521,0.9999989355250755
+Mindfulness improves focus.,Mindfulness improves focus.,d2dccfa2a0,1,1,0,1,0,0,0.9999993322096501,0.999999345049839,0.9999993386297445
+Modeling clay invites creativity.,Modeling clay invites creativity.,d0e98797f9,0,1,0,1,1,0,0.999999393805211,0.9999974096250057,0.9999984017146162
+Modernism challenges traditional norms.,Modernism challenges traditional norms.,3a9efe3eed,1,0,0,1,1,0,0.9999987524059627,0.9999937860252761,0.9999962692125363
+Modus ponens is a basic logical structure.,Modus ponens is a basic logical structure.,8483a6898b,0,1,0,0,0,0,0.9816746926672453,0.95653509766617,0.9690233733129819
+Monastic orders follow strict rules.,Monastic orders follow strict rules.,c68489be8a,1,1,0,1,0,0,0.9999998831740846,0.9999998123534274,0.9999998477637554
+"Monet's ""Water Lilies"" is an iconic impressionist artwork.","Monet's ""Water Lilies"" is an iconic impressionist artwork.",228b8ceff7,0,1,0,1,1,0,0.9999999999999057,0.9999868450551379,0.9999934225058901
+Mongolia's steppes are expansive and wild.,Mongolia's steppes are expansive and wild.,88034751cd,0,1,0,0,0,0,0.9999947773555462,0.9999540854314727,0.9999744311865251
+Monotheism worships a single god.,Monotheism worships a single god.,18fe292428,1,1,0,1,1,0,0.9999998611048756,0.9999999775888134,0.9999999193468428
+Monuments honor cultural heritage.,Monuments honor cultural heritage.,c57dbdf80b,1,1,0,1,1,0,0.9999998937799521,0.9999993450498785,0.9999996194148777
+Morning dew glistens on the grass.,Morning dew glistens on the grass.,ec564b1142,0,1,0,0,0,0,0.999999816066648,0.9999966738909403,0.99999824497756
+Morning prayers bring peace.,Morning prayers bring peace.,0e294c679b,1,1,0,1,1,0,0.8780226898523403,0.9565351084192515,0.9164385024825568
+Morocco's landscapes range from mountains to desert.,Morocco's landscapes range from mountains to desert.,50a11db513,0,1,0,0,0,0,0.9999886850446985,0.9999594804752361,0.9999740826533512
+Mosaics create images from small pieces.,Mosaics create images from small pieces.,d94f5ff0b4,0,1,0,0,0,0,0.9999995621034947,0.9999979826117987,0.9999987723573349
+Most mammals give live birth.,Most mammals give live birth.,467ecfb930,0,1,0,0,0,0,0.9999839140930635,0.9997942421604455,0.9998890736293254
+Mount Etna is one of the most active volcanoes.,Mount Etna is one of the most active volcanoes.,c355655cf0,0,1,0,0,0,0,0.999965949430057,0.9997006375003625,0.9998332846649401
+Mount Everest attracts adventurers.,Mount Everest attracts adventurers.,d49b78e3f7,0,1,0,0,1,0,0.9999997868732408,0.9999990470532164,0.9999994169631602
+Mount Everest is the tallest peak.,Mount Everest is the tallest peak.,8459e24ac2,0,1,0,0,0,0,0.9999986528662868,0.9999920211048776,0.9999953369800846
+Mount Fuji is in Japan.,Mount Fuji is in Japan.,3984300c42,0,1,0,0,0,0,0.9999995683555419,0.9999982196613152,0.9999988940082012
+Mount Kilimanjaro is in Tanzania.,Mount Kilimanjaro is in Tanzania.,892fd998ff,0,1,0,0,0,0,0.9990896836265051,0.9999970647188833,0.9995432712081167
+Mount Rushmore features the carved faces of four US presidents.,Mount Rushmore features the carved faces of four US presidents.,f7fe2edf10,0,1,0,0,0,0,0.9999996845585108,0.999998428857764,0.9999990567079403
+Mountains are formed by tectonic activity.,Mountains are formed by tectonic activity.,60b124a23f,0,1,0,0,0,0,0.9998425060961815,0.9999962310284566,0.9999193656081615
+Mountains are majestic.,Mountains are majestic.,9e6cbad18a,0,1,0,0,1,0,0.9999965858629879,0.9999808597175277,0.9999887227593435
+Multiplication is repeated addition.,Multiplication is repeated addition.,a7d46ec39b,0,1,0,0,0,0,0.9998926756250198,0.9991864586633653,0.9995395047726731
+Murals add vibrancy to communities.,Murals add vibrancy to communities.,eb59308f97,0,1,0,1,1,0,0.9999997495980673,0.9999989201698345,0.9999993348838648
+Museums educate and inspire.,Museums educate and inspire.,f568c2f9ca,1,1,0,1,1,0,0.9999998300193093,0.9999997269758527,0.9999997784975797
+Music can lift spirits.,Music can lift spirits.,66d6e6927a,1,1,0,1,1,0,0.9999999876384508,0.9999999712234653,0.999999979430958
+Music enriches our daily lives.,Music enriches our daily lives.,1117630675,1,1,0,1,1,0,0.9999999850158939,0.9999995498602217,0.9999997674380341
+Music evokes powerful memories.,Music evokes powerful memories.,89f950e0e8,1,1,0,1,1,0,0.9999996845582552,0.9999984288567582,0.9999990567073096
+Musical genres vary between cultures.,Musical genres vary between cultures.,0e574832dd,0,1,0,1,0,0,0.9999999850159553,0.9999999309686837,0.9999999579923191
+Mythology explains cultural beliefs.,Mythology explains cultural beliefs.,4a92c23664,1,1,0,1,1,0,0.9999996728201254,0.9999979826121482,0.9999988277157796
+Nanotechnology has applications in medicine.,Nanotechnology has applications in medicine.,a1a2394005,0,1,0,0,0,0,0.999942101616494,0.9999984288566431,0.999970264839962
+Natural light regulates your circadian rhythm.,Natural light regulates your circadian rhythm.,ea13c1e2ca,0,1,0,0,0,0,0.9998918370085438,0.9999970647208684,0.9999444494805203
+Natural selection drives evolution.,Natural selection drives evolution.,340884db08,0,1,0,0,0,0,0.9999951492882354,0.99999771400023,0.9999964316434105
+Nature tends to restore balance.,Nature tends to restore balance.,1dcd41ed3b,0,1,0,0,0,0,0.9999651498225232,0.9997358090661322,0.9998504728686967
+Nature walks are calming.,Nature walks are calming.,4ae1a725c1,0,1,0,1,1,0,0.9999998839554664,0.9999994220085506,0.9999996529819818
+Nelson Mandela's presidency in South Africa heralded change.,Nelson Mandela's presidency in South Africa heralded change.,73670ed420,1,0,0,1,1,0,0.9999998636107502,0.9999991590273903,0.9999995113190082
+Neurons transmit information through electrical signals.,Neurons transmit information through electrical signals.,8d8a792595,0,1,0,0,0,0,0.9996652218351861,0.9999977140004049,0.9998314540965861
+New Zealand has picturesque landscapes.,New Zealand has picturesque landscapes.,f788eb6873,0,1,0,0,0,0,0.9999967397062368,0.9999868450548106,0.9999917923682856
+Newton’s laws define motion.,Newton’s laws define motion.,00537e3d55,0,1,0,0,0,0,0.9965562023554567,0.9974962354908404,0.9970261081358984
+Niagara Falls is awe-inspiring.,Niagara Falls is awe-inspiring.,498cf4ae50,0,1,0,0,1,0,0.999999228708625,0.9999966738943056,0.9999979513006494
+Niagara Falls spans the US-Canada border.,Niagara Falls spans the US-Canada border.,893932b624,0,1,0,0,0,0,0.9999989026703862,0.9999951605466826,0.999997031606784
+Nikola Tesla contributed significantly to electricity and magnetism.,Nikola Tesla contributed significantly to electricity and magnetism.,07100cb93a,0,1,0,1,0,0,0.9999986847410938,0.9999990470531684,0.9999988658971147
+No news is good news.,No news is good news.,8dd774d879,1,0,0,1,1,0,0.991718479993798,0.9659843860987979,0.9787668604318609
+"No pain, no gain.","No pain, no gain.",038ba609c5,1,0,0,1,1,1,0.9999846992217623,0.9999142220731454,0.9999494600265438
+Nodding signifies agreement.,Nodding signifies agreement.,a2e537047d,1,1,0,1,0,1,0.9999944273298828,0.9999754234694925,0.9999849253545436
+Norms ensure societal cohesion.,Norms ensure societal cohesion.,2f4b4ff23b,1,1,0,1,1,0,0.9999971228453898,0.9999594805063439,0.9999783014987448
+Norms evolve over time.,Norms evolve over time.,8661d1cae7,0,1,0,1,0,0,0.9999999557210626,0.9999995498601582,0.9999997527905898
+North Macedonia's Ohrid Lake is pristine.,North Macedonia's Ohrid Lake is pristine.,43c3ef3653,0,1,0,0,0,0,0.7554019583285185,0.2599247966448728,0.4431113860009454
+Norway's fjords are breathtaking.,Norway's fjords are breathtaking.,139fac56bd,0,1,0,0,1,0,0.9999983111774896,0.9999909587294119,0.9999946349466934
+Norway’s Northern Lights are mesmerizing.,Norway’s Northern Lights are mesmerizing.,7b208206d9,0,1,0,0,1,0,0.999997744620782,0.9999897549012172,0.9999937497530201
+Novels can offer social commentary.,Novels can offer social commentary.,4157971cc8,1,1,0,1,1,0,0.9999999911378255,0.9999999935790873,0.9999999923584564
+Nutrients fuel bodily functions.,Nutrients fuel bodily functions.,c6c7d6775e,0,1,0,0,0,0,0.9999999919797018,0.9999997590570388,0.9999998755183634
+Objective analysis prevents biases.,Objective analysis prevents biases.,a51f2b94a8,1,0,0,1,0,0,0.5685359268745719,0.8562655245029132,0.6977232356916352
+Objective criteria ensure fairness.,Objective criteria ensure fairness.,ab5e9c34ba,1,1,0,1,1,0,0.7407137041291558,0.4954830002163344,0.6058143679571064
+Objective critique refines practices.,Objective critique refines practices.,9027cc41fe,1,0,0,1,1,1,0.9983107585446922,0.9999540854753042,0.9991320841513973
+Objective data validates theories.,Objective data validates theories.,b91649bdda,1,1,0,1,1,0,0.9995396789169558,0.9998898604132781,0.9997147543323585
+Objective results build trust.,Objective results build trust.,89f6dbeea5,1,1,0,1,1,0,0.9999357082566913,0.9997358091065635,0.9998357536858481
+Objective review determines quality.,Objective review determines quality.,b065736e89,1,1,0,1,1,0,0.9367773564798656,0.40341389899171676,0.6147430405174962
+Ocean waves sound relaxing.,Ocean waves sound relaxing.,b1cac28ad3,0,1,0,0,0,0,0.9999982680893252,0.9999850935012258,0.999991680773579
+Oceans are vast and mysterious.,Oceans are vast and mysterious.,d23b459ab6,0,1,0,0,1,0,0.9999998219989877,0.999999047053216,0.9999994345260268
+Offer compliments generously.,Offer compliments generously.,2beb890b2b,1,1,0,1,1,1,0.9995824504979179,0.9982785149892883,0.9989302699850552
+Offering a smile bridges gaps.,Offering a smile bridges gaps.,4af9916cbc,1,1,0,1,1,1,0.9999989508499607,0.9999937860207557,0.9999963684320238
+Offering comfort eases pain.,Offering comfort eases pain.,3398edd98d,1,1,0,1,1,1,0.9999996984583771,0.9999989201699055,0.9999993093140657
+Offering forgiveness heals hurts.,Offering forgiveness heals hurts.,39dee546b4,1,0,0,1,1,1,0.999978861466331,0.9998397517720606,0.999909304200038
+Offering praise boosts morale.,Offering praise boosts morale.,c49132fc41,1,1,0,1,1,1,0.9999999966566978,0.9999998861868181,0.9999999414217564
+Old habits die hard.,Old habits die hard.,ac5e18253e,1,0,0,1,1,0,0.9999996979490052,0.9999987763934269,0.99999923717111
+"Once bitten, twice shy.","Once bitten, twice shy.",f6267224da,1,1,0,1,1,1,0.9999983809632608,0.9999897549009295,0.9999940679227939
+Online learning platforms democratize education.,Online learning platforms democratize education.,7ad5564f4b,0,1,0,1,1,0,0.9988580268136914,0.9998898604092296,0.9993738104430095
+Online platforms offer vast resources.,Online platforms offer vast resources.,ab50135571,0,1,0,1,0,0,0.9999996605616821,0.9999986134706754,0.9999991370160417
+Open communication avoids misunderstandings.,Open communication avoids misunderstandings.,cd7a0d94af,1,1,0,1,1,0,0.9999999159182188,0.9999999390800753,0.999999927499147
+Open-mindedness encourages learning.,Open-mindedness encourages learning.,e1ebfc95ab,1,0,0,1,1,0,0.9999999719521296,0.9999997873685598,0.9999998796603404
+Open-source software enables collaborative innovation.,Open-source software enables collaborative innovation.,c2a97ab696,1,0,0,1,1,0,0.9999901082488931,0.9999990470531662,0.9999945776410418
+Opera combines drama and music.,Opera combines drama and music.,e321fe8bc2,1,1,0,1,1,0,0.9999995488106583,0.9999997873685771,0.9999996680896106
+Orchestras perform composed music.,Orchestras perform composed music.,d6da116e9e,0,1,0,1,0,0,0.9999999172757605,0.9999994899242657,0.9999997035999902
+Organic produce reduces pesticide exposure.,Organic produce reduces pesticide exposure.,0a5ecd4e70,0,1,0,0,0,0,0.9999991756734099,0.9999850935116449,0.9999921345677388
+Organization reduces chaos.,Organization reduces chaos.,a742aae33a,1,0,0,1,0,0,0.9999998894202815,0.9999993450498026,0.999999617235005
+Organized analyses improve results.,Organized analyses improve results.,70768377a7,0,1,0,0,0,0,0.9999999999999324,0.9999850935156648,0.9999925467300229
+Organized data improves clarity.,Organized data improves clarity.,e9f6c9a0f6,0,1,0,1,0,0,0.999999694098216,0.9999987763932382,0.9999992352456218
+Organized inquiry investigates impacts.,Organized inquiry investigates impacts.,d61c23fad6,1,1,0,1,1,0,0.948779354135435,0.9912881731678178,0.9698008830168476
+Organized reviews validate data.,Organized reviews validate data.,feaf68efdf,0,1,0,1,1,1,0.7870082068632933,0.9615430332217758,0.869909339182976
+Organizing files saves time.,Organizing files saves time.,eb07ff912d,0,1,0,1,0,0,0.9999997969509082,0.9999991590272771,0.9999994779890418
+Outdoor activities refresh the mind.,Outdoor activities refresh the mind.,36def9739f,0,1,0,1,0,0,0.9999999328463365,0.9999996906231066,0.9999998117347142
+Outdoor activities uplift spirits.,Outdoor activities uplift spirits.,da86c685fb,0,1,0,1,1,0,0.999999955720855,0.9999995498593286,0.9999997527900713
+Paganism often celebrates natural cycles.,Paganism often celebrates natural cycles.,569f411168,1,1,0,1,1,0,0.9999998773992957,0.9999991590273961,0.9999995182132815
+Painting captures light and shade.,Painting captures light and shade.,2fb3770e57,0,1,0,1,0,0,0.9999012331939879,0.9999594804568276,0.9999303564012852
+Painting captures moments in time.,Painting captures moments in time.,09ed0fcf95,0,1,0,1,1,0,0.999976191009444,0.9999850935022432,0.9999806422459366
+Paintings can convey powerful messages.,Paintings can convey powerful messages.,fe921ac346,0,1,0,1,1,0,0.9999997197492108,0.9999995498593037,0.9999996348042536
+Pantheism identifies God with the universe.,Pantheism identifies God with the universe.,0676990639,1,1,0,1,1,0,0.979695181868428,0.9998898604237287,0.9897410159512547
+Paper burns at 451 degrees Fahrenheit.,Paper burns at 451 degrees Fahrenheit.,bb578879d5,0,1,0,0,0,0,0.8900133214701343,0.9102014118460096,0.9000507662148134
+Paper is made from tree pulp.,Paper is made from tree pulp.,375fddc052,0,1,0,0,0,0,0.999999021829548,0.9999984288564526,0.9999987253429564
+Parables often teach moral lessons.,Parables often teach moral lessons.,5b89d146f7,1,0,0,1,1,0,0.9999999877689797,0.9999999880041557,0.9999999878865676
+Parallel lines never intersect.,Parallel lines never intersect.,bdd3abdaeb,0,0,0,0,0,0,0.9999965858666642,0.9999945161813734,0.9999955510234833
+Participating in marathons challenges and motivates.,Participating in marathons challenges and motivates.,68a7400287,0,1,0,1,1,0,0.9999987059809577,0.9999868450553764,0.9999927755005817
+Patagonia spans Argentina and Chile.,Patagonia spans Argentina and Chile.,d9618ac988,0,1,0,0,0,0,0.9999972044860562,0.9999754234722183,0.999986313919835
+Patience enhances interactions.,Patience enhances interactions.,485f36d346,1,1,0,1,1,1,0.9999998376796327,0.9999970647217068,0.9999984511997086
+Patience is a virtue.,Patience is a virtue.,af13ef2682,1,0,0,1,1,0,0.9999999682791408,0.9999989201698456,0.9999994442243559
+Patience pays off.,Patience pays off.,73b4a0a933,1,1,0,1,1,0,0.9999993344352023,0.999997064718802,0.9999981995763582
+Patience yields positive results.,Patience yields positive results.,e1b03a8fc3,1,0,0,1,1,0,0.9999996593903813,0.999997982612289,0.9999988210009837
+Pebbled beaches offer unique textures.,Pebbled beaches offer unique textures.,51d8d51d79,0,1,0,0,0,0,0.9999984734980343,0.999990958729332,0.9999947161066242
+Percentages express proportions.,Percentages express proportions.,0f098143bf,0,1,0,0,0,0,0.9999974800968202,0.9999783112676416,0.9999878956362999
+Percentages represent parts per hundred.,Percentages represent parts per hundred.,74731c5110,0,1,0,0,0,0,0.999999332211151,0.9999993450498794,0.9999993386305152
+Performance art challenges conventions.,Performance art challenges conventions.,2d4d2a97b7,1,1,0,1,1,0,0.9999948160261172,0.9999990470532821,0.9999969315374619
+Performing in plays builds confidence.,Performing in plays builds confidence.,06e9ef625c,1,1,0,1,1,1,0.9999996583074252,0.999998776392175,0.9999992173497029
+Peru's Machu Picchu is an ancient wonder.,Peru's Machu Picchu is an ancient wonder.,3ed38f22b1,0,1,0,0,0,0,0.9987298365737414,0.9932086896854626,0.9959654373185758
+Pets can provide companionship.,Pets can provide companionship.,1e305fa672,1,1,0,1,1,0,0.999999988138879,0.9999999525555167,0.9999999703471977
+Pets can reduce stress.,Pets can reduce stress.,ec11018a3e,1,1,0,1,0,0,0.9999999781983487,0.9999998123534327,0.9999998952758873
+Philosophy deepens intellectual inquiry.,Philosophy deepens intellectual inquiry.,021f303f10,1,0,0,1,1,0,0.9999958625049605,0.9999974096255,0.999996636064931
+Phone apps can track daily fitness.,Phone apps can track daily fitness.,49aaaf5efe,0,1,0,1,0,0,0.9999998796751685,0.9999999712234653,0.9999999254493158
+Photographers capture visual stories.,Photographers capture visual stories.,59a1f2d1e5,0,1,0,1,1,0,0.9999999342546787,0.9999994220085653,0.9999996781315892
+Photons are particles of light.,Photons are particles of light.,363fe194b5,0,1,0,0,0,0,0.9993117757480056,0.9999142221716095,0.9996129535745307
+"Photosynthesis occurs in the chloroplasts of plant cells.
+
+Expressing empathy strengthens relationships.","Photosynthesis occurs in the chloroplasts of plant cells.
+
+Expressing empathy strengthens relationships.",d4c20e530e,0,1,0,1,1,0,0.9977308106295564,0.999186460958744,0.9984583705204966
+Physical phenomena occur naturally.,Physical phenomena occur naturally.,97855a4902,0,1,0,0,0,0,0.9999943490593386,0.9999868450559324,0.9999905970505967
+Phytonutrients in veggies fight disease.,Phytonutrients in veggies fight disease.,e058ad1ca4,0,1,0,0,0,0,0.9996443159815508,0.9999028015424732,0.9997735504082722
+Pi (π) is approximately 3.14.,Pi (π) is approximately 3.14.,5fb8f1a325,0,1,0,0,0,0,0.9999997808865232,0.9999986134708282,0.9999991971785053
+Picasso's Blue Period conveys deep emotion.,Picasso's Blue Period conveys deep emotion.,d22e6946bd,0,1,0,1,1,0,0.9999263748155219,0.9996607849434584,0.9997935710604222
+Picasso's Cubism revolutionized visual art.,Picasso's Cubism revolutionized visual art.,331e77d290,0,1,0,1,1,0,0.9999376663317407,0.9996156275459256,0.9997766339723145
+Pilgrims often travel to sacred sites.,Pilgrims often travel to sacred sites.,7fcad506b3,0,1,0,1,0,0,0.9999988915876349,0.9999937860209098,0.999996338801014
+Planes fly faster than cars.,Planes fly faster than cars.,e2a6b96b71,0,1,0,0,0,0,0.9999999956742982,0.9999999217772675,0.9999999587257822
+Planking exercises strengthen the core.,Planking exercises strengthen the core.,da16ca4c48,0,1,0,0,0,0,0.9999999999999766,0.9999992578441148,0.9999996289219768
+Planning sequences actions.,Planning sequences actions.,b7e9eb32b9,1,1,0,1,1,1,0.9791128536297885,0.3556615779696485,0.59011255073277
+Plant roots absorb nutrients.,Plant roots absorb nutrients.,81578272d1,0,1,0,0,0,0,0.9999999288641976,0.9999995498593113,0.9999997393617365
+Planting trees benefits future generations.,Planting trees benefits future generations.,75c597b2c0,0,1,0,0,0,0,0.999999962325806,0.9999999630501998,0.999999962688003
+Planting trees combats deforestation.,Planting trees combats deforestation.,6b73fdb3bf,0,1,0,0,0,0,0.9999782610684822,0.9999028015190913,0.9999405305819764
+Plato's allegory of the cave explains enlightenment.,Plato's allegory of the cave explains enlightenment.,0029442627,1,0,0,1,1,0,0.967540312338574,0.9974962344435905,0.9824041012893334
+Playing chess develops strategic thinking.,Playing chess develops strategic thinking.,f4430cebd8,1,1,0,1,1,0,0.9999998659694862,0.9999999581303909,0.9999999120499375
+Playing musical instruments fosters creativity.,Playing musical instruments fosters creativity.,3d514e771c,0,1,0,1,0,0,0.9999998176848955,0.9999989201699091,0.9999993689273016
+Playing trivia games stimulates the mind.,Playing trivia games stimulates the mind.,ec3fdc040c,0,1,0,1,1,0,0.9999997709519116,0.9999984288580078,0.9999990999047346
+Plays explore complex narratives.,Plays explore complex narratives.,4d5e06d955,0,1,0,1,1,0,0.9998095804297402,0.9999479721561566,0.9998787738986245
+Playwrights create dialogue and plot.,Playwrights create dialogue and plot.,bcb895a0f5,1,1,0,1,1,0,0.9999996542270331,0.9999996027522545,0.9999996284896434
+Plowing fields increases crop yield.,Plowing fields increases crop yield.,74cb4eab87,0,1,0,0,0,0,0.9999280478189002,0.9995064835826711,0.9997172434799522
+Poems convey deep emotions.,Poems convey deep emotions.,4922e23511,1,1,0,1,1,0,0.999999932846338,0.9999996906231123,0.9999998117347179
+Poetry uses metaphor and simile.,Poetry uses metaphor and simile.,7507d4e0e0,1,1,0,1,1,0,0.9999998918052728,0.9999996906230906,0.9999997912141766
+Poland's old towns are charming.,Poland's old towns are charming.,d8c6d9dc8c,1,1,0,1,1,0,0.8816011251636571,0.9967861168372839,0.9374261369042695
+Polytheism worships multiple deities.,Polytheism worships multiple deities.,a489e41c08,1,1,0,1,0,0,0.9999996425576801,0.9999996494300679,0.999999645993874
+"Popular beach locations include Hawaii, Maldives, and the Caribbean.","Popular beach locations include Hawaii, Maldives, and the Caribbean.",fe0e0190e8,0,1,0,0,0,0,0.9999998086749105,0.9999990470532977,0.9999994278640315
+Portraits capture a person’s likeness.,Portraits capture a person’s likeness.,560d456154,0,1,0,1,1,0,0.999998836799469,0.9999966738937482,0.9999977553460239
+Portugal's Algarve is stunningly beautiful.,Portugal's Algarve is stunningly beautiful.,5194ede58b,0,1,0,0,1,0,0.9671442568953879,0.9990780972989326,0.9829815074520142
+Positive numbers are greater than zero.,Positive numbers are greater than zero.,fdd1adf956,0,1,0,0,0,0,0.9999998689425301,0.9999999462383581,0.9999999075904433
+Positivity attracts positivity.,Positivity attracts positivity.,11fd1f3502,1,1,0,1,1,1,0.9999989475157887,0.999992021104319,0.9999954843040568
+Powers of ten simplify large numbers.,Powers of ten simplify large numbers.,10f9eba39c,0,1,0,0,0,0,0.9998880842490774,0.999954085466634,0.9999210843132926
+Practice gratitude daily.,Practice gratitude daily.,40d1be32a8,1,1,0,1,1,0,0.9999156342111916,0.9999982196614711,0.99995692608375
+Practice makes perfect.,Practice makes perfect.,21f9c35a8c,1,1,0,1,1,0,0.9998779765548459,0.9995064832982764,0.9996922126703451
+Practicing instruments prepares for performances.,Practicing instruments prepares for performances.,6495fa6645,1,1,0,1,0,0,0.9999999282585591,0.999999977588813,0.9999999529236857
+Practicing mindfulness is like hitting a reset button.,Practicing mindfulness is like hitting a reset button.,9149707207,1,1,0,1,1,0,0.9980801585986159,0.9977901115586415,0.9979351245409591
+Practicing moderation supports balanced living.,Practicing moderation supports balanced living.,c54f054662,1,1,0,1,0,0,0.9999999929221215,0.9999997873685615,0.9999998901453363
+Practicing tai chi promotes balance.,Practicing tai chi promotes balance.,7575d84521,0,1,0,1,0,0,0.9999992214938737,0.9999993450498488,0.9999992832718594
+Praying together unites communities.,Praying together unites communities.,d57ef72658,1,0,0,1,1,0,0.9999947773496561,0.9999540854557798,0.9999744311957339
+Precision in language ensures clarity.,Precision in language ensures clarity.,fdf63a34d8,0,0,0,1,1,0,0.9999994334471176,0.9999920211122832,0.9999957272728326
+Precision medicine tailors treatment to individuals.,Precision medicine tailors treatment to individuals.,7929aeda47,0,1,0,1,0,0,0.9990905034152588,0.9999937860212726,0.9995420426816092
+Predictive models anticipate trends.,Predictive models anticipate trends.,3face4cf74,0,1,0,1,0,0,0.9999983075574164,0.9999883908039863,0.9999933491684085
+Preparation prevents poor performance.,Preparation prevents poor performance.,bb21172626,1,0,0,1,1,0,0.9999995037992145,0.9999977140004986,0.9999986088994561
+Prevention is better than cure.,Prevention is better than cure.,b831f4e439,1,0,0,1,1,0,0.9999998248732015,0.999998920169838,0.9999993725214175
+Prime numbers have only two divisors.,Prime numbers have only two divisors.,634dbe286f,0,1,0,0,0,0,0.9996082464505692,0.9996156275103139,0.9996119369736289
+Prompt responses show consideration.,Prompt responses show consideration.,f600c1431c,1,1,0,1,1,1,0.9999998567531326,0.9999979826123876,0.999998919682321
+Proof by contradiction validates theorems.,Proof by contradiction validates theorems.,56062a0c8e,1,1,0,1,0,0,0.958070712154564,0.8387346100416171,0.8964190231979978
+Proper hygiene fosters wellbeing.,Proper hygiene fosters wellbeing.,d65e96de6b,0,1,0,1,0,1,0.9999999479163855,0.9999997590574722,0.9999998534869243
+Proper posture prevents back pain.,Proper posture prevents back pain.,7ed665cb32,0,1,0,1,0,0,0.9999972827586028,0.9999868450786408,0.9999920639050035
+Proportionate reasoning tackles diverse challenges.,Proportionate reasoning tackles diverse challenges.,52b1ecd56c,1,0,0,1,1,0,0.8948105864342456,0.6187691553835395,0.7440975680622588
+Prose captures rhythm and tone.,Prose captures rhythm and tone.,30b96a690b,0,1,0,1,0,0,0.6270691595802121,0.9816467327871903,0.784576568432632
+Protein supports muscle growth and repair.,Protein supports muscle growth and repair.,2d328f69d9,0,1,0,0,0,0,0.9999999769055852,0.9999999462383572,0.999999961571971
+Proteins are made of amino acids.,Proteins are made of amino acids.,3a122b691e,0,1,0,0,0,0,0.9996654818662115,0.9999966738934836,0.9998310641665111
+Protons have a positive charge.,Protons have a positive charge.,a8b3d2961d,0,1,0,0,0,0,0.9324622791169012,0.9999642415861748,0.9656235994137924
+Public art beautifies urban spaces.,Public art beautifies urban spaces.,ed72544fd1,0,1,0,1,1,0,0.9999993540117813,0.9999992578443413,0.9999993059280601
+Public health measures protect communities.,Public health measures protect communities.,c13cd29183,0,1,0,1,1,0,0.999999558766722,0.9999999845970305,0.9999997716818536
+Public parks provide recreational spaces.,Public parks provide recreational spaces.,4a6c2fd443,0,1,0,1,0,0,0.9999999974507752,0.9999999775888134,0.9999999875197942
+Punctuality shows respect.,Punctuality shows respect.,abebd3ba1b,1,1,0,1,1,0,0.9999997868732655,0.9999998995600231,0.9999998432166427
+Pure laughter embodies joy.,Pure laughter embodies joy.,7dfabf8439,1,1,0,1,1,0,0.9998393972516739,0.9992820173347473,0.9995606684420963
+"Pure, clear water quenches thirst instantly.","Pure, clear water quenches thirst instantly.",416182428c,0,1,0,0,0,0,0.9684151743954329,0.9940043004290593,0.981126316001063
+Puzzles stimulate the brain.,Puzzles stimulate the brain.,f14d54886b,0,1,0,1,0,0,0.999999857561566,0.9999989201707427,0.9999993888660444
+Quadratic equations have specific solutions.,Quadratic equations have specific solutions.,9a3b14fae3,0,1,0,0,0,0,0.8675237201957671,0.9980495250658028,0.9305007452574682
+Quality sleep enhances focus.,Quality sleep enhances focus.,7d0c7f031a,0,1,0,1,0,0,0.9999999930981317,0.9999999673919155,0.9999999802450236
+Quantum computing offers enormous processing power.,Quantum computing offers enormous processing power.,0e1361e2a5,0,1,0,0,0,0,0.9952104399277282,0.9982785151407011,0.9967432970547514
+Quantum encryption promises heightened security.,Quantum encryption promises heightened security.,40369d9bfd,0,1,0,1,0,0,0.5325341345167846,0.9947069371202517,0.7278154971262806
+Quantum mechanics deals with subatomic particles.,Quantum mechanics deals with subatomic particles.,85ae7543f7,0,1,0,0,0,0,0.9999938692783653,0.9999966738910602,0.9999952715837295
+Radios amplify sound waves.,Radios amplify sound waves.,4d2a4935ac,0,1,0,0,0,0,0.983923533214125,0.7977940879899534,0.8859844117321791
+Rain forests are biodiverse.,Rain forests are biodiverse.,f2c9f24601,0,1,0,0,0,0,0.9999999237581365,0.9999994220084791,0.9999996728832764
+Rain nourishes plants and crops.,Rain nourishes plants and crops.,a0cebba212,0,1,0,0,0,0,0.9999999733656119,0.9999999927241521,0.9999999830448819
+Rainbows appear after rain.,Rainbows appear after rain.,8802d7d5ac,0,1,0,0,0,0,0.9891219700603519,0.9565351436410351,0.9726921022143555
+Rainbows appear when sunlight refracts through raindrops.,Rainbows appear when sunlight refracts through raindrops.,f6f6d27434,0,1,0,0,0,0,0.9999933063328259,0.9999540855024162,0.9999736957253318
+Rainfall influences regional climates.,Rainfall influences regional climates.,5d4ceb35d1,0,1,0,0,0,0,0.9998013585511182,0.9991864593768831,0.9994938616774439
+Rainforests play a key role in carbon sequestration.,Rainforests play a key role in carbon sequestration.,aa1c104d90,0,1,0,0,0,0,0.999996975248929,0.9999808597155901,0.9999889174497955
+Ramadan is a holy month in Islam.,Ramadan is a holy month in Islam.,2ccecb74c7,1,1,0,1,0,0,0.999999991504041,0.9999999802221958,0.9999999858631184
+Rational critique drives improvement.,Rational critique drives improvement.,faaf2d6c88,1,0,0,1,1,0,0.9999990729720645,0.9999957291969377,0.9999974010831035
+Rational debate fosters progress.,Rational debate fosters progress.,6e49f749ac,1,0,0,1,1,0,0.9999998796369334,0.99999925784424,0.9999995687405384
+Rational discourse resolves dilemmas.,Rational discourse resolves dilemmas.,85dc971228,1,0,0,1,1,0,0.9162867241821667,0.9102024102522834,0.9132395002587095
+Rational exploration seeks truth.,Rational exploration seeks truth.,774cebe0bf,1,0,0,1,1,0,0.998984471670541,0.9999331954413619,0.9994587209854267
+Rational methods solve issues.,Rational methods solve issues.,c97610e99c,1,1,0,1,1,0,0.9982478557584344,0.9982784826209837,0.9982631690722544
+Rational models explain patterns.,Rational models explain patterns.,35cb1d53d5,0,1,0,1,0,0,0.9841336697214913,0.9998397517966159,0.9919556260584587
+Rational review enhances policies.,Rational review enhances policies.,f840b21b71,1,1,0,1,1,0,0.9972838775523085,0.999660784887629,0.9984716239281509
+Read books to expand knowledge.,Read books to expand knowledge.,447256e11f,1,1,0,1,1,0,0.9999999873138119,0.9999998710325243,0.9999999291731664
+Reading bedtime stories strengthens family bonds.,Reading bedtime stories strengthens family bonds.,3b2a47b77e,1,1,0,1,1,0,0.9999999970495004,0.9999999113620259,0.9999999542057623
+Reading before bed aids sleep.,Reading before bed aids sleep.,85d5aefc82,0,1,0,1,0,0,0.9999997931558269,0.9999937860212438,0.9999967895840246
+Reading expands the mind.,Reading expands the mind.,a8fa1ddac7,0,1,0,1,1,0,0.9999999236293915,0.9999996906231092,0.9999998071262436
+Reading inspires imagination.,Reading inspires imagination.,e91bd15f02,1,1,0,1,1,0,0.9999999999999992,0.9999999217772733,0.9999999608886355
+Reading sacred texts offers wisdom.,Reading sacred texts offers wisdom.,0d9a9a4c30,1,0,0,1,1,0,0.9997764556295169,0.9999721511973251,0.9998742986257247
+Reasoned negotiations achieve fair agreements.,Reasoned negotiations achieve fair agreements.,9798239179,1,1,0,1,1,0,0.9989256136842349,0.9974962366514504,0.9982106693202417
+Recognizing biases refines judgment.,Recognizing biases refines judgment.,fd06ed7f81,1,0,0,1,1,1,0.9999946771006007,0.9999996027522594,0.9999971399233973
+Recognizing patterns aids logical deduction.,Recognizing patterns aids logical deduction.,4219b08409,0,1,0,1,0,0,0.9999998745402753,0.9999994220085338,0.9999996482743789
+Recycle to protect the planet.,Recycle to protect the planet.,9ac9ed5d81,0,1,0,0,1,0,0.9999995161435146,0.9999993450498852,0.9999994305966962
+Recycling protects the environment.,Recycling protects the environment.,245b893958,0,1,0,0,0,0,0.999999877399445,0.9999996494300706,0.9999997634147513
+Reflection deepens understanding.,Reflection deepens understanding.,5b1e2996ed,0,0,0,1,1,0,0.9999999498252836,0.9999994899243083,0.9999997198747695
+Regular check-ups are important.,Regular check-ups are important.,0f4f48a71f,0,1,0,1,0,0,0.9999999711563976,0.9999998710325216,0.9999999210944583
+Regular exercise releases endorphins.,Regular exercise releases endorphins.,c82563075c,0,1,0,0,0,0,0.9999985064230322,0.9999897549104249,0.9999941306571549
+Regular flossing prevents gum disease.,Regular flossing prevents gum disease.,1e918032c4,0,1,0,0,0,0,0.999993771575538,0.9999721512155733,0.9999829613371246
+Regular flossing supports dental health.,Regular flossing supports dental health.,c2a5d1b93d,0,1,0,0,0,0,0.9999999908424896,0.9999998710325225,0.9999999309375043
+Regular physical exams detect issues early.,Regular physical exams detect issues early.,92156c2ed8,0,1,0,1,0,0,0.9999998673632106,0.9999999525555109,0.9999999099593598
+Regularly updating passwords enhances security.,Regularly updating passwords enhances security.,c00782db2e,0,1,0,1,0,0,0.9999999473022079,0.9999992578441428,0.9999996025731159
+Relational databases organize data efficiently.,Relational databases organize data efficiently.,5f96f18b6c,0,1,0,0,0,0,0.9998727657603027,0.9998751962152972,0.9998739809870615
+Reliability builds trust.,Reliability builds trust.,5e56e4c944,1,1,0,1,1,0,0.9999999980146618,0.9999999825461506,0.9999999902804062
+Reliable data builds strong arguments.,Reliable data builds strong arguments.,1c48b622a8,1,0,0,1,1,0,0.9999994754119119,0.9999977140023691,0.9999985947067527
+Reliable friends are invaluable.,Reliable friends are invaluable.,4800555d4a,1,1,0,1,1,0,0.9999999331233176,0.9999996906236857,0.9999998118734943
+Reliable sources provide accurate data.,Reliable sources provide accurate data.,20e64b12b5,0,1,0,0,0,0,0.9999906832297522,0.9999410449412137,0.9999658637774774
+Religious teachings encourage kindness.,Religious teachings encourage kindness.,b872891132,1,1,0,1,1,0,0.9999994106777734,0.999999422008532,0.9999994163431527
+Religious vows often involve lifelong commitments.,Religious vows often involve lifelong commitments.,8eb629bf5a,1,1,0,1,1,0,0.9999999342548579,0.9999991590280471,0.9999995466413774
+Reliving happy memories boosts morale.,Reliving happy memories boosts morale.,bfd18701f7,1,1,0,1,1,0,0.9999999849018191,0.9999997873685775,0.9999998861351934
+Renaissance art emphasized realism and humanism.,Renaissance art emphasized realism and humanism.,d46e363128,1,1,0,1,1,0,0.9999984830402084,0.9999998538607011,0.9999991684502199
+Renewable energies are eco-friendly alternatives.,Renewable energies are eco-friendly alternatives.,2d9819110e,0,1,0,0,0,0,0.9999999758136349,0.9999996906231363,0.9999998332183754
+Respect others’ opinions.,Respect others’ opinions.,65d5516a1c,1,1,0,1,1,0,0.9999992151358521,0.9999920211044642,0.9999956181136889
+Responding promptly is courteous.,Responding promptly is courteous.,0622508895,1,1,0,1,1,1,0.9999996541256276,0.9999998123534163,0.9999997332395189
+Responsible pet ownership enhances animal welfare.,Responsible pet ownership enhances animal welfare.,fc6790150e,1,1,0,1,1,1,0.9999999609236797,0.9999997590574824,0.999999859990576
+Resting is like recharging your life battery.,Resting is like recharging your life battery.,3b8255419d,0,1,0,1,1,0,0.9999998647157801,0.9999993450498332,0.9999996048827728
+Revisiting educational content solidifies knowledge.,Revisiting educational content solidifies knowledge.,b561b50082,1,0,0,1,1,0,0.9999999288644034,0.9999998344024827,0.9999998816334419
+Riding a bike is good exercise.,Riding a bike is good exercise.,0cce53de5e,0,1,0,1,0,0,0.9999999759101482,0.9999999673919138,0.9999999716510309
+Rigorous methods enhance studies.,Rigorous methods enhance studies.,755d0c0662,0,1,0,1,0,0,0.9999995037983824,0.9999957291969825,0.9999976164959016
+Rio de Janeiro is famous for its carnival.,Rio de Janeiro is famous for its carnival.,f707943465,0,1,0,1,0,0,0.9999999944945528,0.999999967391916,0.9999999809432343
+Rivers carve valleys.,Rivers carve valleys.,6b08cb9275,0,1,0,0,0,0,0.9999989415469865,0.999985093511958,0.999992017505501
+Rivers flow to the sea.,Rivers flow to the sea.,567a165139,0,1,0,0,0,0,0.9999365092076353,0.9997358091649082,0.9998361541503833
+Rivers nourish surrounding ecosystems.,Rivers nourish surrounding ecosystems.,a5681668c5,0,1,0,0,0,0,0.9999999372228767,0.9999996027522452,0.999999769987547
+Robotics automates complex tasks.,Robotics automates complex tasks.,ce4c23733f,0,1,0,1,0,0,0.9999985455608689,0.9999987763922559,0.9999986609765558
+Romania's Carpathian Mountains are mystical.,Romania's Carpathian Mountains are mystical.,7dc0a5b0d0,0,1,0,0,1,0,0.9941978305443366,0.9764954978131322,0.9853069092735156
+Rome is rich with ancient history.,Rome is rich with ancient history.,63d26aac2b,1,0,0,1,1,0,0.9999999159181635,0.9999998861865952,0.9999999010523792
+Rosa Parks' actions sparked the Montgomery Bus Boycott.,Rosa Parks' actions sparked the Montgomery Bus Boycott.,3a86b7968b,0,1,0,1,1,0,0.999999932716807,0.9999994899243274,0.9999997113205427
+Running clears your mental fog.,Running clears your mental fog.,0a69abe2fc,0,1,0,1,0,0,0.9999821378445128,0.9998184170042917,0.9999002740735039
+Russia's Siberian wilderness is immense.,Russia's Siberian wilderness is immense.,1ae8370f0b,0,1,0,0,1,0,0.9999998509956837,0.999999257843569,0.9999995544195823
+Safety first.,Safety first.,1357ff9751,1,1,0,1,1,0,0.9999997344023059,0.9999987763922279,0.9999992553971522
+Safety protocols prevent accidents.,Safety protocols prevent accidents.,c83d697dc5,0,1,0,1,0,0,0.9999994506597046,0.9999977140021622,0.9999985823305564
+Salvador Dalí was known for his surrealist works.,Salvador Dalí was known for his surrealist works.,bef6152b05,1,0,0,1,1,0,0.9999999938847287,0.9999999217772728,0.999999957831
+Sand dunes are windy.,Sand dunes are windy.,9cdde1fad9,0,1,0,0,0,0,0.9999999994854453,0.9967862444662394,0.9983918288694766
+Save for a rainy day.,Save for a rainy day.,81e1d7c7f7,0,1,0,1,1,0,0.9999998839554644,0.9999998861866045,0.9999998850710344
+Saving money ensures financial security.,Saving money ensures financial security.,aa49e9a0dd,1,1,0,1,0,0,0.9999988111573639,0.9999929586408023,0.9999958848948016
+Saying good morning builds rapport.,Saying good morning builds rapport.,0e68f17355,1,1,0,1,1,1,0.9999983841566672,0.999999422008524,0.999998903082461
+Saying sorry mends relationships.,Saying sorry mends relationships.,39924058fb,1,1,0,1,1,1,0.9993013125839015,0.9947069399926539,0.9970014798238643
+Scalars measure magnitude only.,Scalars measure magnitude only.,7c8a172ec7,0,1,0,0,0,0,0.6793182263831976,0.999440789980816,0.8239771506691128
+Scenic drives relax the mind.,Scenic drives relax the mind.,11bf73c8ed,0,1,0,1,1,0,0.9999990180046067,0.9999977140002855,0.9999983660022336
+Science builds on empirical facts.,Science builds on empirical facts.,4e3a02a3ac,1,0,0,1,0,0,0.999997156340357,0.999998219662933,0.9999976880015037
+Scotland has iconic castles.,Scotland has iconic castles.,6309d92bc7,0,1,0,1,0,0,0.9999960471263794,0.9999831087473137,0.9999895779159211
+Sculpting requires precision and skill.,Sculpting requires precision and skill.,fbd257b400,0,1,0,1,0,0,0.9999998178594498,0.9999999864069276,0.9999999021331851
+Sculptors shape materials into forms.,Sculptors shape materials into forms.,40191449ec,0,1,0,0,0,0,0.999999989917621,0.9999999113620406,0.99999995063983
+Sculpture can memorialize history.,Sculpture can memorialize history.,2c3e359579,0,0,0,1,1,0,0.9999999620721292,0.9999999390800753,0.9999999505761021
+Self-driving cars rely on advanced sensor technology.,Self-driving cars rely on advanced sensor technology.,f35ad558b0,0,1,0,0,0,0,0.9999999883304185,0.9999999462383599,0.999999967284389
+Sequences follow specific patterns.,Sequences follow specific patterns.,b674381987,0,1,0,0,0,0,0.9999362082965023,0.9999909587370183,0.9999635831420453
+Serbia’s Danube River vistas are expansive.,Serbia’s Danube River vistas are expansive.,f183a156ac,0,1,0,0,0,0,0.9638408049264654,0.8562589103134945,0.9084587372809052
+Set operations explore relationships between groups.,Set operations explore relationships between groups.,5ba66f7393,1,1,0,1,0,0,0.6249321548093837,0.9901339738290378,0.7866171608952849
+Setting intentions directs focus.,Setting intentions directs focus.,f89192ca32,1,0,0,1,1,0,0.9999909377144576,0.999995729196558,0.999993333452638
+Shakespeare wrote timeless plays and sonnets.,Shakespeare wrote timeless plays and sonnets.,5cf7868aaf,1,1,0,1,1,0,0.9999996401506293,0.9999979826119666,0.9999988113809545
+Shakespeare's works are timeless treasures.,Shakespeare's works are timeless treasures.,ce6925f6a7,1,0,0,1,1,0,0.9999952980724908,0.9999721511929575,0.9999837245657508
+Shamanic journeys often involve trance states.,Shamanic journeys often involve trance states.,f7b05d6bd0,0,1,0,1,1,0,0.9978220724293774,0.9999808597344526,0.9989008828957666
+Shamanism involves communication with spirits.,Shamanism involves communication with spirits.,c2164ce28a,1,1,0,1,1,0,0.9999995626492394,0.9999991590273695,0.9999993608382841
+Shared experiences build bonds.,Shared experiences build bonds.,1b775d587b,1,1,0,1,1,1,0.9999999763066609,0.9999998995602105,0.999999937933435
+Shared experiences create memories.,Shared experiences create memories.,7bf5bc90f7,1,1,0,1,1,1,0.9999997136538897,0.9999987763932044,0.9999992450234373
+Shared goals promote unity.,Shared goals promote unity.,2d95d917be,1,1,0,1,1,0,0.9999999335630563,0.9999997269763967,0.9999998302697212
+Sharing is caring.,Sharing is caring.,596f33db6e,1,1,0,1,1,0,0.9999997931530006,0.99999295864061,0.9999963758909665
+Sharing meals connects people.,Sharing meals connects people.,1840550ca3,1,1,0,1,1,0,0.99999998705397,0.999999834402481,0.9999999107282226
+Sharing meals creates bonds.,Sharing meals creates bonds.,f149b4408f,1,1,0,1,1,0,0.9999998366205235,0.9999992578442667,0.9999995472323532
+Sharing spreads joy.,Sharing spreads joy.,fc89c1d637,1,1,0,1,1,1,0.9999977853535058,0.9999897549107042,0.999993770124044
+Sharing strengthens community ties.,Sharing strengthens community ties.,d30bde1700,1,1,0,1,1,0,0.9999999009052267,0.9999995498593144,0.9999997253822551
+Shelves should be dusted regularly to maintain cleanliness.,Shelves should be dusted regularly to maintain cleanliness.,a1f4555f9d,0,1,0,1,0,0,0.9999999762990848,0.9999997590570476,0.9999998676780603
+Shinto shrines are found throughout Japan.,Shinto shrines are found throughout Japan.,2826f6ca35,0,1,0,1,0,0,0.9999696296359695,0.9999966738941741,0.9999831516736463
+"Shintoism focuses on kami, or spiritual beings.","Shintoism focuses on kami, or spiritual beings.",2f66e4db56,1,1,0,1,1,0,0.9999961312862623,0.9999937860206078,0.9999949586527476
+Shintoism involves purification rituals.,Shintoism involves purification rituals.,9cc06bf321,1,1,0,1,0,0,0.8670368709404773,0.9999957291964021,0.9311461582352629
+Shooting for the stars; aiming high.,Shooting for the stars; aiming high.,f5a7b12829,0,0,0,1,1,0,0.9999493944408188,0.9995644602700328,0.9997569088291328
+Short summaries aid comprehension.,Short summaries aid comprehension.,bc20c85a54,1,1,0,1,0,0,0.9999999752957676,0.9999992578442805,0.9999996165699596
+Show gratitude often.,Show gratitude often.,504ca10089,1,1,0,1,1,0,0.9999994400478747,0.9999974096232151,0.9999984248350295
+Showering daily promotes hygiene.,Showering daily promotes hygiene.,cff3ade64d,0,1,0,0,0,0,0.9999975160651811,0.9999897549100274,0.9999936354800747
+Sikhism emphasizes service and equality.,Sikhism emphasizes service and equality.,5f80e8904d,1,1,0,1,1,0,0.9999997216236564,0.9999997269758389,0.9999997242997477
+Sikhs are known for their distinct turbans.,Sikhs are known for their distinct turbans.,f175b74698,0,1,0,0,0,0,0.9999996661181888,0.9999970647215363,0.9999983654190167
+Silence is golden.,Silence is golden.,20cc041331,1,0,0,1,1,0,0.9983344570426056,0.9989555117233464,0.9986449361039414
+Silence speaks volumes.,Silence speaks volumes.,0cc7aa5335,1,1,0,1,1,0,0.9999960141864751,0.9999754234730017,0.9999857187767405
+Simple living brings contentment.,Simple living brings contentment.,08a9ad7818,1,0,0,1,1,0,0.993416050921176,0.9995644601432623,0.9964855135106967
+Singing boosts mood.,Singing boosts mood.,9e102ea541,0,1,0,1,1,0,0.9999999999996876,0.9999984288566898,0.9999992144278801
+Singing releases stress.,Singing releases stress.,d41cfe2b67,0,1,0,1,1,0,0.9999912156966698,0.9999831087649514,0.9999871622225952
+Sketching improves observation skills.,Sketching improves observation skills.,4940f98fca,0,1,0,1,0,0,0.9999993129707183,0.9999994220085031,0.9999993674896093
+Sleep restores mental clarity.,Sleep restores mental clarity.,363f6558e5,0,1,0,1,0,0,0.9999999738306002,0.9999998344024814,0.9999999041165384
+Slow and steady wins the race.,Slow and steady wins the race.,fb0be48404,1,0,0,1,1,0,0.9999996563676805,0.9999937860210528,0.999996721190059
+Small talk builds connections.,Small talk builds connections.,c51cd294dd,1,1,0,1,1,1,0.9999997452724063,0.9999999390800789,0.9999998421762379
+Smart grids optimize energy distribution.,Smart grids optimize energy distribution.,6f0c408942,0,1,0,0,0,0,0.9997413711416301,0.9999897549104537,0.9998655553131929
+Smart home devices offer convenience.,Smart home devices offer convenience.,daf0c2ceb0,0,1,0,1,0,0,0.999999803162823,0.9999998344024841,0.9999998187826534
+Smartphones revolutionized communication.,Smartphones revolutionized communication.,b877d8da34,0,1,0,1,0,0,0.9999998613724386,0.999999345049887,0.9999996032111295
+Smiles often signal friendliness.,Smiles often signal friendliness.,f9293e0e7f,1,1,0,1,1,1,0.9999999918479786,0.9999999673919147,0.9999999796199466
+Smiling boosts immune function.,Smiling boosts immune function.,e5d38570c3,0,1,0,1,0,0,0.9472229721102098,0.7977942306044654,0.8693037571790081
+Snow falls in winter.,Snow falls in winter.,52a8c8c05d,0,1,0,0,0,0,0.9999971481258305,0.9999945161813703,0.9999958321527345
+Snowfall creates a serene atmosphere.,Snowfall creates a serene atmosphere.,bf4d2485f9,0,1,0,0,0,0,0.9999793827474989,0.9998585800708422,0.9999189795848619
+Snowflakes are unique crystals.,Snowflakes are unique crystals.,7701033bcd,0,1,0,0,0,0,0.9999981172189074,0.9999883907981989,0.9999932539967277
+Social dancing combines exercise and socialization.,Social dancing combines exercise and socialization.,5fff4b5ef5,0,1,0,1,0,0,0.9999999758136282,0.9999996906230981,0.999999833218353
+Social equity promotes fairness.,Social equity promotes fairness.,64f2fef1f3,1,0,0,1,1,0,0.9999964825275738,0.9999783112720833,0.9999873968585536
+Social interactions enrich life.,Social interactions enrich life.,123dfa1ed7,1,1,0,1,1,0,0.9999998918282684,0.9999995498592753,0.9999997208437573
+Social norms guide behavior.,Social norms guide behavior.,7734ec8770,1,1,0,1,1,0,0.9999999790840152,0.9999998710325203,0.9999999250582663
+Socialization develops interpersonal skills.,Socialization develops interpersonal skills.,cdfe2ca617,1,1,0,1,0,0,0.9999999137731527,0.9999992578448893,0.9999995858089672
+Societal progress relies on equitable distribution of resources.,Societal progress relies on equitable distribution of resources.,76e2310177,0,0,0,1,1,0,0.9991290133429097,0.9998397518758635,0.9994843194331521
+Society values punctuality.,Society values punctuality.,f3e7f5a086,1,1,0,1,1,0,0.9999979292189821,0.9999966738907888,0.9999973015546885
+Socrates developed the Socratic method.,Socrates developed the Socratic method.,65c484f46f,1,1,0,1,1,0,0.9996662041222962,0.9999937860209018,0.9998299816555806
+Socrates' method involves asking probing questions.,Socrates' method involves asking probing questions.,4495c45e12,1,1,0,1,1,0,0.9999788609632037,0.9999987763922963,0.9999888186281713
+Socratic questioning promotes deep understanding.,Socratic questioning promotes deep understanding.,6b3266e564,1,0,0,1,1,0,0.999993307707932,0.9999989201699384,0.9999961139349978
+Soft fabrics feel comforting.,Soft fabrics feel comforting.,42f7eb8b0d,0,1,0,1,1,0,0.999999327712942,0.99999623102495,0.9999977793677474
+Soft lighting creates a calming ambiance.,Soft lighting creates a calming ambiance.,b7150badf5,0,1,0,1,0,0,0.999999968279401,0.9999990470531693,0.9999995076661791
+Solar energy is sustainable.,Solar energy is sustainable.,de82c0c8c1,0,1,0,0,0,0,0.9999999022921616,0.9999970647216895,0.999998483505919
+Spain's Costa del Sol has golden beaches.,Spain's Costa del Sol has golden beaches.,5ef7c5b0b0,0,1,0,0,0,0,0.9992103119960151,0.9932086171732937,0.996204944899822
+"Spare the rod, spoil the child.","Spare the rod, spoil the child.",53aef8e8dd,1,0,0,1,1,1,0.9999693041520331,0.9998585800450832,0.9999139405659477
+Spending time outdoors lifts the spirits.,Spending time outdoors lifts the spirits.,b9a86e2928,0,1,0,1,1,0,0.9999996755270546,0.9999986134707287,0.9999991444987506
+Spill the beans means reveal a secret.,Spill the beans means reveal a secret.,c4e6146402,1,0,0,1,1,1,0.9999999999999979,0.9999998344024872,0.9999999172012392
+Springtime brings new growth.,Springtime brings new growth.,84ef5622f1,0,1,0,1,1,0,0.9999999919797088,0.9999997269758629,0.9999998594777771
+Sputnik's launch began the space age.,Sputnik's launch began the space age.,f91e1ca320,0,1,0,0,0,0,0.9999819063951056,0.9999243009010865,0.9999531032332776
+Sri Lanka is known for its tea plantations.,Sri Lanka is known for its tea plantations.,4404f036ef,0,1,0,0,0,0,0.7057921506531377,0.999972151197492,0.8401026694320894
+Stargazing can be awe-inspiring.,Stargazing can be awe-inspiring.,f50cfe17dc,0,1,0,1,1,0,0.9999999690016391,0.9999999113620339,0.9999999401818361
+Stars are born in nebulae.,Stars are born in nebulae.,00c40d2d3a,0,1,0,0,0,0,0.6224990381641896,0.9998397517927611,0.7889228630286461
+Stars fill the night sky.,Stars fill the night sky.,3e5aab6605,0,1,0,1,0,0,0.9999999998783612,0.9995644600890192,0.9997822062666616
+Staying active enhances longevity.,Staying active enhances longevity.,415b1a29ef,0,1,0,0,0,0,0.9999999830210491,0.9999994220085333,0.9999997025147518
+Steer clear of negative influences.,Steer clear of negative influences.,32de268916,1,1,0,1,1,0,0.9999999431445745,0.999999422009088,0.9999996825767973
+Stephen Hawking made significant contributions to theoretical physics.,Stephen Hawking made significant contributions to theoretical physics.,f93feb7580,0,1,0,1,0,0,0.9999999820140497,0.9999998861865934,0.9999999341003204
+Stirred up a hornet's nest; created a commotion.,Stirred up a hornet's nest; created a commotion.,2d1318f0ef,0,0,0,1,0,0,0.9995758987794541,0.9967862450020298,0.9981800973466166
+Stonehenge is an ancient wonder.,Stonehenge is an ancient wonder.,297e13ba21,0,0,0,0,0,0,0.999677657399895,0.9986590509722093,0.999168224383212
+Stop and smell the roses.,Stop and smell the roses.,049aad1aa9,0,1,0,1,1,0,0.9999947633274179,0.9999992578434971,0.9999970105829324
+Stories shape cultures.,Stories shape cultures.,f459728975,1,0,0,1,1,0,0.9999999663978235,0.9999999217772719,0.9999999440875474
+Storytelling captures imagination.,Storytelling captures imagination.,8d7856b254,1,1,0,1,1,0,0.9999997979087857,0.9999991590272349,0.9999994784679593
+Street art reflects urban life.,Street art reflects urban life.,0f1f519f31,0,1,0,1,1,0,0.9999996135569202,0.9999982196614071,0.9999989166089208
+Stretching improves flexibility.,Stretching improves flexibility.,4c85acf009,0,1,0,0,0,0,0.9999999719521341,0.9999997873685673,0.9999998796603464
+Stretching prevents muscle cramps.,Stretching prevents muscle cramps.,dd801a8b7a,0,1,0,0,0,0,0.9327491611881248,0.7480630970976274,0.8353174404581786
+Strong friendships often weather storms.,Strong friendships often weather storms.,4386a27a15,1,1,0,1,1,1,0.9999999327168052,0.9999994899243101,0.9999997113205331
+Structure in arguments aids comprehension.,Structure in arguments aids comprehension.,d2f4824948,1,1,0,1,0,0,0.9999995949652445,0.9999996027522332,0.9999995988587388
+Structured analyses refine processes.,Structured analyses refine processes.,a8eef07363,0,1,0,1,0,0,0.5003355035908758,0.9986590512896134,0.7068695631745471
+Structured frameworks guide learning.,Structured frameworks guide learning.,61db23d076,1,1,0,1,0,0,0.9999999999979359,0.9999920211124129,0.9999960105472165
+Structured inquiry clarifies questions.,Structured inquiry clarifies questions.,0b74434367,1,1,0,1,1,0,0.9982313113212711,0.9958752956863962,0.9970526076017704
+Structured planning anticipates needs.,Structured planning anticipates needs.,03224fe916,1,1,0,1,0,0,0.9999117868279699,0.9999684432329605,0.9999401146291976
+Structured preparations ensure readiness.,Structured preparations ensure readiness.,0cb7d12b80,1,1,0,1,0,0,0.9999986847436281,0.9999982196612273,0.9999984522024006
+Structured review enhances teaching.,Structured review enhances teaching.,bf135710cc,1,1,0,1,1,0,0.9999874947494587,0.9999142220893318,0.9999508577482519
+Structured steps guide action.,Structured steps guide action.,661a938075,1,1,0,1,1,0,0.9999749422771657,0.9998751963239195,0.9999250680567925
+Study habits influence academic success.,Study habits influence academic success.,7eddf511b1,1,1,0,1,1,0,0.9999999977021466,0.9999999309686868,0.9999999643354162
+Sunlight boosts Vitamin D.,Sunlight boosts Vitamin D.,ed47b708c4,0,1,0,0,0,0,0.9999999548138312,0.9999996027529877,0.999999778783394
+Sunscreen prevents sunburn.,Sunscreen prevents sunburn.,4d05a68e10,0,1,0,0,0,0,0.9999999780322771,0.9999996906231408,0.9999998343276986
+Sunscreen protects against UV rays.,Sunscreen protects against UV rays.,232042b8f4,0,1,0,0,0,0,0.9999999938847293,0.9999999217772728,0.9999999578310004
+Sweden’s archipelago is extensive.,Sweden’s archipelago is extensive.,6bbc920a08,0,1,0,0,0,0,0.6792635267962653,0.9996607846603462,0.8240346535117978
+Swimming engages multiple muscle groups.,Swimming engages multiple muscle groups.,9f5df2f22c,0,1,0,0,0,0,0.9999999909118118,0.9999996906231172,0.9999998407674532
+Symbolism adds depth to literature.,Symbolism adds depth to literature.,31f8135958,1,0,0,1,1,0,0.9999978079351973,0.9999997269758736,0.9999987674550751
+Symmetry reflects balanced proportions.,Symmetry reflects balanced proportions.,cbb08f7888,0,0,0,0,0,0,0.9999994377381971,0.999983108763378,0.9999912732174578
+Symphonies blend diverse instruments.,Symphonies blend diverse instruments.,f4dd3d8314,0,1,0,1,1,0,0.9999999511091273,0.9999996906231354,0.9999998208661228
+Symphonies comprise multiple movements.,Symphonies comprise multiple movements.,613880b175,0,1,0,1,0,0,0.9999047290986204,0.9999966738909891,0.999950700438022
+Symphonies create dynamic musical narratives.,Symphonies create dynamic musical narratives.,15b0ee929d,0,1,0,1,1,0,0.999912548146215,0.9999142220786581,0.9999133851120863
+Symphony unifies diverse musical elements.,Symphony unifies diverse musical elements.,a1abc85c43,0,1,0,1,1,0,0.9998563028143492,0.9999410449551439,0.9998986729870019
+Synagogues are places of Jewish worship.,Synagogues are places of Jewish worship.,2eb772ea4a,1,1,0,1,0,0,0.999999974890008,0.9999999999999996,0.9999999874450037
+Syria's history is unparalleled.,Syria's history is unparalleled.,2c9809ffd5,1,1,0,1,1,0,0.9999925536255851,0.9999540854308036,0.9999733193432142
+Tables organize and display data.,Tables organize and display data.,2c8e256271,0,1,0,0,0,0,0.9999993435240041,0.9999996906231341,0.9999995170735541
+Taking cooking classes enhances culinary skills.,Taking cooking classes enhances culinary skills.,f5b2f46924,0,1,0,1,0,0,0.9999998946591543,0.9999999712234666,0.9999999329413097
+Taking vitamins supports health.,Taking vitamins supports health.,fbff28e6d0,0,1,0,0,0,0,0.9999963381298326,0.9999783112650139,0.9999873246568017
+Taoism teaches harmony with nature.,Taoism teaches harmony with nature.,f06a559bb1,1,1,0,1,1,0,0.9999886657346955,0.99999942200844,0.9999940438571054
+Teachable moments help reinforce knowledge.,Teachable moments help reinforce knowledge.,116401aff0,1,1,0,1,1,0,0.9999999242186214,0.999999649430032,0.9999997868243172
+Team spirit enhances performance.,Team spirit enhances performance.,b006133b8a,1,1,0,1,1,0,0.9999997817404639,0.999998776392275,0.9999992790662431
+Team sports build camaraderie.,Team sports build camaraderie.,87b31d37f5,1,1,0,1,1,0,0.9999999202439245,0.9999999217772693,0.9999999210105969
+Teamwork achieves better results.,Teamwork achieves better results.,57cec306e5,1,1,0,1,1,0,0.9999998742984306,0.999999549859306,0.9999997120788552
+Teamwork makes tasks easier.,Teamwork makes tasks easier.,9f025ce87d,1,1,0,1,1,0,0.9999999867769742,0.9999996027522519,0.9999997947645946
+Technology drives modern communication.,Technology drives modern communication.,505612080f,0,1,0,1,0,0,0.9999999157378431,0.9999994220084965,0.9999996688731393
+Technology revolutionizes healthcare.,Technology revolutionizes healthcare.,411f23ff6c,0,1,0,1,1,0,0.999999732379799,0.9999962310287079,0.999997981702721
+Telemedicine offers remote healthcare access.,Telemedicine offers remote healthcare access.,c5df3d7890,0,1,0,1,0,0,0.9999999479163862,0.9999999673919155,0.9999999576541508
+Textbooks are used for education in schools.,Textbooks are used for education in schools.,0c130305dd,1,1,0,1,0,0,0.9999999980183409,0.9999999943335647,0.9999999961759528
+The Alps span several European countries.,The Alps span several European countries.,47d90b8fc8,0,1,0,0,0,0,0.9999999137737817,0.9999974096230775,0.9999986616976457
+The Amazon Basin is incredibly biodiverse.,The Amazon Basin is incredibly biodiverse.,483e88f3d3,0,1,0,0,0,0,0.9999996128115366,0.9999986134705862,0.9999991131409365
+The American Revolution shaped modern democracy.,The American Revolution shaped modern democracy.,967765c0e4,1,0,0,1,1,0,0.9999980399362787,0.9999883908071872,0.9999932153600947
+The Atacama Desert is rich in mineral resources.,The Atacama Desert is rich in mineral resources.,44378eb605,0,1,0,0,0,0,0.9467762009180499,0.9992820179469997,0.9726748853535713
+"The Baltic States include Estonia, Latvia, and Lithuania.","The Baltic States include Estonia, Latvia, and Lithuania.",34e74d8a1e,0,1,0,0,0,0,0.8519659292764535,0.9999479721546565,0.9229959931250229
+The Berlin Wall fell in 1989.,The Berlin Wall fell in 1989.,5af663081b,0,1,0,1,0,0,0.9999999999999896,0.9999979826122641,0.9999989913056181
+The Bible guides Christian faith.,The Bible guides Christian faith.,212b0f163f,1,0,0,1,0,0,0.9999999648743643,0.9999997590574922,0.9999998619659229
+The California Gold Rush attracted global attention.,The California Gold Rush attracted global attention.,fce76e1275,0,1,0,1,1,0,0.9999998575614151,0.9999994899237616,0.9999996737425715
+The Cartesian plane maps geometric locations.,The Cartesian plane maps geometric locations.,26feda5a35,0,1,0,0,0,0,0.9975727775639908,0.9998184168618315,0.9986949660274098
+The Cold War influenced many global events.,The Cold War influenced many global events.,966e445770,0,1,0,1,1,0,0.9999995075141702,0.9999999525555153,0.999999730034818
+The Colosseum is in Rome.,The Colosseum is in Rome.,42da4d27d9,0,1,0,0,0,0,0.9999999937061426,0.9999999113620366,0.9999999525340887
+The Earth rotates on its axis.,The Earth rotates on its axis.,a06c87e9b0,0,1,0,0,0,0,0.9999997410100882,0.9999986134708579,0.9999991772403141
+The Eiffel Tower is iconic.,The Eiffel Tower is iconic.,acd191a045,0,1,0,0,0,0,0.9999999717929914,0.9999996027522359,0.9999997872725966
+The English Channel separates England and France.,The English Channel separates England and France.,386d893bb4,0,1,0,0,0,0,0.9999998558181096,0.9999999217772728,0.9999998887976906
+The Enlightenment era promoted reason.,The Enlightenment era promoted reason.,dde9089482,1,0,0,1,1,0,0.999999985624667,0.9999999113620299,0.9999999484933477
+The Fibonacci sequence appears in nature.,The Fibonacci sequence appears in nature.,e0ed818aa1,0,1,0,0,0,0,0.9995809227659199,0.9999540854687328,0.999767486706978
+The French Revolution began in 1789.,The French Revolution began in 1789.,d63f2340e8,1,1,0,1,0,0,0.9997756377572041,0.9999754234694082,0.9998755256233937
+The Ganges River is sacred in India.,The Ganges River is sacred in India.,9698907c87,0,1,0,0,0,0,0.9999991756766738,0.999985093526401,0.9999921345767488
+The Gobi Desert spans parts of China and Mongolia.,The Gobi Desert spans parts of China and Mongolia.,52641bcd96,0,1,0,0,0,0,0.9999992151367885,0.999995160546532,0.9999971878396052
+The Grand Canyon is breathtaking.,The Grand Canyon is breathtaking.,3f92d0b6c3,0,1,0,0,0,0,0.9999994754113898,0.9999977140002988,0.9999985947054565
+The Great Barrier Reef is biodiverse.,The Great Barrier Reef is biodiverse.,d3f2717cb8,0,1,0,0,0,0,0.9999993628643741,0.999994516181531,0.9999969395200162
+The Great Depression had profound economic impacts.,The Great Depression had profound economic impacts.,f98dd539b8,0,1,0,1,1,0,0.9999999950983374,0.9999999113620361,0.9999999532301859
+The Gutenberg Bible marked a printing milestone.,The Gutenberg Bible marked a printing milestone.,a9a824783b,0,1,0,1,0,0,0.9985067091292112,0.9999684432541814,0.999237308904543
+The Hajj is a pilgrimage to Mecca.,The Hajj is a pilgrimage to Mecca.,91613eab18,1,1,0,1,0,0,0.9999998216551739,0.9999999712234648,0.9999998964393165
+The Himalayas are in Asia.,The Himalayas are in Asia.,fec3852e76,0,1,0,0,0,0,0.9999998454998852,0.9999993450498492,0.9999995952748358
+The Himalayas are massive and imposing.,The Himalayas are massive and imposing.,8c13a1afc7,0,1,0,0,0,0,0.9999991728355342,0.9999966738910535,0.9999979233625133
+The Himalayas stretch across five countries.,The Himalayas stretch across five countries.,241aa18a2f,0,1,0,0,0,0,0.8767443755581664,0.9615431427641353,0.9181653131517106
+The Iberian Peninsula includes Spain and Portugal.,The Iberian Peninsula includes Spain and Portugal.,04c494cb83,0,1,0,0,0,0,0.99999996378138,0.9999993450498488,0.9999996544155666
+The Industrial Revolution reshaped societies.,The Industrial Revolution reshaped societies.,9aa7026973,0,1,0,1,1,0,0.9999998467028917,0.9999992578442249,0.999999552273515
+The Kyoto Protocol targeted reducing greenhouse gases.,The Kyoto Protocol targeted reducing greenhouse gases.,25f05495f8,0,1,0,0,0,0,0.9999960471308567,0.9999989201698372,0.9999974836493152
+The Magna Carta established legal principles.,The Magna Carta established legal principles.,23cd4bf559,1,1,0,1,0,0,0.9954034440302328,0.9999479722090497,0.9976731205098871
+The Magna Carta was signed in 1215.,The Magna Carta was signed in 1215.,fdf6437521,1,1,0,1,0,0,0.9947877741065848,0.9999684432301789,0.9973747449267886
+The Maldives are paradise islands.,The Maldives are paradise islands.,3ed21d95b5,0,1,0,0,0,0,0.9978573490484544,0.9912881985377227,0.994567350125606
+The Manhattan Project created nuclear weapons.,The Manhattan Project created nuclear weapons.,998c23b620,0,1,0,0,0,0,0.999999378715238,0.9999991590274299,0.999999268871328
+The Mariana Trench is the deepest oceanic trench.,The Mariana Trench is the deepest oceanic trench.,520b64f626,0,1,0,0,0,0,0.999999732378838,0.9999962310286675,0.9999979817022203
+The Mediterranean Sea borders three continents.,The Mediterranean Sea borders three continents.,91b0411406,0,1,0,0,0,0,0.9913237734226811,0.9958753473904144,0.9935969541185646
+The Mona Lisa is a revered masterpiece.,The Mona Lisa is a revered masterpiece.,7f8a15ccfc,0,1,0,1,1,0,0.9999996542271155,0.9999982196613809,0.999998936943991
+The Mona Lisa is housed in the Louvre.,The Mona Lisa is housed in the Louvre.,94c2b1196a,0,1,0,1,0,0,0.9999984503565468,0.9999982196613179,0.9999983350089257
+The Netherlands features extensive canals.,The Netherlands features extensive canals.,88797a08b2,0,1,0,0,0,0,0.9999990741293209,0.9999945161854195,0.9999967951547732
+The Niagara Escarpment features numerous waterfalls.,The Niagara Escarpment features numerous waterfalls.,e466e1c9aa,0,1,0,0,0,0,0.9999835724474521,0.9994407904240675,0.9997121445986161
+The Nile Delta supports diverse ecosystems.,The Nile Delta supports diverse ecosystems.,abdd0c0667,0,1,0,0,0,0,0.9999471310291129,0.9999783112528078,0.9999627210194301
+The Nile flows through Egypt.,The Nile flows through Egypt.,e639d6fb24,0,1,0,0,0,0,0.9999999720064429,0.9999990470532275,0.9999995095297283
+The Nile is the longest river.,The Nile is the longest river.,e670b42ddb,0,1,0,0,0,0,0.9428940201822715,0.5388613731957334,0.712803736307172
+The Patagonian region is shared by Argentina and Chile.,The Patagonian region is shared by Argentina and Chile.,0b28bb27b6,0,1,0,0,0,0,0.9992905687254106,0.9999990470531884,0.9996447451243112
+The Pyrenees form a natural border.,The Pyrenees form a natural border.,03914bb0c8,0,1,0,0,0,0,0.9999350789093068,0.9980495251051302,0.998991857144689
+The Pythagorean theorem is used in geometry.,The Pythagorean theorem is used in geometry.,ccf160ac26,0,1,0,0,0,0,0.999999562103475,0.9999962310287008,0.999997896564701
+The Reformation challenged the Catholic Church.,The Reformation challenged the Catholic Church.,fea79b6fc5,1,1,0,1,1,0,0.9999935420961622,0.999997982612102,0.9999957623516673
+The Renaissance sparked cultural rebirth.,The Renaissance sparked cultural rebirth.,873329702d,1,1,0,1,1,0,0.9999792889394393,0.9999142223138527,0.9999467550974096
+The Rosetta Stone helped decipher Egyptian hieroglyphics.,The Rosetta Stone helped decipher Egyptian hieroglyphics.,d0d6ac64e4,0,1,0,0,0,0,0.9999995058439127,0.999997714000063,0.9999986099215865
+The Russian Revolution reshaped Russian politics.,The Russian Revolution reshaped Russian politics.,101aadb3e6,1,1,0,1,1,0,0.9999985590393018,0.9999995498593046,0.9999990544491805
+The Sahara's dunes stretch endlessly.,The Sahara's dunes stretch endlessly.,9945d528bd,0,1,0,0,0,0,0.9975934330691427,0.9901339795067443,0.9938567078882877
+The Scandinavian Peninsula includes Norway and Sweden.,The Scandinavian Peninsula includes Norway and Sweden.,bea7d6f6a1,0,1,0,0,0,0,0.9999994043883421,0.9999986134718398,0.9999990089300127
+The Serengeti hosts annual migration of wildebeest.,The Serengeti hosts annual migration of wildebeest.,4be96bcf85,0,1,0,0,0,0,0.8520276806943956,0.9997006375082883,0.9229152808166606
+The Serengeti hosts diverse wildlife.,The Serengeti hosts diverse wildlife.,50aa0c74fe,0,1,0,0,0,0,0.9999971970001361,0.9999883907864248,0.9999927938835868
+The Storming of the Bastille was revolutionary.,The Storming of the Bastille was revolutionary.,d10cc576c7,1,0,0,1,1,0,0.9999941054528239,0.999995729192594,0.9999949173223794
+The Taj Mahal is in India.,The Taj Mahal is in India.,7ff0a08d0b,0,1,0,0,0,0,0.9999999096243052,0.9999995498593037,0.9999997297417883
+The Taj Mahal was built in the 17th century.,The Taj Mahal was built in the 17th century.,fd72b9fda6,0,1,0,0,0,0,0.9993070318806133,0.9999331954967656,0.9996200646599537
+The Treaty of Versailles ended World War I.,The Treaty of Versailles ended World War I.,b99585a80d,0,1,0,1,0,0,0.9999647321748297,0.9999594804653543,0.9999621063166444
+"The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.","The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.",c09399cdbb,0,1,0,0,0,0,0.9999996990384086,0.9999986134707265,0.9999991562544203
+The Vedas are ancient Hindu scriptures.,The Vedas are ancient Hindu scriptures.,bb622efbf9,0,1,0,1,0,0,0.9999853292754115,0.9999997269758762,0.9999925280997319
+The Wright brothers' flight initiated aviation.,The Wright brothers' flight initiated aviation.,d10bf7f747,0,1,0,0,0,0,0.999990683244614,0.9999410450001519,0.999965863814378
+The apple of my eye.,The apple of my eye.,3531c49a00,0,1,0,1,1,0,0.7364542923730384,0.0916335583389668,0.2597766874916749
+The assassination of Archduke Franz Ferdinand sparked World War I.,The assassination of Archduke Franz Ferdinand sparked World War I.,f496454ea6,1,1,0,1,1,0,0.9999846992458795,0.99997542347261,0.9999800613484896
+The city of Jerusalem holds religious significance.,The city of Jerusalem holds religious significance.,5c6a8a0648,0,1,0,1,0,0,0.9999999677581277,1.0,0.9999999838790637
+The defeat of the Spanish Armada marked England's naval dominance.,The defeat of the Spanish Armada marked England's naval dominance.,e74624b841,0,1,0,1,1,0,0.9893089946996362,0.9988165237368536,0.9940513925283199
+The development of the steam engine powered industrialization.,The development of the steam engine powered industrialization.,741d1644c5,0,1,0,1,1,0,0.9999959409143424,0.9999993450498221,0.9999976429806338
+The discovery of DNA revolutionized biology.,The discovery of DNA revolutionized biology.,d72c7e73b1,0,1,0,0,0,0,0.9999970578880936,0.9999868450658715,0.9999919514639447
+The discovery of penicillin changed medicine.,The discovery of penicillin changed medicine.,fc7280b5a5,0,1,0,0,0,0,0.9999999738305914,0.9999999390800807,0.9999999564553358
+The end of apartheid marked new eras.,The end of apartheid marked new eras.,f93a5ba1c9,1,0,0,1,1,0,0.999881384250811,0.9996607849140727,0.9997710784980406
+The fall of Constantinople changed European history.,The fall of Constantinople changed European history.,e7316ff4a0,0,0,0,1,1,0,0.9999998578372096,0.999995729196526,0.999997793514737
+The human body has 206 bones.,The human body has 206 bones.,0633086462,0,1,0,0,0,0,0.9999972605828025,0.9999831087621994,0.9999901846474665
+The human genome project has mapped all the genes.,The human genome project has mapped all the genes.,cc71fdfce8,0,1,0,0,0,0,0.937051891093791,0.688571423965018,0.8032603282744422
+The light bulb was invented by Thomas Edison.,The light bulb was invented by Thomas Edison.,ea6968acaa,0,1,0,1,0,0,0.9629341754165418,0.8562651652278178,0.9080346859104875
+The moon affects ocean tides.,The moon affects ocean tides.,22b3a53b4d,0,1,0,0,0,0,0.9999998746967846,0.9999997590570379,0.9999998168769095
+The moon explodes.,The moon explodes.,f5f7ed34f6,0,1,0,0,0,0,0.9999998884388364,0.9999984288566596,0.9999991586474817
+The moon landing was in 1969.,The moon landing was in 1969.,fd1bce8527,0,1,0,0,0,0,0.9999998746967678,0.999999759057057,0.9999998168769106
+The more the merrier.,The more the merrier.,20aef632f3,1,1,0,1,1,0,0.9802204435802178,0.9203242794249135,0.9498003334467371
+The mountains stood as silent guardians.,The mountains stood as silent guardians.,a84b174ea0,0,1,0,1,1,0,0.9687904772161164,6.217248937900877e-15,7.760935230705371e-08
+The ocean is salty.,The ocean is salty.,97c53a1ae6,0,1,0,0,0,0,0.9999999690680235,0.9999999581303887,0.9999999635992061
+The order of operations standardizes calculations.,The order of operations standardizes calculations.,1522a726c7,0,1,0,1,0,0,0.99993685027428,0.9999883907968777,0.9999626202035133
+The pH of pure water is 7.,The pH of pure water is 7.,539d6a7f22,0,1,0,0,0,0,0.9968306092011325,0.9999868450546476,0.9984074799143599
+The pen is mightier than the sword.,The pen is mightier than the sword.,eb7f2e348a,0,0,0,1,1,0,0.9999761225330571,0.9999540854743295,0.9999651039429872
+The periodic table organizes chemical elements.,The periodic table organizes chemical elements.,dde9fb4810,0,1,0,0,0,0,0.9999999758136342,0.9999997873685749,0.9999998815911001
+The printing press facilitated widespread literacy.,The printing press facilitated widespread literacy.,9a16d7a0ae,0,1,0,1,0,0,0.9999997982986477,0.9999997269758598,0.9999997626372531
+The printing press was invented by Gutenberg.,The printing press was invented by Gutenberg.,bd20a25314,0,1,0,0,0,0,0.9999989415448857,0.9999850935162723,0.9999920175066078
+The signing of the Magna Carta was a landmark event.,The signing of the Magna Carta was a landmark event.,0d3e6d355f,1,1,0,1,1,0,0.9999939551205499,0.999972151196106,0.9999830530989006
+The square root of 16 is 4.,The square root of 16 is 4.,fd14679f38,0,1,0,0,0,0,0.9999998262916429,0.999999853860702,0.9999998400761724
+The squeaky wheel gets the grease.,The squeaky wheel gets the grease.,02a1f85f14,0,0,0,1,1,0,0.9999965433227946,0.9999850935163238,0.9999908184031718
+The standard deviation measures data variability.,The standard deviation measures data variability.,b330d633a4,0,1,0,0,0,0,0.9989683424290626,0.9999977140004338,0.9994828956955017
+"The value of π (pi) is approximately 3.14159.
+
+Consistent sleep patterns improve cognitive function.","The value of π (pi) is approximately 3.14159.
+
+Consistent sleep patterns improve cognitive function.",9cb2726235,0,1,0,0,0,0,0.9999980225594826,0.9999721512141283,0.9999850868031384
+The value of π is approximately 3.14.,The value of π is approximately 3.14.,50d3d87b7c,0,1,0,0,0,0,0.9999993540109909,0.9999966738909047,0.99999801395005
+"The water cycle involves evaporation, condensation, and precipitation.","The water cycle involves evaporation, condensation, and precipitation.",0e219ebd09,0,1,0,0,0,0,0.9999999984086636,0.9999999712234666,0.999999984816065
+The water cycle sustains ecosystems.,The water cycle sustains ecosystems.,f16601c4dc,0,1,0,0,0,0,0.9999899022573627,0.9999998710325256,0.9999948866325221
+The works of Mozart remain influential.,The works of Mozart remain influential.,3443b24be1,1,0,0,1,1,0,0.9999995278122553,0.9999977140025335,0.9999986209069832
+The yin-yang symbol represents balance in Taoism.,The yin-yang symbol represents balance in Taoism.,aede2806b0,0,1,0,1,0,0,0.9999990729755495,0.9999957291968466,0.9999974010848005
+Their friendship was an unbreakable chain.,Their friendship was an unbreakable chain.,ef5c82248b,1,1,0,1,1,0,0.9473022666862679,0.49548314170024554,0.6851075121741667
+Their teamwork was a well-oiled machine.,Their teamwork was a well-oiled machine.,00c38f7ff4,1,0,0,1,1,0,0.9999811163429151,0.9999142220855345,0.9999476686548403
+Theology explores the nature of divinity.,Theology explores the nature of divinity.,79283d73fc,1,0,0,1,1,0,0.9999993654918481,0.9999996027522381,0.999999484122036
+Theosophy seeks divine wisdom.,Theosophy seeks divine wisdom.,44f7477e9c,1,0,0,1,1,0,0.9854186273122014,0.9947069209501427,0.9900518817822812
+There are seven continents on Earth.,There are seven continents on Earth.,c64702b3d7,0,1,0,0,0,0,0.9999998558604227,0.999999834402465,0.9999998451314438
+Thorough analysis generates solutions.,Thorough analysis generates solutions.,c3e48a62e3,1,1,0,1,1,0,0.9999352837609626,0.9999594804613456,0.9999473820379653
+Thorough analysis prevents missteps.,Thorough analysis prevents missteps.,729dfa96a4,1,0,0,1,1,0,0.9999882027477899,0.9999479722089551,0.999968087276054
+Thorough reviews ensure accuracy.,Thorough reviews ensure accuracy.,478ced5a79,1,1,0,1,1,0,0.9999994067088532,0.9999966738911983,0.9999980402990922
+Thoughtful gestures show care.,Thoughtful gestures show care.,861b87d0a8,1,1,0,1,1,1,0.9999997868731921,0.9999998995600196,0.9999998432166043
+Tidy spaces enhance focus.,Tidy spaces enhance focus.,84ac6e84e7,0,1,0,1,1,0,0.9999997656108686,0.9999989201698753,0.9999993428902826
+Time heals all wounds.,Time heals all wounds.,aaa8b9b83f,0,0,0,1,1,0,0.7984480390368316,0.9989555123355627,0.8930924195789389
+Time is money.,Time is money.,610a881a6f,1,1,0,1,1,0,0.9999526894828393,0.9997006378306627,0.9998266557141198
+Timely feedback enhances performance.,Timely feedback enhances performance.,4a169c1d7c,0,1,0,1,0,0,0.9999998771715969,0.9999989201698891,0.9999993986706286
+Timely meals regulate metabolism.,Timely meals regulate metabolism.,3fd0fe7381,0,1,0,0,0,0,0.9708912020448098,0.9991864586560479,0.9849372273964808
+Timely responses are respectful.,Timely responses are respectful.,cdb1631f90,1,1,0,1,1,1,0.999999960923798,0.9999997590570294,0.9999998599904086
+Tipping in restaurants is customary.,Tipping in restaurants is customary.,b2b80ea8f0,1,1,0,1,0,0,0.999999946842239,1.0,0.9999999734211191
+To each their own.,To each their own.,1c05961dad,1,1,0,1,1,0,0.9999997974908867,0.9999974096257971,0.9999986035576292
+Too many cooks spoil the broth.,Too many cooks spoil the broth.,0fa562e5e5,0,1,0,1,1,0,0.9999996845582192,0.9999984288566081,0.9999990567072166
+Travel guides provide tips on destinations.,Travel guides provide tips on destinations.,61ed0a6bbc,0,1,0,1,0,0,0.9999999919641506,0.9999999390800705,0.9999999655221101
+Traveling solo builds independence and confidence.,Traveling solo builds independence and confidence.,1b3e908965,1,1,0,1,1,0,0.9999998776618272,0.9999998344024881,0.9999998560321574
+Trees absorb carbon dioxide.,Trees absorb carbon dioxide.,55a9d507cf,0,1,0,0,0,0,0.9999998689424813,0.9999999462383559,0.9999999075904178
+Trees lose leaves in fall.,Trees lose leaves in fall.,72f561bb69,0,1,0,0,0,0,0.9999194117991647,0.9999831087496718,0.9999512597672308
+Trees produce oxygen.,Trees produce oxygen.,b8cf2acfb4,0,1,0,0,0,0,0.9999999275874903,0.9999996494300653,0.9999997885087681
+Trees provide habitats for wildlife.,Trees provide habitats for wildlife.,0232e9d6e2,0,1,0,0,0,0,0.9999999911378252,0.9999999581303887,0.9999999746341068
+Trees provide shade and beauty.,Trees provide shade and beauty.,3b75d68a11,0,1,0,0,0,0,0.9999999954701616,0.9999999927241525,0.999999994097157
+Trees sway with the wind.,Trees sway with the wind.,295827026b,0,1,0,0,0,0,0.9999998817184991,0.9999994899242626,0.9999996858213616
+Trees whisper soothing sounds.,Trees whisper soothing sounds.,e28e05135f,0,1,0,1,1,0,0.9854186254649641,0.9373864692054323,0.9611025366805942
+Trigonometry studies angles and sides of triangles.,Trigonometry studies angles and sides of triangles.,8f54d8b3ca,0,1,0,0,0,0,0.9999998066331461,0.9999995498593441,0.9999996782462369
+Tropical rainforests are lush and green.,Tropical rainforests are lush and green.,0962d0ca75,0,1,0,0,0,0,0.9999999537568889,0.9999998344024925,0.9999998940796889
+Truth tables outline logical operations.,Truth tables outline logical operations.,0a1b30fa05,0,1,0,1,0,0,0.731064285627786,0.9999783112522185,0.8550137015035976
+Turkey's Cappadocia is surreal and captivating.,Turkey's Cappadocia is surreal and captivating.,4741c84b70,0,1,0,0,1,0,0.9977577431561513,0.9990781084897556,0.99841770755704
+Turkey's Cappadocia region features unique rock formations.,Turkey's Cappadocia region features unique rock formations.,ca70b910c4,0,1,0,0,0,0,0.9995191055182359,0.9999721511943865,0.9997456026934849
+Turn lights off to save energy.,Turn lights off to save energy.,a612e081f2,0,1,0,1,0,0,0.9999999707571527,0.9999999880041561,0.9999999793806544
+Turning off notifications reduces distractions.,Turning off notifications reduces distractions.,eac1776065,0,1,0,1,0,0,0.9999999738306032,0.999999834402493,0.9999999041165457
+Two plus two equals four.,Two plus two equals four.,18eb2ed3ac,0,1,0,0,0,0,0.9999999987498471,0.9999999949993885,0.9999999968746178
+Typing clean prevents germs.,Typing clean prevents germs.,40eb687617,0,1,0,1,0,0,0.9943495042915045,0.9699207492779258,0.9820591714589046
+USA spans multiple time zones.,USA spans multiple time zones.,da39f2f866,0,1,0,0,0,0,0.9999999801761027,0.9999999113620401,0.9999999457690708
+Ukraine's cathedral spires are impressive.,Ukraine's cathedral spires are impressive.,5299a6a315,0,1,0,1,0,0,0.9746692123257504,0.9974946661929406,0.9860158926697941
+Understanding gravity helps explain planetary orbits.,Understanding gravity helps explain planetary orbits.,523070ef6a,0,1,0,0,0,0,0.9999999239055357,0.9999974096229314,0.9999986667634433
+Understanding precedes ethical action.,Understanding precedes ethical action.,e632ca596e,1,0,0,1,1,1,0.9201210582665957,0.688571131089054,0.795970349843188
+Unified prayers hold power.,Unified prayers hold power.,39be9675ff,1,0,0,1,1,0,0.9752122161334671,0.8988659493547133,0.9362612106015729
+Unity is strength.,Unity is strength.,4905fed739,1,0,0,1,1,0,0.9999997404541535,0.999998219661547,0.9999989800575612
+Universalism believes in universal salvation.,Universalism believes in universal salvation.,a34cba3870,1,0,0,1,1,0,0.9629036069248929,0.9990781883181071,0.9808241387381801
+Uplifting others builds morale.,Uplifting others builds morale.,25e59bd6d7,1,0,0,1,1,1,0.9999999420873513,0.9999998344027998,0.9999998882450741
+Use data to inform decisions.,Use data to inform decisions.,57c7d01595,1,1,0,1,1,0,0.9999996994134216,0.9999994220085382,0.9999995607109703
+Using hand sanitizer helps kill germs.,Using hand sanitizer helps kill germs.,4c7a70ffeb,0,1,0,0,0,0,0.9999999045185816,0.9999997269758558,0.9999998157472147
+Using planners improves organization.,Using planners improves organization.,69015b88fe,0,1,0,1,0,0,0.999998811158657,0.9999929586479033,0.9999958848989986
+Using please shows respect.,Using please shows respect.,45e8469c90,1,1,0,1,1,1,0.9999996080729148,0.9999982196610314,0.9999989138667321
+Using sunscreen protects the skin.,Using sunscreen protects the skin.,5f1dacb3da,0,1,0,0,0,0,0.9999990773117494,0.9999999217772688,0.99999949954442
+Using timers helps manage time.,Using timers helps manage time.,fc3a30bd80,0,1,0,1,0,0,0.9999998575613201,0.9999989201697772,0.9999993888654388
+VR creates immersive experiences.,VR creates immersive experiences.,b511ef423f,0,1,0,1,0,0,0.9999987524048151,0.9999987763922257,0.9999987643985203
+Vacuuming keeps the carpet clean.,Vacuuming keeps the carpet clean.,0402669231,0,1,0,1,0,0,0.9999998745402414,0.9999989201697035,0.9999993973548585
+Valid concerns merit attention.,Valid concerns merit attention.,a1659f8424,1,1,0,1,1,0,0.9999999137731952,0.9999970647207227,0.9999984892459444
+Validation enhances self-worth.,Validation enhances self-worth.,07219d58b6,1,0,0,1,1,1,0.9999987164603606,0.9999989201699548,0.9999988183151526
+Valuing input promotes inclusiveness.,Valuing input promotes inclusiveness.,b25ec8567b,1,0,0,1,1,1,0.999994798073686,0.9999754234709061,0.9999851107253734
+Van Gogh’s Starry Night is a masterpiece.,Van Gogh’s Starry Night is a masterpiece.,4864eba267,0,1,0,1,1,0,0.9999985910007751,0.9999937860211456,0.9999961885080744
+Variables represent unknowns in equations.,Variables represent unknowns in equations.,cfb9a0a967,0,1,0,0,0,0,0.9999946873624711,0.9999966738936181,0.9999956806275513
+Vector spaces have direction and magnitude.,Vector spaces have direction and magnitude.,050a34e889,0,1,0,0,0,0,0.9981132447467964,0.9912882095450223,0.9946948734703644
+Venice has many canals.,Venice has many canals.,221052e2a1,0,1,0,0,0,0,0.9999998831740889,0.9999993450498785,0.9999996141119475
+Venn diagrams illustrate set relationships.,Venn diagrams illustrate set relationships.,7fb11ab548,0,1,0,0,0,0,0.9999988894482038,0.9999996027522403,0.9999992461001584
+Verifying facts strengthens arguments.,Verifying facts strengthens arguments.,f48f651b43,1,1,0,1,1,0,0.9999999806137092,0.99999972697585,0.9999998537947716
+Verifying information enhances credibility.,Verifying information enhances credibility.,8653921417,1,1,0,0,0,0,0.999999928864422,0.9999995498601888,0.9999997393622875
+Victoria Falls is located between Zambia and Zimbabwe.,Victoria Falls is located between Zambia and Zimbabwe.,ffe71da5ce,0,1,0,0,0,0,0.9959318675070816,0.9999920210968761,0.99795987948574
+Vincent van Gogh painted Starry Night.,Vincent van Gogh painted Starry Night.,2ee9fcf00a,0,1,0,1,1,0,0.9999999849018151,0.9999997269758505,0.9999998559388245
+Virtual meetings connect dispersed teams.,Virtual meetings connect dispersed teams.,b1bfa1ddbc,0,1,0,1,0,0,0.9999999407370935,0.9999994899243025,0.9999997153306727
+Visiting art galleries broadens horizons.,Visiting art galleries broadens horizons.,289bc044a1,1,1,0,1,1,0,0.9999985910008676,0.999999422007968,0.9999990065043315
+Visiting farmers’ markets fosters local support.,Visiting farmers’ markets fosters local support.,79369fe0f1,1,1,0,1,1,0,0.9999999811985429,0.9999998710325323,0.9999999261155361
+Visiting parks for picnics creates joyful memories.,Visiting parks for picnics creates joyful memories.,4b05fd5d5d,0,1,0,1,1,0,0.9999999853302267,0.9999998710325243,0.9999999281813738
+Volcanoes erupt with lava.,Volcanoes erupt with lava.,4d9549bb41,0,1,0,0,0,0,0.9999980102190587,0.9999897549011613,0.9999938825515912
+Volunteering at shelters builds compassion.,Volunteering at shelters builds compassion.,e3d52d934c,1,1,0,1,1,0,0.9999999841893105,0.9999999113620428,0.999999947775676
+Volunteering builds community.,Volunteering builds community.,12e0e427d8,1,1,0,1,1,1,0.9999999594371561,0.9999999746047964,0.9999999670209763
+Voting is a civic responsibility.,Voting is a civic responsibility.,924bb82fc9,1,0,0,1,1,0,0.9999995278119963,0.9999996027529837,0.9999995652824893
+WWI began in 1914.,WWI began in 1914.,3c8a8d59a4,1,1,0,1,0,0,0.9999873856557313,0.9999984288580549,0.9999929072416489
+Waits for no man.,Waits for no man.,c62ad4234e,1,0,0,1,1,1,0.9844864426407441,0.9293492976308825,0.9565206657439773
+Walking barefoot on grass feels grounding.,Walking barefoot on grass feels grounding.,f4ef9c4e0f,0,1,0,1,1,0,0.9989825093628083,0.9999410449529218,0.9994616622472012
+Walking boosts energy.,Walking boosts energy.,adfd9ce574,0,1,0,0,0,0,0.9999986819200269,0.9999909587289856,0.9999948203170502
+Walking dogs offers mutual exercise.,Walking dogs offers mutual exercise.,65f47dbd7e,0,1,0,1,1,0,0.9999991425409107,0.9999957291954442,0.9999974358667211
+Walking is a stress reliever.,Walking is a stress reliever.,0164eae2e8,0,1,0,1,0,0,0.9999986528665694,0.999997409623081,0.999998031244632
+Warm tea fosters relaxation.,Warm tea fosters relaxation.,f1b603e0dc,0,1,0,0,0,0,0.9999954093148793,0.9999783112683837,0.9999868602550881
+Warmth in interactions invites trust.,Warmth in interactions invites trust.,f1fe8f0d32,1,1,0,1,1,1,0.9999999883305379,0.9999996494300817,0.9999998188802954
+"Waste not, want not.","Waste not, want not.",620db77a5b,1,0,0,1,1,1,0.9999997705263045,0.9999970647186519,0.999998417621563
+Water boils at 100 degrees Celsius.,Water boils at 100 degrees Celsius.,67dca20bb0,0,1,0,0,0,0,0.9999761225335733,0.9998585800797575,0.9999173495794941
+Water expands when it freezes.,Water expands when it freezes.,2912f02e9a,0,1,0,0,0,0,0.9998431174839575,0.999993786020309,0.9999184489142758
+Water lubricates joints.,Water lubricates joints.,4af575a63f,0,1,0,0,0,0,0.9965615556596621,0.976495518669492,0.9864775178279318
+Water molecules expand when frozen.,Water molecules expand when frozen.,6e7c80dfd4,0,1,0,0,0,0,0.9998626253778174,0.9997358090974409,0.9997992152269293
+Water's chemical formula is H2O.,Water's chemical formula is H2O.,9bdc7c2b4e,0,1,0,0,0,0,0.9999999719521401,0.999999787368594,0.9999998796603627
+Wearable tech monitors health metrics.,Wearable tech monitors health metrics.,679f825314,0,1,0,1,0,0,0.9999998385958615,0.999999422008429,0.9999996303021235
+Wearables can monitor vital signs.,Wearables can monitor vital signs.,c224282eb5,0,1,0,0,0,0,0.9999970578878362,0.9999986134707611,0.9999978356789961
+Wearing a seatbelt saves lives.,Wearing a seatbelt saves lives.,58c544c85e,0,1,0,1,0,0,0.9999999804928027,0.9999999775888139,0.9999999790408083
+Wearing comfortable shoes prevents foot pain.,Wearing comfortable shoes prevents foot pain.,f01e9cdc38,0,1,0,1,0,0,0.9999998745402863,0.9999989201698807,0.9999993973549696
+Wearing supportive footwear improves posture.,Wearing supportive footwear improves posture.,55a19e6764,0,1,0,1,0,0,0.9999914051913245,0.9999754234714616,0.9999834142994656
+Weather forecasts predict upcoming conditions.,Weather forecasts predict upcoming conditions.,eb74f54850,0,1,0,0,0,0,0.9999999684096907,0.9999998538609645,0.9999999111353259
+Weather patterns influence agriculture.,Weather patterns influence agriculture.,cb1dec146e,0,1,0,0,0,0,0.9999999895554872,0.9999999525555131,0.9999999710555
+Welcoming guests warmly is hospitable.,Welcoming guests warmly is hospitable.,be31fa7a45,1,1,0,1,1,1,0.9999999539034516,0.9999999113620264,0.9999999326327388
+Well-known landmarks foster tourism.,Well-known landmarks foster tourism.,53b6b537bf,0,1,0,1,1,0,0.999999999999962,0.9999999217772706,0.9999999608886155
+Whales are mammals.,Whales are mammals.,9dba371c04,0,1,0,0,0,0,0.9999914069448742,0.9999986134708229,0.9999950102013567
+"When it rains, it pours.","When it rains, it pours.",d600bf77c3,0,0,0,0,0,0,0.9946321773338312,0.973407800120296,0.9839627633540737
+When pigs fly.,When pigs fly.,4ef773b7c8,0,1,0,0,0,0,0.9986811227779602,0.9999754234682171,0.9993280635805267
+Wind carries seeds to new locations.,Wind carries seeds to new locations.,b3a075e6f4,0,1,0,0,0,0,0.999999842914386,0.9999998861865983,0.999999864550492
+Wisdom comes with age.,Wisdom comes with age.,4b3c116f77,1,0,0,1,1,0,0.9796824113792972,0.920324303838911,0.9495396427932208
+Wisdom sayings often offer guidance.,Wisdom sayings often offer guidance.,79526e7bd8,1,0,0,1,1,0,0.9999999202437266,0.9999996027522199,0.9999997614979607
+Words carry weight.,Words carry weight.,c14058004b,1,0,0,1,1,0,0.9999999045184688,0.9999993450498235,0.999999624784107
+Words have power.,Words have power.,d7915a7245,1,1,0,1,1,0,0.9999999899176198,0.9999998710325172,0.9999999304750667
+Worker bees contribute to the hive.,Worker bees contribute to the hive.,83968b71d6,0,1,0,0,0,0,0.9999997978654439,0.999999422008512,0.9999996099369602
+World War I began in 1914.,World War I began in 1914.,f63fefb234,0,1,0,1,0,0,0.9999959400579979,0.9999721511901944,0.9999840455533563
+World Wars reshaped global politics.,World Wars reshaped global politics.,060290a18c,1,1,0,1,1,0,0.9999998406258522,0.9999999825461493,0.9999999115859982
+Writing lists organizes tasks.,Writing lists organizes tasks.,1af396434d,1,1,0,1,0,0,0.9999999970494972,0.9999998995600275,0.9999999483047611
+Yarn can be woven into fabric.,Yarn can be woven into fabric.,c84c9cff67,0,1,0,1,0,0,0.9999996784775442,0.9999998995600275,0.9999997890187798
+Yoga enhances inner peace.,Yoga enhances inner peace.,69bbf824b6,0,1,0,1,0,0,0.999999999996616,0.9999850935156395,0.9999925467283521
+You only live once.,You only live once.,6b48b61807,1,1,0,1,1,0,0.9999992780575472,0.9999783112522713,0.9999887945999578
+Zoroastrian temples have eternal flames.,Zoroastrian temples have eternal flames.,78157fc97f,0,1,0,1,0,0,0.9906546430398796,0.9565347896572501,0.9734452375984637
+feeling blue; feeling sad.,feeling blue; feeling sad.,aac5645ba5,1,1,0,1,1,0,0.9999887208074496,0.9999783112731837,0.9999835160267716
+walking on eggshells; being overly cautious.,walking on eggshells; being overly cautious.,fdaa1be572,1,0,0,1,1,0,0.9998222481453997,0.996786246321306,0.9983030931121982

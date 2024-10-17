@@ -1,0 +1,61 @@
+statement,drop,length,statement_r,hash,behavior,everyday,figure_of_speech,judgment,opinion,reasoning,awareness,consensus,commonsensicality
+Time heals all wounds.,,22,Time heals all wounds.,aaa8b9b83f,0,0,0,1,1,0,0.798448039,0.998955512,0.89309242
+A rising tide lifts all boats.,,30,A rising tide lifts all boats.,f7d16a69eb,0,0,0,1,1,0,0.982171619,0.929346834,0.955394204
+Societal progress relies on equitable distribution of resources.,,64,Societal progress relies on equitable distribution of resources.,76e2310177,0,0,0,1,1,0,0.999129013,0.999839752,0.999484319
+Every rose has its thorn.,,25,Every rose has its thorn.,a1626d679c,0,0,0,1,1,0,0.99995628,0.99944079,0.999698502
+Mathematics reveals universal truths.,,37,Mathematics reveals universal truths.,e3f60fc2ad,0,0,0,1,1,0,0.999458701,0.999954085,0.999706362
+Digital transformation reshapes industries.,,36,Shooting for the stars; aiming high.,f5a7b12829,0,0,0,1,1,0,0.999949394,0.99956446,0.999756909
+Bridges connect communities and ideas.,,38,Bridges connect communities and ideas.,ecd5e6955b,0,0,0,1,1,0,0.999961484,0.999735809,0.99984864
+The pen is mightier than the sword.,,35,The pen is mightier than the sword.,eb7f2e348a,0,0,0,1,1,0,0.999976123,0.999954085,0.999965104
+The squeaky wheel gets the grease.,,34,The squeaky wheel gets the grease.,02a1f85f14,0,0,0,1,1,0,0.999996543,0.999985094,0.999990818
+Precision in language ensures clarity.,,38,Precision in language ensures clarity.,fdf63a34d8,0,0,0,1,1,0,0.999999433,0.999992021,0.999995727
+Artificial intelligence transforms industries.,,46,Artificial intelligence transforms industries.,a508e25ec7,0,0,0,1,1,0,0.999999294,0.999995161,0.999997228
+Metaphors create vivid imagery in language.,,43,Metaphors create vivid imagery in language.,8d9fc3fc4e,0,0,0,1,1,0,0.999999364,0.999996231,0.999997797
+Architecture shapes our built environment.,,42,Architecture shapes our built environment.,1ae62a08b2,0,0,0,1,1,0,0.99999674,0.999999886,0.999998313
+Berlin Wall falling symbolized new freedoms.,,44,Berlin Wall falling symbolized new freedoms.,e2e099470a,0,0,0,1,1,0,0.999999839,0.999998613,0.999999226
+Sculpture can memorialize history.,,34,Sculpture can memorialize history.,2c3e359579,0,0,0,1,1,0,0.999999962,0.999999939,0.999999951
+Figurative art represents human forms.,,38,Figurative art represents human forms.,cf5d4c81b1,0,1,0,1,0,0,0.974726371,0.169389889,0.406335811
+Blockchain ensures secure transactions.,,39,Blockchain ensures secure transactions.,0856d3a29e,0,1,0,1,0,0,0.995574057,0.920324313,0.957210013
+Efficient algorithms optimize performance.,,42,Efficient algorithms optimize performance.,cec75ba053,0,1,0,1,0,0,0.996414291,0.999968443,0.998189785
+Stars fill the night sky.,,25,Stars fill the night sky.,3e5aab6605,0,1,0,1,0,0,1,0.99956446,0.999782206
+Grammar rules structure languages.,,34,Grammar rules structure languages.,67fd819b20,0,1,0,1,0,0,0.999983977,0.999978311,0.999981144
+Artificial intelligence personalizes user experiences.,,54,Artificial intelligence personalizes user experiences.,f4777788f6,0,1,0,1,0,0,0.999993053,0.999996231,0.999994642
+Many faiths include anointing rituals.,,38,Many faiths include anointing rituals.,a887b06a2c,0,1,0,1,0,0,0.999999071,0.999996674,0.999997873
+Nikola Tesla contributed significantly to electricity and magnetism.,,68,Nikola Tesla contributed significantly to electricity and magnetism.,07100cb93a,0,1,0,1,0,0,0.999998685,0.999999047,0.999998866
+Michelangelo painted the Sistine Chapel ceiling.,,48,Michelangelo painted the Sistine Chapel ceiling.,8dac608237,0,1,0,1,0,0,0.999999698,0.99999892,0.999999309
+Soft lighting creates a calming ambiance.,,41,Soft lighting creates a calming ambiance.,b7150badf5,0,1,0,1,0,0,0.999999968,0.999999047,0.999999508
+Technology drives modern communication.,,39,Technology drives modern communication.,505612080f,0,1,0,1,0,0,0.999999916,0.999999422,0.999999669
+Social dancing combines exercise and socialization.,,51,Social dancing combines exercise and socialization.,5fff4b5ef5,0,1,0,1,0,0,0.999999976,0.999999691,0.999999833
+Regular check-ups are important.,,32,Regular check-ups are important.,0f4f48a71f,0,1,0,1,0,0,0.999999971,0.999999871,0.999999921
+Electricity powers modern technology.,,37,Electricity powers modern technology.,e53dfe61d7,0,1,0,1,0,0,0.999999996,0.999999922,0.999999959
+Dictionaries are useful for word meanings.,,42,Dictionaries are useful for word meanings.,98d71c9751,0,1,0,1,0,0,0.999999991,0.999999996,0.999999993
+The mountains stood as silent guardians.,,40,The mountains stood as silent guardians.,a84b174ea0,0,1,0,1,1,0,0.968790477,6.217248937900881e-15,7.76093523070537e-08
+A watched pot never boils.,,26,A watched pot never boils.,8ee0c858a7,0,1,0,1,1,0,0.935128877,0.956535061,0.945771409
+Fresh sheets promise restful sleep.,,35,Fresh sheets promise restful sleep.,3ffb0e5456,0,1,0,1,1,0,0.999095911,0.996359117,0.997726576
+Journaling clears the mind.,,27,Journaling clears the mind.,63da3860d6,0,1,0,1,1,0,0.999862625,0.999735809,0.999799215
+Painting captures moments in time.,,34,Painting captures moments in time.,09ed0fcf95,0,1,0,1,1,0,0.999976191,0.999985094,0.999980642
+"Clean space, clear mind.",,24,"Clean space, clear mind.",43bfd74bd7,0,1,0,1,1,0,0.999997216,0.999986845,0.99999203
+Stop and smell the roses.,,25,Stop and smell the roses.,049aad1aa9,0,1,0,1,1,0,0.999994763,0.999999258,0.999997011
+Scenic drives relax the mind.,,29,Scenic drives relax the mind.,11bf73c8ed,0,1,0,1,1,0,0.999999018,0.999997714,0.999998366
+Spending time outdoors lifts the spirits.,,41,Spending time outdoors lifts the spirits.,b9a86e2928,0,1,0,1,1,0,0.999999676,0.999998613,0.999999144
+Tidy spaces enhance focus.,,26,Tidy spaces enhance focus.,84ac6e84e7,0,1,0,1,1,0,0.999999766,0.99999892,0.999999343
+Digital innovations transform businesses.,,41,Digital innovations transform businesses.,dfaa32fe98,0,1,0,1,1,0,0.999999927,0.999999258,0.999999592
+Photographers capture visual stories.,,37,Photographers capture visual stories.,59a1f2d1e5,0,1,0,1,1,0,0.999999934,0.999999422,0.999999678
+Leonardo da Vinci painted the Mona Lisa.,,40,Leonardo da Vinci painted the Mona Lisa.,5f6997107b,0,1,0,1,1,0,0.999999843,0.999999787,0.999999815
+Fair weather friends are unreliable.,,36,Fair weather friends are unreliable.,0397b0a48c,0,1,0,1,1,0,0.999999895,0.999999911,0.999999903
+Well-known landmarks foster tourism.,,36,Well-known landmarks foster tourism.,53b6b537bf,0,1,0,1,1,0,1,0.999999922,0.999999961
+Curiosity killed the cat.,,25,Curiosity killed the cat.,c29057ce49,1,0,0,1,1,1,0.682351357,0.128419991,0.296019518
+Understanding precedes ethical action.,,38,Understanding precedes ethical action.,e632ca596e,1,0,0,1,1,1,0.920121058,0.688571131,0.79597035
+Manners maketh man.,,19,Manners maketh man.,b0e08e3fdf,1,0,0,1,1,1,0.817619905,0.999818417,0.904141271
+"Finders keepers, losers weepers.",,32,"Finders keepers, losers weepers.",7617c41132,1,0,0,1,1,1,0.997757884,0.999078186,0.998417817
+Fortune favors the bold.,,24,Fortune favors the bold.,6dfb7a73b0,1,0,0,1,1,1,0.99980485,0.999078186,0.999441452
+"No pain, no gain.",,17,"No pain, no gain.",038ba609c5,1,0,0,1,1,1,0.999984699,0.999914222,0.99994946
+Absence makes the heart grow fonder.,,36,Absence makes the heart grow fonder.,6e80137a14,1,0,0,1,1,1,0.999997776,0.999989755,0.999993766
+Analysis of facts informs strategy.,,35,Analysis of facts informs strategy.,295bdf7ff5,1,0,0,1,1,1,0.999999028,0.999995161,0.999997094
+Knowledge dispels ignorance.,,28,Knowledge dispels ignorance.,ecf5f455af,1,0,0,1,1,1,0.999999111,0.999996231,0.999997671
+Validation enhances self-worth.,,31,Validation enhances self-worth.,07219d58b6,1,0,0,1,1,1,0.999998716,0.99999892,0.999998818
+Grasping at straws means making a desperate attempt.,,52,Grasping at straws means making a desperate attempt.,31376a2dc8,1,0,0,1,1,1,0.999999541,0.99999955,0.999999545
+Good manners open doors.,,24,Good manners open doors.,9431c28920,1,0,0,1,1,1,0.999999942,0.999999691,0.999999816
+Uplifting others builds morale.,,31,Uplifting others builds morale.,25e59bd6d7,1,0,0,1,1,1,0.999999942,0.999999834,0.999999888
+Educated guesses help make predictions.,,39,Educated guesses help make predictions.,f4ef925dc0,1,0,0,1,1,1,0.999999876,0.999999985,0.99999993
+Leading by example fosters trust.,,33,Leading by example fosters trust.,8e1fa9a2a4,1,0,0,1,1,1,0.999999988,0.999999994,0.999999991
