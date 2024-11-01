@@ -22,7 +22,6 @@ def show_groups_of_duplicates(directory):
         filepath = os.path.join(directory, filename)
         df = pd.read_csv(filepath)
         df['line_number'] = df.index + 2  # +2 to account for the header row and 0-based index
-        df['lng'] = os.path.basename(filename).split('_')[-1].split('.')[0]  
 
         duplicates = df[df.duplicated('statement', keep=False)] # filter duplicate statements found in each file
 
@@ -39,13 +38,13 @@ def show_groups_of_duplicates(directory):
                 group['source_file'] = filename  
                 group['group_number'] = group_number
                 group_number += 1
-                all_duplicates.append(group[['source_file', 'group_number', 'lng', 'line_number', 'statement']])
+                all_duplicates.append(group[['source_file', 'group_number', 'line_number', 'statement']])
         
             if all_duplicates:
                 result_df = pd.concat(all_duplicates)
 
                 # group by group number and merge line_number and statement columns into a dictionary
-                result_df = result_df.groupby(['source_file', 'group_number', 'lng']).apply(
+                result_df = result_df.groupby(['source_file', 'group_number']).apply(
                     lambda x: x.set_index('line_number')['statement'].to_dict(), include_groups=False 
                 ).reset_index().rename(columns={0: 'line_and_statement'})
 

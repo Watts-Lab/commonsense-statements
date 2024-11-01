@@ -4,13 +4,14 @@ import json
 import boto3
 from botocore.config import Config
 import sys
+import re
 
 # define the supported languages
 languages = ["ar", "bn", "es", "fr", "hi", "ja", "pt", "ru", "zh"]
 
 # set up credentials
-aws_access_key_id = os.environ["AWS_ACCESS_KEY_ID"]
-aws_secret_access_key = os.environ["AWS_SECRET_ACCESS_KEY"]
+aws_access_key_id = os.environ.get("AWS_ACCESS_KEY_ID")
+aws_secret_access_key = os.environ.get("AWS_SECRET_ACCESS_KEY")
 
 # set up configuration details
 my_config = Config(
@@ -75,15 +76,17 @@ def total_cost(directory):
     count = 0
     for filename in os.listdir(directory):
         count += 1
-        if filename.endswith(".csv") and (
-            filename.split(".")[0].split("_")[-1] in languages
-        ):
-            files_translated.add(
-                "_".join(filename.split(".")[0].split("_")[:-1]) + ".csv"
-            )
-            files_translated.add(filename)
+        lng_match = re.search(r'_([a-z]{2})(?:_cleaned)?\.csv$', filename) # extract language code from filename
+        lng = lng_match.group(1) if lng_match else None
+        if filename.endswith('.csv') and lng in languages:
+            match = re.search(r'(.*)_[a-z]{2}(?:_cleaned)?\.csv', filename) # extract the part before the language code
+            if match:
+                base = match.group(1)
+                files_translated.add(f'{base}_{lng}.csv') # files either have the _cleaned suffix or not
+                files_translated.add(f'{base}_{lng}_cleaned.csv')
+                files_translated.add(f'{base}_en.csv')
+                files_translated.add(f'{base}_en_cleaned.csv')
 
-    
     print("Translation Cost Calculation")
     print("----------------------------------------")
 
@@ -97,9 +100,7 @@ def total_cost(directory):
             df = pd.read_csv(filepath)
 
             # Amazon Translate pricing: https://aws.amazon.com/translate/pricing/
-            total_characters_for_file = df["statement"].apply(len).sum() * len(
-                languages
-            )
+            total_characters_for_file = df["statement"].apply(len).sum() * len(languages)
 
             try:
                 cost_per_character = get_price_per_character()
