@@ -4,10 +4,8 @@ from transformers import (
     AutoModelForSequenceClassification,
     AutoTokenizer,
 )
-from typing import Dict
 import os
 import pandas as pd
-import swifter
 from huggingface_hub import login
 
 
