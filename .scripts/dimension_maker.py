@@ -36,6 +36,7 @@ DIMENSIONS = [
     "reasoning",
 ]
 
+print(f"{bcolors.OKBLUE}Loading models...{bcolors.ENDC}")
 tokenizer = AutoTokenizer.from_pretrained(
     "CSSLab/commonsense-statement-dimension-reasoning", token=True
 )
@@ -49,6 +50,7 @@ for dimension in DIMENSIONS:
     )
     model.eval()
     MODELS[dimension] = model.to(DEVICE)
+    print(f"{bcolors.OKGREEN}Loaded model for {dimension}.{bcolors.ENDC}")
 
 
 def classify_text(text: str) -> pd.Series:
