@@ -3,11 +3,12 @@ import pandas as pd
 import boto3
 import argparse
 import swifter
+import re
 
 # set up credentials
-aws_access_key_id = os.environ["AWS_ACCESS_KEY_ID"]
-aws_secret_access_key = os.environ["AWS_SECRET_ACCESS_KEY"]
-region_name = "us-east-1"
+aws_access_key_id = os.environ.get('AWS_ACCESS_KEY_ID')
+aws_secret_access_key = os.environ.get('AWS_SECRET_ACCESS_KEY')
+region_name = 'us-east-1' 
 
 # initialize amazon translate client
 translate_client = boto3.client(
@@ -60,20 +61,20 @@ def translate_files(files, elicitation, committer):
         for lng in languages:
             print(f"Translating to {lng}...")
 
-            translated_statements = df["statement"].swifter.progress_bar(enable=True).apply(
-                translate_text, language=lng
-            )
-
-            total_characters += (
-                df["statement"].apply(len).sum()
-            )  # accumluate the total number of characters translated
+            translated_statements = df["statement"].swifter.progress_bar(enable=True).apply(lambda x: translate_text(x, lng))
+            total_characters += df['statement'].apply(len).sum() # accumluate the total number of characters translated
             translated_df = df.copy()
             translated_df["statement"] = translated_statements
             translated_df["elicitation"] = elicitation
             translated_df["committer"] = committer
 
-            filename = os.path.splitext(file)[0]
-            translated_file = f"{filename}_{lng}.csv"
+            basename = os.path.basename(file) # ie. raw_statements/email_statements_en.csv --> email_statements_en.csv
+            match = re.search(r'(.*)_[a-z]{2}(?:_cleaned)?\.csv', basename) # extract the part before the language code
+            if match:
+                filename = match.group(1)
+            else:
+                filename = None
+            translated_file = f'raw_statements/{filename}_{lng}.csv' # e.g. raw_statements/email_statements_ar.csv
             translated_df.to_csv(translated_file, index=False)
             print(f"Translated {file} to {lng} and saved as {translated_file}")
 
