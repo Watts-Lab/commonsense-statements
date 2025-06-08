@@ -1,16 +1,13 @@
-import torch
-import gradio as gr
-from transformers import (
-    AutoModelForSequenceClassification,
-    AutoTokenizer,
-)
+import hashlib
 import os
-import swifter
+
+import gradio as gr
 import pandas as pd
+import swifter
+import torch
+from dimension_checker import get_unique_rows_by_hash, process_files
 from huggingface_hub import login
-
-
-from dimension_checker import process_files, get_unique_rows_by_hash
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 
 class bcolors:
@@ -37,19 +34,45 @@ DIMENSIONS = [
 ]
 
 print(f"{bcolors.OKBLUE}Loading models...{bcolors.ENDC}")
+
+# Cache directory for models - GitHub Actions compatible
+CACHE_DIR = os.path.expanduser("~/.cache/huggingface/transformers")
+os.makedirs(CACHE_DIR, exist_ok=True)
+
+
+# Create a cache key based on model names for GitHub Actions caching
+def get_cache_key():
+    model_names = ["CSSLab/commonsense-statement-dimension-reasoning"] + [
+        f"CSSLab/commonsense-statement-dimension-{dim}" for dim in DIMENSIONS
+    ]
+    cache_string = "|".join(sorted(model_names))
+    return hashlib.md5(cache_string.encode()).hexdigest()[:8]
+
+
+CACHE_KEY = get_cache_key()
+
 tokenizer = AutoTokenizer.from_pretrained(
-    "CSSLab/commonsense-statement-dimension-reasoning", token=True
+    "CSSLab/commonsense-statement-dimension-reasoning", token=True, cache_dir=CACHE_DIR
 )
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 MODELS = {}
+
 for dimension in DIMENSIONS:
     model = AutoModelForSequenceClassification.from_pretrained(
         pretrained_model_name_or_path=f"CSSLab/commonsense-statement-dimension-{dimension}",
         token=True,
+        cache_dir=CACHE_DIR,  # Cache models locally
+        torch_dtype=(
+            torch.float16 if torch.cuda.is_available() else torch.float32
+        ),  # Use half precision on GPU
+        low_cpu_mem_usage=True,  # Optimize memory usage
     )
     model.eval()
-    MODELS[dimension] = model.to(DEVICE)
+
+    # Enable inference mode optimizations
+    model = torch.jit.optimize_for_inference(model.to(DEVICE))
+    MODELS[dimension] = model
     print(f"{bcolors.OKGREEN}Loaded model for {dimension}.{bcolors.ENDC}")
 
 
@@ -59,13 +82,18 @@ def classify_text(text: str) -> pd.Series:
         DEVICE
     )
     scores = dict()
-    for dimension in DIMENSIONS:
-        model = MODELS[dimension]
-        outputs = model(**inputs)
-        outputs = torch.softmax(outputs.logits, dim=1)
-        outputs = outputs[:, 1]
-        score = outputs.detach().cpu().numpy()[0]
-        scores[dimension] = int(score > 0.5)
+
+    # Use torch.no_grad() for inference to save memory and speed up
+    with torch.no_grad():
+        for dimension in DIMENSIONS:
+            model = MODELS[dimension]
+            outputs = model(**inputs)
+            outputs = torch.softmax(outputs.logits, dim=1)
+            outputs = outputs[:, 1]
+            score = outputs.detach().cpu().numpy()[0]
+            # Keep as float instead of converting to int
+            scores[dimension] = float(score)  # Changed from int(score > 0.5)
+
     return pd.Series(scores)
 
 
@@ -98,11 +126,9 @@ if __name__ == "__main__":
         exit()
 
     ratings_df = all_statements_df["statement"].swifter.apply(classify_text)
-
     all_statements_df = all_statements_df.join(ratings_df)
 
     new_ratings_df = pd.concat([old_ratings_df, all_statements_df], ignore_index=True)
-
     new_ratings_df.to_csv("features/ratings.csv", index=False)
 
     print(
