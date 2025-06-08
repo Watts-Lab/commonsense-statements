@@ -1,13 +1,15 @@
-import hashlib
-import os
-
-import gradio as gr
-import pandas as pd
-import swifter
 import torch
-from dimension_checker import get_unique_rows_by_hash, process_files
+import gradio as gr
+from transformers import (
+    AutoModelForSequenceClassification,
+    AutoTokenizer,
+)
+import os
+import swifter
+import pandas as pd
 from huggingface_hub import login
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from dimension_checker import process_files, get_unique_rows_by_hash
+import hashlib
 
 
 class bcolors:
@@ -59,19 +61,38 @@ DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 MODELS = {}
 
 for dimension in DIMENSIONS:
-    model = AutoModelForSequenceClassification.from_pretrained(
-        pretrained_model_name_or_path=f"CSSLab/commonsense-statement-dimension-{dimension}",
-        token=True,
-        cache_dir=CACHE_DIR,  # Cache models locally
-        torch_dtype=(
-            torch.float16 if torch.cuda.is_available() else torch.float32
-        ),  # Use half precision on GPU
-        low_cpu_mem_usage=True,  # Optimize memory usage
-    )
-    model.eval()
+    # Check if accelerate is available for memory optimizations
+    try:
+        import accelerate
 
-    # Enable inference mode optimizations
-    model = torch.jit.optimize_for_inference(model.to(DEVICE))
+        has_accelerate = True
+    except ImportError:
+        has_accelerate = False
+
+    # Configure model loading parameters based on available libraries
+    model_kwargs = {
+        "pretrained_model_name_or_path": f"CSSLab/commonsense-statement-dimension-{dimension}",
+        "token": True,
+        "cache_dir": CACHE_DIR,
+    }
+
+    # Add memory optimizations only if accelerate is available
+    if has_accelerate:
+        model_kwargs["low_cpu_mem_usage"] = True
+        if torch.cuda.is_available():
+            model_kwargs["torch_dtype"] = torch.float16
+
+    model = AutoModelForSequenceClassification.from_pretrained(**model_kwargs)
+    model.eval()
+    model = model.to(DEVICE)
+
+    # Only use JIT optimization if it's supported
+    try:
+        model = torch.jit.optimize_for_inference(model)
+    except Exception:
+        # JIT optimization might not be available for all models
+        pass
+
     MODELS[dimension] = model
     print(f"{bcolors.OKGREEN}Loaded model for {dimension}.{bcolors.ENDC}")
 
